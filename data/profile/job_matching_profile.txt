@@ -1,0 +1,34 @@
+Candidate profile for semantic job matching
+
+Core experience:
+Data Scientist with experience in Product Analytics, experimentation, causal inference, telemetry analysis, business intelligence, customer behavior analysis, marketing analytics, and data pipelines.
+
+Recent experience:
+Data Scientist at Meta Reality Labs (XR Tech DS), supporting Cloud Platform and Virtual Reality products. Experience with A/B testing, product metrics, platform performance measurement, cloud rendering performance, user engagement analysis, and Meta Quest telemetry data.
+
+Previous experience:
+Data Scientist Manager and Product Owner at Falabella Financiero, managing a team of data analysts and data scientists. Experience building customer lifecycle prediction models, prioritizing analytics projects, automating marketing processes, and analyzing customer behavior.
+
+Education:
+M.S. in Data Science from Duke University. Coursework includes Machine Learning, Deep Learning, NLP, Data Engineering, Causal Inference, Practical Data Science, Data Visualization, and Linear Algebra.
+
+Technical skills:
+Python, SQL, Machine Learning, Deep Learning, NLP, Causal Inference, A/B Testing, Product Analytics, Data Visualization, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, BigQuery, PostgreSQL, Tableau, Git, GitHub.
+
+Strong fit roles:
+Data Scientist, Product Analytics, Product Data Scientist, Analytics Engineer, Business Intelligence Engineer, Data Engineer, Applied Data Scientist, Experimentation Data Scientist, AI Product Analytics, ML Platform Analytics, AI Infrastructure Analytics, Analytics Engineering.
+
+Current interests:
+LLM evaluation, AI product evaluation, model evaluation, AI agents, retrieval-augmented generation (RAG), embeddings, semantic search, ranking systems, recommendation systems, AI-assisted analytics, applied machine learning systems, ML infrastructure, and practical applications of LLMs.
+
+Preferred work:
+Building products through data, experimentation, analytics, and AI. Interested in roles that combine technical analysis with product impact. Preference for practical applications over academic research.
+
+Preferred seniority:
+Early-career to mid-level individual contributor roles. Strong preference for positions where existing experience is a close match. Less interest in staff, principal, distinguished engineer/scientist, or highly specialized research roles.
+
+Lower priority roles:
+Research Scientist, Principal Scientist, robotics-focused roles, highly theoretical ML research roles, PhD-centric research positions, and pure software engineering roles with limited analytics or data science responsibilities.
+
+Job search preferences:
+Prefer positions with strong alignment to existing experience, reasonable interview preparation requirements, clear ownership of data or analytics problems, and opportunities to work on impactful products.
