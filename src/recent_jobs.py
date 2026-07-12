@@ -2,6 +2,16 @@ import glob
 import pandas as pd
 
 
+RECENT_JOBS_COLUMNS = [
+    "title",
+    "company",
+    "location",
+    "semantic_similarity",
+    "first_seen_date",
+    "url",
+]
+
+
 def build_recent_jobs():
     today = pd.Timestamp.today().normalize()
     yesterday = today - pd.Timedelta(days=1)
@@ -35,7 +45,7 @@ def build_recent_jobs():
         dfs.append(recent)
 
     if not dfs:
-        return pd.DataFrame()
+        return pd.DataFrame(columns=RECENT_JOBS_COLUMNS)
 
     result = pd.concat(dfs, ignore_index=True)
 

@@ -1,15 +1,13 @@
-import re
-from html import unescape
 import time
 
-import requests
 import pandas as pd
+import requests
 
 
 BASE_URL = "https://mercadolibre.eightfold.ai"
 SEARCH_URL = f"{BASE_URL}/api/pcsx/search"
 
-MAX_PAGES = 5  # 50 jobs más recientes
+MAX_PAGES = 5
 RESULTS_PER_PAGE = 10
 SLEEP_SECONDS = 1
 
@@ -22,6 +20,18 @@ HEADERS = {
 def format_date(timestamp):
     date = pd.to_datetime(timestamp, unit="s", errors="coerce")
     return date.strftime("%Y-%m-%d") if pd.notna(date) else None
+
+
+def is_chile_job(standardized_locations):
+    if not standardized_locations:
+        return False
+
+    return any(
+        str(location).upper().endswith(",CL")
+        or str(location).upper() == "CL"
+        for location in standardized_locations
+    )
+
 
 
 def scrape_mercadolibre():
@@ -56,20 +66,21 @@ def scrape_mercadolibre():
         for job in current_jobs:
             position_id = job.get("id")
             locations = job.get("locations", [])
+            standardized_locations = job.get("standardizedLocations", [])
+
+
+            if not is_chile_job(standardized_locations):
+                continue
 
             jobs.append({
                 "title": job.get("name"),
                 "team": job.get("department"),
                 "location": "; ".join(locations) if locations else None,
                 "posted_date": format_date(job.get("postedTs")),
-
                 "job_id": str(position_id),
                 "source": "mercadolibre",
-
                 "workplace_type": job.get("workLocationOption"),
-
                 "url": BASE_URL + job.get("positionUrl", ""),
-
                 "description": None,
             })
 
