@@ -27,8 +27,7 @@ def is_chile_job(standardized_locations):
         return False
 
     return any(
-        str(location).upper().endswith(",CL")
-        or str(location).upper() == "CL"
+        str(location).upper().split(",")[-1].strip() == "CL"
         for location in standardized_locations
     )
 
