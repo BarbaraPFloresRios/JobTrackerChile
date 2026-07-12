@@ -35,7 +35,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/raw/*.csv
+          git add data/raw/*.csv data/recent_jobs.csv README.md
 
           if git diff --cached --quiet; then
             echo "No changes to commit"

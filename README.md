@@ -4,7 +4,9 @@
 
 _Updated automatically from `data/recent_jobs.csv`._
 
-_No recent jobs found._
+| Title | Company | Location | Similarity | First Seen |
+|---|---|---|---:|---|
+| [Analista Senior de Performance Operacional - Mercado Envíos](https://mercadolibre.eightfold.ai/careers/job/42873686) | mercadolibre | Santiago,Chile | 0.1511 | 2026-07-12 |
 
 # About
 
