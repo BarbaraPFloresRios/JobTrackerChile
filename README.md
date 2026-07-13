@@ -18,6 +18,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Data Analyst](https://falabella.airavirtual.com/postula/rsBCaJz4wyE7N2PlK5QI?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.5043 | 2026-07-12 |
 | [Senior Customer Solutions Mgr, CSM SOLA](https://www.amazon.jobs/en/jobs/10412308/senior-customer-solutions-mgr-csm-sola) | amazon | CL, RM, Comuna De Providencia | 0.4984 | 2026-07-12 |
 | [Practicante Analista de Datos Maestros](https://falabella.airavirtual.com/postula/diZCZ5kN0HRqO0TCL8KQ?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4983 | 2026-07-12 |
+| [BI Engineer Cencosud Media](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14138?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4969 | 2026-07-12 |
 | [Tech Lead](https://falabella.airavirtual.com/postula/doFP1OwG32Q25nip1bNJ?logged_action=apply&register=true) | Falabella Financiero | Las Condes, Metropolitana, Chile | 0.4964 | 2026-07-12 |
 | [Data Specialist](https://falabella.airavirtual.com/postula/1wTdkF7EPpaLI1YIHM1c?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4950 | 2026-07-12 |
 | [AI Engineer](https://falabella.airavirtual.com/postula/cHHFFRZj5H2wBPtnhoo0?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4949 | 2026-07-12 |
@@ -30,7 +31,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Líder Gestión de Proyectos](https://falabella.airavirtual.com/postula/z153pD84tgVLAjvc5jCW?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4887 | 2026-07-12 |
 | [Práctica Data Analytics](https://falabella.airavirtual.com/postula/q2rb5GwKr13k340nW1Pz?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4887 | 2026-07-12 |
 | [Practicante de Marketing Fmedia](https://falabella.airavirtual.com/postula/mPlba61NU79qSOaWFX8U?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4884 | 2026-07-12 |
-| [Gerente de Logística y Abastecimiento Tienda IKEA](https://falabella.airavirtual.com/postula/7ew2rHSQnq9NVAwKw1Nt?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4875 | 2026-07-12 |
 
 # About
 
