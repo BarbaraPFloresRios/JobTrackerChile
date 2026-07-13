@@ -8,6 +8,7 @@ from src.generate_readme import generate_readme
 from scrapers.mercadolibre import scrape_mercadolibre
 from scrapers.uber import scrape_uber
 from scrapers.amazon import scrape_amazon
+from scrapers.falabella import scrape_falabella
 
 RAW_DATA_DIR = "data/raw"
 
@@ -21,6 +22,10 @@ UBER_OUTPUT_PATH = (
 
 AMAZON_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/amazon_jobs.csv"
+)
+
+FALABELLA_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/falabella_jobs.csv"
 )
 
 def normalize_key(series):
@@ -231,6 +236,7 @@ def run_pipeline():
         ("MercadoLibre", scrape_mercadolibre, MERCADOLIBRE_OUTPUT_PATH),
         ("Uber", scrape_uber, UBER_OUTPUT_PATH),
         ("Amazon", scrape_amazon, AMAZON_OUTPUT_PATH),
+        ("Falabella", scrape_falabella, FALABELLA_OUTPUT_PATH),
     ]
 
     scraped_jobs = []
