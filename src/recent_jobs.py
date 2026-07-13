@@ -31,10 +31,15 @@ def build_recent_jobs():
         if recent.empty:
             continue
 
+        if "company_name" in recent.columns:
+            recent["company"] = recent["company_name"].fillna(recent["source"])
+        else:
+            recent["company"] = recent["source"]
+
         recent = recent[
         [
             "title",
-            "source",
+            "company",
             "location",
             "semantic_similarity",
             "first_seen_date",
@@ -48,8 +53,6 @@ def build_recent_jobs():
         return pd.DataFrame(columns=RECENT_JOBS_COLUMNS)
 
     result = pd.concat(dfs, ignore_index=True)
-
-    result = result.rename(columns={"source": "company"})
 
     result = result.sort_values(
         ["first_seen_date", "semantic_similarity"],
