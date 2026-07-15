@@ -6,6 +6,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
+| [Human Resources Partner, LatAm, Builder Experience (BeXT)](https://www.amazon.jobs/en/jobs/10474981/human-resources-partner-latam-builder-experience-bext) | amazon | CL, RM, Comuna De Providencia | 0.4999 | 2026-07-15 |
 | [Gerente Planning Y Revenue Management](https://postulawalmartchile.cl/vacante/detalle/4422129/external) | Walmart Chile | Quilicura | 0.4890 | 2026-07-14 |
 | [Especialista Planner](https://postulawalmartchile.cl/vacante/detalle/4426774/external) | Walmart Chile | Santiago | 0.4693 | 2026-07-14 |
 | [Especialista de Inventarios, 42 hrs, IKEA Parque Arauco](https://falabella.airavirtual.com/postula/dfXUV8vwBmPG4Q8e2VmX?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4553 | 2026-07-14 |
@@ -30,7 +31,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Inventario CW, 25hrs, IKEA Parque Arauco](https://falabella.airavirtual.com/postula/txB39EqLFoagMuNuCvrh?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4015 | 2026-07-14 |
 | [Trainee de Seguridad Atención Probadores y Cajas Autoservicio 42 horas / Lunes a Viernes / Falabella Costanera](https://falabella.airavirtual.com/postula/Ccq0Jf5M2EtQsQzVB4cL?logged_action=apply&register=true) | Falabella Retail | Providencia, Metropolitana, Chile | 0.4010 | 2026-07-14 |
 | [Inventario CW, 42hrs, IKEA Parque Arauco](https://falabella.airavirtual.com/postula/4puVwdiq4VWKgDvpRivz?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.3967 | 2026-07-14 |
-| [Trainee de Seguridad Atención Probadores y Cajas Autoservicio 20 horas / Sábado y Domingo / Falabella Alto Las Condes](https://falabella.airavirtual.com/postula/NQfQslYvH3ye1a0OXT78?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3962 | 2026-07-14 |
 
 # About
 
