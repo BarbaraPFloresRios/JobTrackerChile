@@ -6,31 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Partner Development Manager Chile, Partner Sales and Development Latam](https://www.amazon.jobs/en/jobs/10472942/partner-development-manager-chile-partner-sales-and-development-latam) | amazon | CL, RM, Comuna De Providencia | 0.5137 | 2026-07-13 |
-| [UX manager](https://falabella.airavirtual.com/postula/Gv0SXgHAf03oi2G1lepB?logged_action=apply&register=true) | Falabella Retail | Santiago, Metropolitana, Chile | 0.4858 | 2026-07-13 |
-| [Senior Software Architect](https://falabella.airavirtual.com/postula/Rzp1hfXFF2uTsU8f8D0A?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.4800 | 2026-07-13 |
-| [Senior FullStack Software Engineer](https://falabella.airavirtual.com/postula/UZ7CPtTBswPbPVkm3XHP?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4793 | 2026-07-13 |
 | [Especialista de Inventarios, 42 hrs, IKEA Parque Arauco](https://falabella.airavirtual.com/postula/dfXUV8vwBmPG4Q8e2VmX?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4553 | 2026-07-14 |
 | [Digital Product Manager](https://falabella.airavirtual.com/postula/jKZUq5h5dTcHEx35Jr37?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4308 | 2026-07-14 |
 | [Práctica Profesional Ingeniero de Monetización](https://falabella.airavirtual.com/postula/2IsGhdaKBsjFHEN8I5Kf?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4295 | 2026-07-14 |
-| [Planner Perecibles Logística Supermercados Cencosud](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14494?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4236 | 2026-07-13 |
-| [Ingeniero/a de Administración](https://falabella.airavirtual.com/postula/CqxDZUvF9BvokwFjEObG?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4223 | 2026-07-13 |
+| [Project Manager de Gestión Logística](https://falabella.airavirtual.com/postula/BDF0RgZ6SeXd8BuaEwnD?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4287 | 2026-07-15 |
+| [Práctica Profesional – Practicante de Superficies (Gerencia Finanzas)](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14511?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4270 | 2026-07-15 |
+| [Práctica Profesional – Practicante de Administración (Gerencia Finanzas)](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14512?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4255 | 2026-07-15 |
 | [Analista Sr Torre de Control Automatización y Procesos](https://falabella.airavirtual.com/postula/K5zrbNWkoBYjSpszoIFk?logged_action=apply&register=true) | Falabella.com | Las Condes, Metropolitana, Chile | 0.4211 | 2026-07-14 |
 | [Administrativo/a Recepción Nacional Logística LOF1](https://falabella.airavirtual.com/postula/Vi6OnI6sgF3IG4mvNro0?logged_action=apply&register=true) | Falabella Retail | Cerrillos, Metropolitana, Chile | 0.4167 | 2026-07-14 |
-| [Práctica Profesional - Analista SAR Supermercados](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14497?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4120 | 2026-07-13 |
-| [Ejecutivo Integral, FT, CMR Arauco Maipú](https://falabella.airavirtual.com/postula/nHtAN1tGP0Sq4YWBMLv5?logged_action=apply&register=true) | Banco Falabella | Maipú, Metropolitana, Chile | 0.4100 | 2026-07-13 |
 | [Subgerencia de estrategia comercial para pagos digitales - Fintech](https://mercadolibre.eightfold.ai/careers/job/41903333) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4086 | 2026-07-14 |
 | [Práctica comercial CencosudMedia](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14500?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4036 | 2026-07-14 |
 | [Inventario CW, 25hrs, IKEA Parque Arauco](https://falabella.airavirtual.com/postula/txB39EqLFoagMuNuCvrh?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4015 | 2026-07-14 |
 | [Trainee de Seguridad Atención Probadores y Cajas Autoservicio 42 horas / Lunes a Viernes / Falabella Costanera](https://falabella.airavirtual.com/postula/Ccq0Jf5M2EtQsQzVB4cL?logged_action=apply&register=true) | Falabella Retail | Providencia, Metropolitana, Chile | 0.4010 | 2026-07-14 |
-| [Asesor/a de Clientes Especialista Marca Apple / 42 hrs. 5x2 Lunes a Viernes / Falabella Plaza Oeste](https://falabella.airavirtual.com/postula/lglfbXHIbqBSwmdI1o0V?logged_action=apply&register=true) | Falabella Retail | Cerrillos, Metropolitana, Chile | 0.3988 | 2026-07-13 |
-| [Business Analyst](https://falabella.airavirtual.com/postula/OE1jarSrU8l1C00tvD1c?logged_action=apply&register=true) | Banco Falabella | Santiago, Metropolitana, Chile | 0.3969 | 2026-07-13 |
 | [Inventario CW, 42hrs, IKEA Parque Arauco](https://falabella.airavirtual.com/postula/4puVwdiq4VWKgDvpRivz?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.3967 | 2026-07-14 |
 | [Trainee de Seguridad Atención Probadores y Cajas Autoservicio 20 horas / Sábado y Domingo / Falabella Alto Las Condes](https://falabella.airavirtual.com/postula/NQfQslYvH3ye1a0OXT78?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3962 | 2026-07-14 |
 | [Trainee de Seguridad Atención Probadores y Cajas Autoservicio 20 horas / Sábado y Domingo/ Falabella Alto Las Condes](https://falabella.airavirtual.com/postula/WdLnWzl2bFHyIDISCI8T?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3959 | 2026-07-14 |
 | [Practicante Control de Gestión Operacional](https://falabella.airavirtual.com/postula/6S0zETVe3kBuB68qaWpy?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3950 | 2026-07-14 |
 | [Analista Senior de Riesgo y Control Interno](https://falabella.airavirtual.com/postula/epyldMb4V6xRYxbJL4BY?logged_action=apply&register=true) | Tottus | Santiago, Metropolitana, Chile | 0.3944 | 2026-07-14 |
 | [Asesor/a de Clientes Jornada Media jornada tarde 30hrs 5x2 Tienda Carters Marina Arauco](https://falabella.airavirtual.com/postula/z1FaQMPeNPTMz8lwTAQn?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3934 | 2026-07-14 |
+| [Trainee de Seguridad Atención Probadores y Cajas Autoservicio 42 horas / Lunes a Viernes / Falabella Alto Las Condes](https://falabella.airavirtual.com/postula/6GSap0MFYHLbh4byxeLq?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3931 | 2026-07-14 |
+| [Guardia de Seguridad Full time/ Falabella Plaza Egaña](https://falabella.airavirtual.com/postula/HAQFEhd2eYXYbxMIjGwe?logged_action=apply&register=true) | Falabella Retail | La Reina, Metropolitana, Chile | 0.3925 | 2026-07-14 |
+| [Auxiliar de Abastecimiento 42 horas / Lunes a Viernes / Falabella Costanera](https://falabella.airavirtual.com/postula/1jkrjQvJfBFtpOUqDic3?logged_action=apply&register=true) | Falabella Retail | Providencia, Metropolitana, Chile | 0.3891 | 2026-07-14 |
+| [Arquitecto Coordinador Proyectos](https://falabella.airavirtual.com/postula/XiNhbMNdHbrLkZSdXGdj?logged_action=apply&register=true) | Tottus | Santiago, Metropolitana, Chile | 0.3890 | 2026-07-14 |
+| [Práctica Profesional – Ecommerce Paris](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14508?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.3816 | 2026-07-14 |
+| [Guardia de Seguridad Full time/ Falabella Alto Las Condes](https://falabella.airavirtual.com/postula/hSebXXBAmyJZKBOrO8FF?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3812 | 2026-07-14 |
+| [Jefe/a de Assurance](https://falabella.airavirtual.com/postula/jrgk4XYzSy1emzV0lSHX?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.3794 | 2026-07-15 |
 
 # About
 
