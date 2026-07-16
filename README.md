@@ -28,9 +28,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Cajero/a Sodimac HC Quilicura Jornada PT20 hrs](https://falabella.airavirtual.com/postula/HdRgAfmInDSj4Y4Z9zVE?logged_action=apply&register=true) | Sodimac | Quilicura, Metropolitana, Chile | 0.3603 | 2026-07-15 |
 | [Asesor/a de Cliente Especialista Americanino/Full Time Lunes a Viernes/ Falabella Plaza Norte](https://falabella.airavirtual.com/postula/dl5e5Gq9RpdfNh72OWyI?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3543 | 2026-07-16 |
 | [Asesor/a de Cliente Especialista Americanino / Jornada Part Time Sábado y Domingo / Falabella Plaza Norte](https://falabella.airavirtual.com/postula/CoG818qetTZPtpj92fj4?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3534 | 2026-07-16 |
+| [Guardia de Seguridad con OS10 / FT 5x2 42 Hrs. / Falabella Express Puente Alto](https://falabella.airavirtual.com/postula/sjxoMIs9eudtG6Sy2TwV?logged_action=apply&register=true) | Falabella Retail | Puente Alto, Metropolitana, Chile | 0.3512 | 2026-07-16 |
 | [Encargado Perecibles Dark Store - FT Jumbo Costanera](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14515?c=cencosud) | cencosud | CL | 0.3465 | 2026-07-15 |
 | [Asesor/a de Cliente Electro Jornada Part Time Sábado y Domingo/ Falabella Costanera](https://falabella.airavirtual.com/postula/TRo8Gi20sIzuWY2C6ZCS?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3342 | 2026-07-15 |
-| [Asesor/a de Cliente Media Jornada Tarde 30hrs semanales/ Falabella Rancagua](https://falabella.airavirtual.com/postula/Vm7vcPVIEfe5oEsvbroo?logged_action=apply&register=true) | Falabella Retail | Rancagua, Libertador B. O Higgins, Chile | 0.3329 | 2026-07-16 |
 
 # About
 
