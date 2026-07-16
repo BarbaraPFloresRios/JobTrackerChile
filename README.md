@@ -12,6 +12,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Práctica Profesional – Practicante de Administración (Gerencia Finanzas)](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14512?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4255 | 2026-07-15 |
 | [Asesor/a de Cliente Especialista/ Jornada Part Time Viernes y Sábado/Falabella Ahumada](https://falabella.airavirtual.com/postula/lqXRJzIFwbCPrHB9koAL?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4137 | 2026-07-16 |
 | [Tecnólogo (a) alimentos - Full Time Dark Store La Dehesa](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14519?c=cencosud) | cencosud | CL | 0.4092 | 2026-07-15 |
+| [NW Deployment Build Lead, DCC Communities ](https://www.amazon.jobs/en/jobs/10372827/nw-deployment-build-lead-dcc-communities) | amazon | CL, Santiago | 0.4090 | 2026-07-16 |
 | [Asesor/a de Cliente Especialista/ Jornada Part Time Viernes y  Sábado/Falabella Ahumada](https://falabella.airavirtual.com/postula/SuneEpqAyM4x4uFu3eFL?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4083 | 2026-07-16 |
 | [Asesor/a de Cliente Especialista/ Jornada Full Time 42 hrs Semanales/  Falabella Ahumada](https://falabella.airavirtual.com/postula/7VvBtIyYQjBgqmdgtopu?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3994 | 2026-07-16 |
 | [Practicante Comercial Juguetería Online](https://falabella.airavirtual.com/postula/v6Y5K2f5GHP6uUOfd3su?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3956 | 2026-07-15 |
@@ -30,7 +31,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Encargado Perecibles Dark Store - FT Jumbo Costanera](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14515?c=cencosud) | cencosud | CL | 0.3465 | 2026-07-15 |
 | [Asesor/a de Cliente Electro Jornada Part Time Sábado y Domingo/ Falabella Costanera](https://falabella.airavirtual.com/postula/TRo8Gi20sIzuWY2C6ZCS?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.3342 | 2026-07-15 |
 | [Asesor/a de Cliente Media Jornada Tarde 30hrs semanales/ Falabella Rancagua](https://falabella.airavirtual.com/postula/Vm7vcPVIEfe5oEsvbroo?logged_action=apply&register=true) | Falabella Retail | Rancagua, Libertador B. O Higgins, Chile | 0.3329 | 2026-07-16 |
-| [Asesor/a de Cliente SAE/ Media Jornada Tarde 25 horas semanales/ Falabella Antofagasta](https://falabella.airavirtual.com/postula/8S6mDd5Ep1w1qfj11Iys?logged_action=apply&register=true) | Falabella Retail | Antofagasta, Antofagasta, Chile | 0.3276 | 2026-07-16 |
 
 # About
 
