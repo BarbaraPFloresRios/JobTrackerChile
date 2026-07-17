@@ -6,7 +6,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Analyst](https://falabella.airavirtual.com/postula/7VBlP9itE50B0omKBQ84?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.5745 | 2026-07-12 |
+| [Data Analyst](https://falabella.airavirtual.com/postula/7VBlP9itE50B0omKBQ84?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.5748 | 2026-07-12 |
 | [Práctica Transformación Digital y Automatización RRHH](https://www.trabajaenccu.cl/trabajo/6075139-practica-transformacion-digital-y-automatizacion-rrhh) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5601 | 2026-07-16 |
 | [Práctica Desarrollo de agentes con IA](https://www.trabajaenccu.cl/trabajo/6078228-practica-desarrollo-de-agentes-con-ia) | CCU S.A | Las Condes, Metropolitana de Santiago, Chile | 0.5456 | 2026-07-16 |
 | [Práctica Consolidación Consolidación y Análisis de datos  - Renca](https://www.trabajaenccu.cl/trabajo/6078294-practica-consolidacion-consolidacion-y-analisis-de-datos-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.5382 | 2026-07-16 |
