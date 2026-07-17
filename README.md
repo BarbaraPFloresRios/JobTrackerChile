@@ -19,16 +19,16 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Práctica Optimización de Procesos - Renca](https://www.trabajaenccu.cl/trabajo/6078522-practica-optimizacion-de-procesos-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.5345 | 2026-07-16 |
 | [Práctica Optimización de Equipos de Mejora Continua](https://www.trabajaenccu.cl/trabajo/6078052-practica-optimizacion-de-equipos-de-mejora-continua) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.5322 | 2026-07-16 |
 | [Práctica Ingeniería en Procesos Logísticos - Quilicura](https://www.trabajaenccu.cl/trabajo/6098366-practica-ingenieria-en-procesos-logisticos-quilicura) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.5276 | 2026-07-16 |
-| [Technical Account Manager, ES - LATAM - SOLA - Chile](https://www.amazon.jobs/en/jobs/10426938/technical-account-manager-es-latam-sola-chile) | amazon | CL, RM, Comuna De Providencia | 0.5256 | 2026-07-12 |
 | [Ingeniero/a de Planificación Demanda - Las Condes](https://www.trabajaenccu.cl/trabajo/6098962-ingeniero-a-de-planificacion-demanda-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5256 | 2026-07-16 |
+| [Technical Account Manager, ES - LATAM - SOLA - Chile](https://www.amazon.jobs/en/jobs/10426938/technical-account-manager-es-latam-sola-chile) | amazon | CL, RM, Comuna De Providencia | 0.5256 | 2026-07-12 |
 | [Práctica Optimización de Procesos A&E](https://www.trabajaenccu.cl/trabajo/6078014-practica-optimizacion-de-procesos-a-e) | CCU | Renca, Metropolitana de Santiago, Chile | 0.5254 | 2026-07-16 |
 | [Práctica Optimización de Procesos - CD Renca](https://www.trabajaenccu.cl/trabajo/6078507-practica-optimizacion-de-procesos-cd-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.5224 | 2026-07-16 |
 | [Práctica Profesional Data  Strategy Trainee  Supply Chain](https://falabella.airavirtual.com/postula/P0puATyi6KO9JPrs83pf?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.5213 | 2026-07-12 |
 | [Práctica Excelencia Operacional y Automatización de Procesos](https://www.trabajaenccu.cl/trabajo/6075764-practica-excelencia-operacional-y-automatizacion-de-procesos) | CCU | Ovalle, Coquimbo, Chile | 0.5206 | 2026-07-16 |
 | [Práctica laboratorio de calidad - Renca](https://www.trabajaenccu.cl/trabajo/6078645-practica-laboratorio-de-calidad-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.5196 | 2026-07-16 |
 | [Práctica en Automatización y Control Industrial](https://www.trabajaenccu.cl/trabajo/6099570-practica-en-automatizacion-y-control-industrial) | CCU | Renca, Metropolitana de Santiago, Chile | 0.5179 | 2026-07-16 |
-| [Práctica Encargado de Existencias - San Bernardo](https://www.trabajaenccu.cl/trabajo/6078250-practica-encargado-de-existencias-san-bernardo) | CCU | San Bernardo, Metropolitana de Santiago, Chile | 0.5174 | 2026-07-16 |
 | [Analista de Administración y Finanzas - Manantial](https://www.trabajaenccu.cl/trabajo/6084871-analista-de-administracion-y-finanzas-manantial) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.5174 | 2026-07-16 |
+| [Práctica Encargado de Existencias - San Bernardo](https://www.trabajaenccu.cl/trabajo/6078250-practica-encargado-de-existencias-san-bernardo) | CCU | San Bernardo, Metropolitana de Santiago, Chile | 0.5174 | 2026-07-16 |
 | [Analista Excelencia Operacional](https://falabella.airavirtual.com/postula/XKMiTTBbKSMymwoVAIAh?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5169 | 2026-07-12 |
 | [Práctica Control de Gestión](https://www.trabajaenccu.cl/trabajo/6098173-practica-control-de-gestion) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5166 | 2026-07-16 |
 

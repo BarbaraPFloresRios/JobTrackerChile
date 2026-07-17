@@ -6,11 +6,29 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://ripleychile.pandape.computrabajo.com"
-SEARCH_URL = f"{BASE_URL}/Vacancies"
+SEARCH_URL = f"{BASE_URL}/ListVacancies"
 
 TARGET_COUNTRY = "Chile"
 
-MAX_PAGES = 400  # safety cap; ~185 pages of 20 jobs as of 2026-07
+# Pandapé category ids for professional/corporate roles. Store and
+# operational categories are deliberately excluded: 11 Ventas,
+# 16 Atención a clientes, 23 Servicios Generales/Aseo/Seguridad,
+# 15 Almacén/Logística, 22 Producción/Operarios, 17 CallCenter,
+# 20 Mantenimiento, 14 Otros (mostly guards and warehouse staff).
+INCLUDED_CATEGORIES = {
+    1: "Administración / Oficina",
+    2: "Diseño / Artes gráficas",
+    4: "Informática / Telecomunicaciones",
+    5: "Dirección / Gerencia",
+    6: "Contabilidad / Finanzas",
+    9: "Ingeniería",
+    13: "Recursos Humanos",
+    18: "Compras / Comercio Exterior",
+    21: "Mercadotecnia / Publicidad / Comunicación",
+}
+
+RESULTS_PER_PAGE = 20
+MAX_PAGES = 100  # safety cap per category
 
 # The site returns 403 for minimal user agents, so send
 # full browser-like headers.
@@ -20,14 +38,15 @@ HEADERS = {
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/126.0.0.0 Safari/537.36"
     ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept": "*/*",
     "Accept-Language": "es-CL,es;q=0.9",
+    "X-Requested-With": "XMLHttpRequest",
 }
 
 REQUEST_TIMEOUT = 30  # seconds
 MAX_RETRIES = 3
 RETRY_BACKOFF = 3  # seconds, multiplied by attempt number
-PAGE_REQUEST_DELAY = 0.2  # seconds between listing page requests
+REQUEST_DELAY = 0.3  # seconds between requests
 
 SPANISH_MONTHS = {
     "ene": 1,
@@ -49,7 +68,10 @@ def clean_text(text):
     if not text:
         return None
 
-    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\s*\n\s*", "\n", text)
+    text = text.strip()
+
     return text or None
 
 
@@ -129,7 +151,7 @@ def get_card_field(card, icon_class):
     return clean_text(icon_container.parent.get_text())
 
 
-def parse_card(card):
+def parse_card(card, category_name):
     href = card.get("href", "")
     match = re.search(r"/Detail/(\d+)", href)
 
@@ -149,6 +171,11 @@ def parse_card(card):
         date_tag.get_text() if date_tag else None
     )
 
+    modality = (
+        get_card_field(card, "icon-buildings")
+        or get_card_field(card, "icon-building-house")
+    )
+
     return {
         "title": title,
         "location": location,
@@ -161,10 +188,11 @@ def parse_card(card):
         "source": "ripley",
 
         "company_name": "Ripley",
+        "job_category": category_name,
 
         "schedule_type": get_card_field(card, "icon-clock"),
         "worker_type": get_card_field(card, "icon-sheet"),
-        "job_location_type": get_card_field(card, "icon-buildings"),
+        "job_location_type": modality,
         "vacancies": get_card_field(card, "icon-candidates"),
 
         "url": f"{BASE_URL}{href}",
@@ -174,41 +202,105 @@ def parse_card(card):
     }
 
 
-def scrape_ripley():
+def fetch_category_listings(session, category_id, category_name):
     jobs = []
 
-    session = requests.Session()
-
     for page in range(1, MAX_PAGES + 1):
-        params = {
+        body = {
+            "IdCategory1List": category_id,
             "PageNumber": page,
-            "PageSize": 20,
+            "PageSize": RESULTS_PER_PAGE,
         }
 
         response = request_with_retry(
             session,
-            "GET",
+            "POST",
             SEARCH_URL,
             headers=HEADERS,
-            params=params,
+            data=body,
             timeout=REQUEST_TIMEOUT,
         )
 
-        soup = BeautifulSoup(response.text, "html.parser")
+        data = response.json()
+        soup = BeautifulSoup(data.get("view", ""), "html.parser")
         cards = soup.select("a.card-vacancy")
 
         if not cards:
             break
 
-        print(f"Ripley page {page}: {len(cards)} jobs")
+        print(f"Ripley [{category_name}] page {page}: {len(cards)} jobs")
 
         for card in cards:
-            job = parse_card(card)
+            job = parse_card(card, category_name)
 
             if job:
                 jobs.append(job)
 
-        time.sleep(PAGE_REQUEST_DELAY)
+        if data.get("isLast"):
+            break
+
+        time.sleep(REQUEST_DELAY)
+
+    return jobs
+
+
+def fetch_description(session, job):
+    try:
+        response = request_with_retry(
+            session,
+            "GET",
+            job["url"],
+            headers=HEADERS,
+            timeout=REQUEST_TIMEOUT,
+        )
+    except requests.exceptions.RequestException:
+        print(f"Ripley: could not fetch detail for job {job['job_id']}.")
+        return job
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    description = soup.select_one("#description")
+    requirements = soup.select_one("#Requirements")
+    studies = soup.select_one("#Studies")
+
+    job["description"] = clean_text(
+        description.get_text("\n") if description else None
+    )
+    job["requirements"] = clean_text(
+        requirements.get_text("\n") if requirements else None
+    )
+    job["education"] = clean_text(
+        studies.get_text("\n") if studies else None
+    )
+
+    return job
+
+
+def scrape_ripley():
+    jobs = []
+    seen_ids = set()
+
+    session = requests.Session()
+
+    for category_id, category_name in INCLUDED_CATEGORIES.items():
+        listings = fetch_category_listings(
+            session, category_id, category_name
+        )
+
+        for job in listings:
+            if job["job_id"] in seen_ids:
+                continue
+
+            seen_ids.add(job["job_id"])
+            jobs.append(job)
+
+        time.sleep(REQUEST_DELAY)
+
+    print(f"Ripley: fetching details for {len(jobs)} jobs")
+
+    for job in jobs:
+        fetch_description(session, job)
+        time.sleep(REQUEST_DELAY)
 
     df = pd.DataFrame(jobs)
 
