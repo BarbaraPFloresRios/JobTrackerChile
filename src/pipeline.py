@@ -12,6 +12,7 @@ from scrapers.falabella import scrape_falabella
 from scrapers.cencosud import scrape_cencosud
 from scrapers.walmart import scrape_walmart
 from scrapers.ccu import scrape_ccu
+from scrapers.ripley import scrape_ripley
 
 RAW_DATA_DIR = "data/raw"
 
@@ -41,6 +42,10 @@ WALMART_OUTPUT_PATH = (
 
 CCU_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/ccu_jobs.csv"
+)
+
+RIPLEY_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/ripley_jobs.csv"
 )
 
 def normalize_key(series):
@@ -255,6 +260,7 @@ def run_pipeline():
         ("Cencosud", scrape_cencosud, CENCOSUD_OUTPUT_PATH),
         ("Walmart", scrape_walmart, WALMART_OUTPUT_PATH),
         ("CCU", scrape_ccu, CCU_OUTPUT_PATH),
+        ("Ripley", scrape_ripley, RIPLEY_OUTPUT_PATH),
     ]
 
     scraped_jobs = []
