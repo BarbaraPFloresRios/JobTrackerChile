@@ -27,6 +27,23 @@ INCLUDED_CATEGORIES = {
     21: "Mercadotecnia / Publicidad / Comunicación",
 }
 
+# Safety net for roles miscategorized under excluded categories
+# (e.g. "Planificador" postings filed under Atención a clientes):
+# keyword searches run across ALL categories, keeping only jobs
+# whose title matches KEYWORD_TITLE_PATTERN, since the site search
+# also matches descriptions and returns noise.
+KEYWORD_SEARCHES = [
+    "planificador",
+    "planificacion",
+    "demand",
+    "forecast",
+    "abastecimiento",
+]
+
+KEYWORD_TITLE_PATTERN = re.compile(
+    r"planif|demand|forecast|s&op|abastecim", re.IGNORECASE
+)
+
 RESULTS_PER_PAGE = 20
 MAX_PAGES = 100  # safety cap per category
 
@@ -202,12 +219,12 @@ def parse_card(card, category_name):
     }
 
 
-def fetch_category_listings(session, category_id, category_name):
+def fetch_listings(session, body_filter, label, category_name):
     jobs = []
 
     for page in range(1, MAX_PAGES + 1):
         body = {
-            "IdCategory1List": category_id,
+            **body_filter,
             "PageNumber": page,
             "PageSize": RESULTS_PER_PAGE,
         }
@@ -228,7 +245,7 @@ def fetch_category_listings(session, category_id, category_name):
         if not cards:
             break
 
-        print(f"Ripley [{category_name}] page {page}: {len(cards)} jobs")
+        print(f"Ripley [{label}] page {page}: {len(cards)} jobs")
 
         for card in cards:
             job = parse_card(card, category_name)
@@ -283,12 +300,38 @@ def scrape_ripley():
     session = requests.Session()
 
     for category_id, category_name in INCLUDED_CATEGORIES.items():
-        listings = fetch_category_listings(
-            session, category_id, category_name
+        listings = fetch_listings(
+            session,
+            {"IdCategory1List": category_id},
+            category_name,
+            category_name,
         )
 
         for job in listings:
             if job["job_id"] in seen_ids:
+                continue
+
+            seen_ids.add(job["job_id"])
+            jobs.append(job)
+
+        time.sleep(REQUEST_DELAY)
+
+    for keyword in KEYWORD_SEARCHES:
+        listings = fetch_listings(
+            session,
+            {"Keywords": keyword},
+            f"keyword: {keyword}",
+            None,
+        )
+
+        for job in listings:
+            if job["job_id"] in seen_ids:
+                continue
+
+            if not job["title"]:
+                continue
+
+            if not KEYWORD_TITLE_PATTERN.search(job["title"]):
                 continue
 
             seen_ids.add(job["job_id"])
