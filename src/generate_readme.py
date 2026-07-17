@@ -68,7 +68,7 @@ JobTracker automatically collects openings directly from company career pages, m
 * Track historical job data over time
 * Run automatically using GitHub Actions
 * Store structured datasets as CSV files
-* Export recent jobs from today and yesterday
+* Export recent jobs from the last 7 days
 * Semantic job matching using sentence embeddings
 * Configurable candidate profile for personalized ranking
 * Cosine similarity scoring between jobs and candidate profile

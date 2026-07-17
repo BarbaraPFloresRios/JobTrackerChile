@@ -11,10 +11,12 @@ RECENT_JOBS_COLUMNS = [
     "url",
 ]
 
+RECENT_DAYS = 7
+
 
 def build_recent_jobs():
     today = pd.Timestamp.today().normalize()
-    yesterday = today - pd.Timedelta(days=1)
+    cutoff = today - pd.Timedelta(days=RECENT_DAYS - 1)
 
     dfs = []
 
@@ -26,7 +28,7 @@ def build_recent_jobs():
             errors="coerce"
         ).dt.normalize()
 
-        recent = df[df["first_seen_date"].isin([today, yesterday])].copy()
+        recent = df[df["first_seen_date"] >= cutoff].copy()
 
         if recent.empty:
             continue
