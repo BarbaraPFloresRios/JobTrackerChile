@@ -6,7 +6,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Analyst](https://falabella.airavirtual.com/postula/7VBlP9itE50B0omKBQ84?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.5745 | 2026-07-12 |
+| [Data Analyst](https://falabella.airavirtual.com/postula/7VBlP9itE50B0omKBQ84?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.5748 | 2026-07-12 |
 | [Práctica Transformación Digital y Automatización RRHH](https://www.trabajaenccu.cl/trabajo/6075139-practica-transformacion-digital-y-automatizacion-rrhh) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5601 | 2026-07-16 |
 | [Práctica Desarrollo de agentes con IA](https://www.trabajaenccu.cl/trabajo/6078228-practica-desarrollo-de-agentes-con-ia) | CCU S.A | Las Condes, Metropolitana de Santiago, Chile | 0.5456 | 2026-07-16 |
 | [Práctica Consolidación Consolidación y Análisis de datos  - Renca](https://www.trabajaenccu.cl/trabajo/6078294-practica-consolidacion-consolidacion-y-analisis-de-datos-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.5382 | 2026-07-16 |
@@ -25,12 +25,12 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Analista Excelencia Operacional](https://falabella.airavirtual.com/postula/XKMiTTBbKSMymwoVAIAh?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5169 | 2026-07-12 |
 | [Práctica Gestión de Almacenes - Renca](https://www.trabajaenccu.cl/trabajo/6078306-practica-gestion-de-almacenes-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.5162 | 2026-07-16 |
 | [Práctica Inteligencia y Estrategia de Mercado - Las Condes](https://www.trabajaenccu.cl/trabajo/6075944-practica-inteligencia-y-estrategia-de-mercado-las-condes) | CCU CHILE | Las Condes, Metropolitana de Santiago, Chile | 0.5140 | 2026-07-16 |
-| [Partner Development Manager Chile, Partner Sales and Development Latam](https://www.amazon.jobs/en/jobs/10472942/partner-development-manager-chile-partner-sales-and-development-latam) | amazon | CL, RM, Comuna De Providencia | 0.5137 | 2026-07-13 |
 | [Práctica Optimización de Procesos - CD Renca](https://www.trabajaenccu.cl/trabajo/6078507-practica-optimizacion-de-procesos-cd-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.5137 | 2026-07-16 |
+| [Partner Development Manager Chile, Partner Sales and Development Latam](https://www.amazon.jobs/en/jobs/10472942/partner-development-manager-chile-partner-sales-and-development-latam) | amazon | CL, RM, Comuna De Providencia | 0.5137 | 2026-07-13 |
 | [AI Engineer](https://falabella.airavirtual.com/postula/cHHFFRZj5H2wBPtnhoo0?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.5124 | 2026-07-12 |
 | [Práctica en Inteligencia y Desarrollo Comercial - Las Condes](https://www.trabajaenccu.cl/trabajo/6074686-practica-en-inteligencia-y-desarrollo-comercial-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5105 | 2026-07-16 |
-| [KAM Supermercados CPCh](https://www.trabajaenccu.cl/trabajo/6086515-kam-supermercados-cpch) | CPCH | Las Condes, Metropolitana de Santiago, Chile | 0.5098 | 2026-07-16 |
 | [Ingeniero/a de Planificación Demanda - Las Condes](https://www.trabajaenccu.cl/trabajo/6098962-ingeniero-a-de-planificacion-demanda-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5098 | 2026-07-16 |
+| [KAM Supermercados CPCh](https://www.trabajaenccu.cl/trabajo/6086515-kam-supermercados-cpch) | CPCH | Las Condes, Metropolitana de Santiago, Chile | 0.5098 | 2026-07-16 |
 
 # About
 
