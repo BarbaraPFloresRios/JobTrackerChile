@@ -13,6 +13,12 @@ from scrapers.cencosud import scrape_cencosud
 from scrapers.walmart import scrape_walmart
 from scrapers.ccu import scrape_ccu
 from scrapers.ripley import scrape_ripley
+from scrapers.trabajando import (
+    scrape_smu,
+    scrape_andina,
+    scrape_embonor,
+    scrape_forus,
+)
 
 RAW_DATA_DIR = "data/raw"
 
@@ -46,6 +52,22 @@ CCU_OUTPUT_PATH = (
 
 RIPLEY_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/ripley_jobs.csv"
+)
+
+SMU_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/smu_jobs.csv"
+)
+
+ANDINA_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/andina_jobs.csv"
+)
+
+EMBONOR_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/embonor_jobs.csv"
+)
+
+FORUS_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/forus_jobs.csv"
 )
 
 # Titles to exclude across all companies: internships and
@@ -290,6 +312,10 @@ def run_pipeline():
         ("Walmart", scrape_walmart, WALMART_OUTPUT_PATH),
         ("CCU", scrape_ccu, CCU_OUTPUT_PATH),
         ("Ripley", scrape_ripley, RIPLEY_OUTPUT_PATH),
+        ("SMU", scrape_smu, SMU_OUTPUT_PATH),
+        ("Andina", scrape_andina, ANDINA_OUTPUT_PATH),
+        ("Embonor", scrape_embonor, EMBONOR_OUTPUT_PATH),
+        ("Forus", scrape_forus, FORUS_OUTPUT_PATH),
     ]
 
     scraped_jobs = []

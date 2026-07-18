@@ -1,61 +1,184 @@
 title,company,location,semantic_similarity,first_seen_date,url
 "Gerente de Tienda, Tottus Mall Plaza Tobalaba",Tottus,"Santiago, Metropolitana, Chile",0.3844,2026-07-18,https://falabella.airavirtual.com/postula/7MBXJ9uA3iERU2peEc1Y?logged_action=apply&register=true
 Guardia de Seguridad 42 horas 5x2 turno rotativo /Falabella Costanera,Falabella Retail,"Providencia, Metropolitana, Chile",0.351,2026-07-18,https://falabella.airavirtual.com/postula/D15y8rNfwRRkVfBkwhLz?logged_action=apply&register=true
+Ingeniero(a) Demand Planning,SMU,"Las Condes, Metropolitana de Santiago",0.4849,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/ingeniero-a-demand-planning/trabajo/6078004
 "Subject Matter Expert MM  IM, Datos Maestros",Mallplaza,"Huechuraba, Metropolitana, Chile",0.4846,2026-07-17,https://falabella.airavirtual.com/postula/yKhnymvoOHSCchFZ8waK?logged_action=apply&register=true
+Category Manager Junior - Gerencia Supermercado (Las Condes),Coca-Cola Embonor,"Las Condes, Metropolitana de Santiago",0.4539,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/category-manager-junior-gerencia-supermercado-las-condes/trabajo/6101720
+Administrador-Gerente de Tienda Retail -Curicó,SMU,"Curicó, Maule",0.4518,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-curico/trabajo/6076801
+Analista Capacity Planning & Quality,SMU,"Las Condes, Metropolitana de Santiago",0.4416,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/analista-capacity-planning-quality/trabajo/6099591
+Gerente/a - Administrador/a Local Retail- El Bosque RM,SMU,"El Bosque, Metropolitana de Santiago",0.4407,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-el-bosque-rm/trabajo/6099520
+Gerente/a - Administrador/a Local Retail Los Andes,SMU,"Los Andes, Valparaíso",0.4395,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-los-andes/trabajo/6101142
+Gerente/a - Administrador/a Local Retail Puerto Montt,SMU,"Puerto Montt, Los Lagos",0.4283,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-puerto-montt/trabajo/6097594
+Aprendiz Jefe/a de Local V Región- $650.000.-,SMU,"Valparaíso, Valparaíso",0.4273,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-v-region-650-000/trabajo/6102359
+Aprendiz Jefe/a de Local V Región- $650.000.-,SMU,"Valparaíso, Valparaíso",0.4273,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-v-region-650-000/trabajo/6084997
+Aprendiz Jefe/a de Local II Región- $650.000.-,SMU,"Calama, Antofagasta",0.4216,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-ii-region-650-000/trabajo/6101925
+Aprendiz Jefe/a de Local III Región- $650.000.-,SMU,"Copiapó, Atacama",0.4209,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-iii-region-650-000/trabajo/6102358
+Aprendiz Jefe/a de Local III Región- $650.000.-,SMU,"Copiapó, Atacama",0.4209,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-iii-region-650-000/trabajo/6085009
+Administrador-Gerente de Tienda Retail -Batuco,SMU,"Lampa, Metropolitana de Santiago",0.4207,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-batuco/trabajo/6073521
+Planner Importados,SMU,"Las Condes, Metropolitana de Santiago",0.4204,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/planner-importados/trabajo/6097751
+Administrador(a)/Gerente de Tienda-La Ligua,SMU,"La Ligua, Valparaíso",0.4177,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/administrador-a-gerente-de-tienda-la-ligua/trabajo/6085500
+Aprendiz Jefe/a de Local Región Metropolitana - $650.000.-,SMU,"Santiago, Metropolitana de Santiago",0.4157,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-region-metropolitana-650-000/trabajo/6102362
+Aprendiz Jefe/a de Local IX Región- $650.000.-,SMU,"Temuco, La Araucanía",0.4153,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-ix-region-650-000/trabajo/6101928
+Planificador de Mantenimiento (Arica),Coca-Cola Embonor,"Arica, Arica y Parinacota",0.4148,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/planificador-de-mantenimiento-arica/trabajo/6083601
+Administrador-Gerente de Tienda Retail -Estación Central,SMU,"Estación Central, Metropolitana de Santiago",0.4099,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-estacion-central/trabajo/6086396
+Gerente/a - Administrador/a Local Retail Calama,SMU,"Calama, Antofagasta",0.4097,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-calama/trabajo/6096364
+Aprendiz Jefe/a de Local XII Región- $650.000.-,SMU,"Punta Arenas, Magallanes y Antártica Chilena",0.4095,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-xii-region-650-000/trabajo/6101921
+Supervisor/a de Cajas Full Time- Talagante,SMU,"Talagante, Metropolitana de Santiago",0.4088,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/supervisor-a-de-cajas-full-time-talagante/trabajo/6086772
 Asesor/a de Clientes // Full time 42 hrs 5x2 rotativo// Mango Casa Costanera,Falabella Retail,"Las Condes, Metropolitana, Chile",0.4087,2026-07-17,https://falabella.airavirtual.com/postula/sHf26OU1xf5inxAmKs0v?logged_action=apply&register=true
+Aprendiz Jefe/a de Local VIII Región- $650.000.-,SMU,"Talcahuano, Biobío",0.4061,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-viii-region-650-000/trabajo/6101930
+Supervisor(a) de Seguridad - Región Metropolitana,SMU,"Santiago, Metropolitana de Santiago",0.4045,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/supervisor-a-de-seguridad-region-metropolitana/trabajo/6080238
 Asesor/a de Clientes// Jornada Part time 20 hrs sáb y dom// Tienda WolfHank CasaCostanera,Falabella Retail,"Las Condes, Metropolitana, Chile",0.4035,2026-07-17,https://falabella.airavirtual.com/postula/EoKevAZ5SCAyOhGz530z?logged_action=apply&register=true
+Aprendiz Jefe/a de Local VII Región- $650.000.-,SMU,"Talca, Maule",0.4033,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-vii-region-650-000/trabajo/6084999
+Gerente/a - Administrador/a Local Retail Rancagua,SMU,"Rancagua, Lib. Gral. Bdo. O'Higgins",0.4028,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-rancagua/trabajo/6097031
+Administrador-Gerente de Tienda Retail -La Unión,SMU,"La Unión, Los Ríos",0.4005,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-la-union/trabajo/6076815
 Data Architect- Banco Ripley,Ripley,Ofi. Alonso De Cordova 5320 - Producto Financiero,0.4,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/19906?c=ripley
 Analista de Gestión de Seguridad Ofensiva,Banco Falabella,"Las Condes, Metropolitana, Chile",0.3986,2026-07-17,https://falabella.airavirtual.com/postula/sTHJHxZYhXOulExeSe8U?logged_action=apply&register=true
 "Planificador de pedidos turno día, Lof1 San Bernardo",Falabella Retail,"San Bernardo, Metropolitana, Chile",0.3977,2026-07-17,https://falabella.airavirtual.com/postula/YKrRGETvO1vq6zvn8xRs?logged_action=apply&register=true
 Coordinador/a Servicios Ambientales,Mallplaza,"Huechuraba, Metropolitana, Chile",0.3972,2026-07-17,https://falabella.airavirtual.com/postula/Q1w5J9nUM9VXytsnOtJ4?logged_action=apply&register=true
+Supervisor de Logística (Talca),Coca-Cola Embonor,"Talca, Maule",0.3964,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/supervisor-de-logistica-talca/trabajo/6099358
+Aprendiz Jefe/a de Local XVI Región  - $650.000.-,SMU,"Chillán, Ñuble",0.3964,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-xvi-region-650-000/trabajo/6102363
 Product Manager Inteligencia Comercial Sr,Ripley,Ofi. Alonso De Cordova 5320 - Producto Financiero,0.3944,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/21266?c=ripley
+Aprendiz Jefe/a de Local RM- $650.000.-,SMU,"Santiago, Metropolitana de Santiago",0.3935,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-rm-650-000/trabajo/6084998
+Administrador/Gerente de Tienda Retail-Iquique,SMU,"Iquique, Tarapacá",0.3922,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-iquique/trabajo/6083615
 Jefe/a Reclamos y Solicitudes,Banco Falabella,"Las Condes, Metropolitana, Chile",0.3903,2026-07-17,https://falabella.airavirtual.com/postula/dDFAybawBJCBZNTwGz8V?logged_action=apply&register=true
 Asesor/a de Clientes// Media jornada tarde 30 hrs 5x2 rotativo// Sybilla Maipu,Falabella Retail,"Maipú, Metropolitana, Chile",0.3901,2026-07-17,https://falabella.airavirtual.com/postula/1zKViOwF2Rw80ZYLy49f?logged_action=apply&register=true
 Tax Strategy Analyst,cencosud,"Santiago, REGION METROPOLITANA, CL",0.3882,2026-07-17,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14529?c=cencosud
+Tesorero/a Full Time- La Ligua,SMU,"La Ligua, Valparaíso",0.3862,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/tesorero-a-full-time-la-ligua/trabajo/6085056
+Tesorero(a) Full Time 30 hrs - La Ligua,SMU,"La Ligua, Valparaíso",0.3853,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/tesorero-a-full-time-30-hrs-la-ligua/trabajo/6085479
+Aprendiz Jefe/a de Local X Región- $650.000.-,SMU,"Osorno, Los Lagos",0.3851,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-x-region-650-000/trabajo/6101941
+Aprendiz Jefe/a de Local XIV Región- $650.000.-,SMU,"Valdivia, Los Ríos",0.385,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-xiv-region-650-000/trabajo/6101937
 Operador de grúa LOF 1/ Turno Tarde rotativos/ Plazo Fijo,Falabella Retail,"San Bernardo, Metropolitana, Chile",0.3842,2026-07-17,https://falabella.airavirtual.com/postula/h8b2BrhIWuQ6RDPd6buy?logged_action=apply&register=true
+Subgerente(a) de Operaciones Logísticas,SMU Logística,"Pudahuel, Metropolitana de Santiago",0.3838,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/subgerente-a-de-operaciones-logisticas/trabajo/6075154
+Planificador de Mantenimiento (Concón),Coca-Cola Embonor,"Concon, Valparaíso",0.3834,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/planificador-de-mantenimiento-concon/trabajo/6072994
 Supervisor/a de Seguridad Jornada 42 hrs / 5x2 turnos rotativos /Falabella Arauco Maipú,Falabella Retail,"Santiago, Metropolitana, Chile",0.3823,2026-07-17,https://falabella.airavirtual.com/postula/4FpxzPjGVDZeQH6BvuhI?logged_action=apply&register=true
+Administrador/a de contratos y Soporte a Negocio (Procurement   No Retail),SMU,"Las Condes, Metropolitana de Santiago",0.3812,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/administrador-a-de-contratos-y-soporte-a-negocio-procurement-no-retail/trabajo/6082021
 Guardia de Seguridad / Full time 42 hrs sem/ Falabella  Ahumada,Falabella Retail,"Santiago, Metropolitana, Chile",0.3786,2026-07-17,https://falabella.airavirtual.com/postula/Ggn3iutyOw7nUBM0wbfP?logged_action=apply&register=true
+Ingeniero/a Devops,SMU,"Las Condes, Metropolitana de Santiago",0.3752,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/ingeniero-a-devops/trabajo/6075942
+Brand Manager - Experiencia en retail o consumo masivo,SMU,"Las Condes, Metropolitana de Santiago",0.3744,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/brand-manager-experiencia-en-retail-o-consumo-masivo/trabajo/6100003
+Product Manager B2B (Reemplazo Pre y Post Natal),SMU,"Las Condes, Metropolitana de Santiago",0.3744,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/product-manager-b2b-reemplazo-pre-y-post-natal/trabajo/6083585
 "Supervisor/a de Valores, FT, La Florida",Tottus,"Santiago, Metropolitana, Chile",0.3728,2026-07-17,https://falabella.airavirtual.com/postula/s3lwjgnZmgdu0q6vR16W?logged_action=apply&register=true
 Product Manager Mujer,Ripley,Ofi Cerro Colorado 5240 - Comercial,0.3725,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/20728?c=ripley
+Analista CRM Senior,SMU,"Las Condes, Metropolitana de Santiago",0.372,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/analista-crm-senior/trabajo/6086760
 "Jefe/a de Valores, FT,  Tottus Chamisero",Tottus,"Colina, Metropolitana, Chile",0.371,2026-07-17,https://falabella.airavirtual.com/postula/JQK86ijmEG2seb3PxNRS?logged_action=apply&register=true
+Supervisor(A) de Calidad (Concón),Coca-Cola Embonor,"Concon, Valparaíso",0.3705,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/supervisor-a-de-calidad-concon/trabajo/6080642
+Supervisor/a de Cajas Full Time Super 10- Ovalle,SMU,"Ovalle, Coquimbo",0.3704,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/supervisor-a-de-cajas-full-time-super-10-ovalle/trabajo/6081029
 Category Manager - Electro,Ripley,Ofi Cerro Colorado 5240 - Comercial,0.3703,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22534?c=ripley
+Ingeniero(a) de Estudios,SMU,"Las Condes, Metropolitana de Santiago",0.3696,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/ingeniero-a-de-estudios/trabajo/6076627
+Tesorero/a Part Time 20 hrs- La Ligua,SMU,"La Ligua, Valparaíso",0.3687,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/tesorero-a-part-time-20-hrs-la-ligua/trabajo/6085417
+Ingeniero(a) de Procesos,SMU,"Pudahuel, Metropolitana de Santiago",0.3683,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/ingeniero-a-de-procesos/trabajo/6095718
 Analista de Cobranza,Mallplaza,"Huechuraba, Metropolitana, Chile",0.3681,2026-07-17,https://falabella.airavirtual.com/postula/gjg3bcySis0Q056ww43b?logged_action=apply&register=true
+Supervisor(a) de Mantenimiento - RM (Plazo Fijo),SMU,"Santiago, Metropolitana de Santiago",0.3677,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/supervisor-a-de-mantenimiento-rm-plazo-fijo/trabajo/6100427
+Gestión de Personas RRHH -La Ligua,SMU,"La Ligua, Valparaíso",0.3672,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/gestion-de-personas-rrhh-la-ligua/trabajo/6085519
+Administrativo(A) de Mantención (Arica),Coca-Cola Embonor,"Arica, Arica y Parinacota",0.3671,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/administrativo-a-de-mantencion-arica/trabajo/6095195
+Product Manager Medios de Pago,SMU,"Las Condes, Metropolitana de Santiago",0.3657,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/product-manager-medios-de-pago/trabajo/6083618
+Retail Marketing,Forus S.A.,"Las Condes, Metropolitana de Santiago",0.3626,2026-07-17,https://forus.trabajando.cl/trabajo-empleo/retail-marketing/trabajo/6098736
+Jefe de Sala/ Supermercado Batuco,SMU,"Lampa, Metropolitana de Santiago",0.3626,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-de-sala-supermercado-batuco/trabajo/6077797
+Encargado de Recepción Supermercado- La Ligua,SMU,"La Ligua, Valparaíso",0.3622,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/encargado-de-recepcion-supermercado-la-ligua/trabajo/6085524
+Jefe de Sala Retail-Puchuncaví,SMU,"Puchuncaví, Valparaíso",0.3619,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-de-sala-retail-puchuncavi/trabajo/6078125
+Aprendiz Jefe/a de Local VI Región  - $650.000.-,SMU,"Rancagua, Lib. Gral. Bdo. O'Higgins",0.3617,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-vi-region-650-000/trabajo/6102365
+Aprendiz Jefe/a de Local VI Región- $650.000.-,SMU,"Rancagua, Lib. Gral. Bdo. O'Higgins",0.3612,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/aprendiz-jefe-a-de-local-vi-region-650-000/trabajo/6085001
+Analista QA - Experiencia en E-Commerce,SMU,"Las Condes, Metropolitana de Santiago",0.3587,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/analista-qa-experiencia-en-e-commerce/trabajo/6101541
+Jefe/a de Sala Retail-Valparaiso,SMU,"Valparaíso, Valparaíso",0.3566,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-de-sala-retail-valparaiso/trabajo/6080137
+Asistente De Venta Full Time Under Armour Coquimbo,Forus S.A.,"Coquimbo, Coquimbo",0.3565,2026-07-17,https://forus.trabajando.cl/trabajo-empleo/asistente-de-venta-full-time-under-armour-coquimbo/trabajo/6098852
+Jefe/a de Sala Retail- Quillota,SMU,"Quillota, Valparaíso",0.3562,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-de-sala-retail-quillota/trabajo/6083928
 Tax Strategy & Transformation Leader,cencosud,"Santiago, REGION METROPOLITANA, CL",0.3542,2026-07-17,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14528?c=cencosud
+Jefe de Sala Retail-Quilicura,SMU,"Quilicura, Metropolitana de Santiago",0.3538,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-de-sala-retail-quilicura/trabajo/6078164
+Supervisor(a) de Seguridad - CD Lo Aguirre (Pudahuel),SMU,"Santiago, Metropolitana de Santiago",0.3531,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/supervisor-a-de-seguridad-cd-lo-aguirre-pudahuel/trabajo/6097459
 PM Rentabilidad E2E,Ripley,Ofi Cerro Colorado 5240 - Internet,0.353,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22136?c=ripley
+Jefe/a de Sala Retail-Linares,SMU,"Linares, Maule",0.3527,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-de-sala-retail-linares/trabajo/6096581
 "Jefe/a de Ventas, Full Time, Falabella Mall Plaza Copiapó",Falabella Retail,"Copiapó, Atacama, Chile",0.3522,2026-07-17,https://falabella.airavirtual.com/postula/fdCZxQ0heZbeDVZ6HLo9?logged_action=apply&register=true
+Jefe/a de Sala Retail-La Ligua,SMU,"La Ligua, Valparaíso",0.3509,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-de-sala-retail-la-ligua/trabajo/6085485
 Especialista de Retrieval - Mercado Ads,mercadolibre,"Buenos Aires,Argentina; san pablo brasil; chile",0.3492,2026-07-17,https://mercadolibre.eightfold.ai/careers/job/43190095
+Analista Control de Gestión,SMU,"Las Condes, Metropolitana de Santiago",0.3492,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/analista-control-de-gestion/trabajo/6100677
+COORDINADOR DE PRODUCCION COMUNA DE RENGO,Vital Aguas S.A.,"Rancagua, Lib. Gral. Bdo. O'Higgins",0.3488,2026-07-17,https://koandina.trabajando.cl/trabajo-empleo/coordinador-de-produccion-comuna-de-rengo/trabajo/6102470
+Analista Comercial (En Terreno),SMU,"Las Condes, Metropolitana de Santiago",0.3476,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/analista-comercial-en-terreno/trabajo/6075634
+Jefe/a de Sala ventas Retail Pucón,SMU,"Pucón, La Araucanía",0.3474,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-de-sala-ventas-retail-pucon/trabajo/6097336
+Comprador(a) Abastecimiento Senior,SMU,"Las Condes, Metropolitana de Santiago",0.3467,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/comprador-a-abastecimiento-senior/trabajo/6083713
 Asist. Serv.al Cliente y Vtas. Sodimac Antofagasta 42 horas,Sodimac,"Antofagasta, Antofagasta, Chile",0.3461,2026-07-17,https://falabella.airavirtual.com/postula/HUsD2rqbnpB2wiYgdm4f?logged_action=apply&register=true
+Comprador/a Abastecimiento,SMU,"Las Condes, Metropolitana de Santiago",0.3458,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/comprador-a-abastecimiento/trabajo/6077290
+Administrador/Gerente Tienda Retail- La Serena,SMU,"La Serena, Coquimbo",0.3448,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-tienda-retail-la-serena/trabajo/6096629
+MECANICO,Vital Jugos S.A.,"Renca, Metropolitana de Santiago",0.3443,2026-07-17,https://koandina.trabajando.cl/trabajo-empleo/mecanico/trabajo/6086051
 Analista Senior de Diseño de Ingeniería - Mercado Envíos,mercadolibre,"Santiago,Chile",0.3424,2026-07-17,https://mercadolibre.eightfold.ai/careers/job/43194626
+Jefe de Sala Retail- Colina,SMU,"Colina, Metropolitana de Santiago",0.3417,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-de-sala-retail-colina/trabajo/6077924
+Jefe/a Sala ventas Retail- Temuco,SMU,"Temuco, La Araucanía",0.3407,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-temuco/trabajo/6099860
+Jefe/a de Sala Retail- Independencia,SMU,"Independencia, Metropolitana de Santiago",0.3384,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-de-sala-retail-independencia/trabajo/6084699
+Jefe/a Sala ventas Retail- Zona sur RM,SMU,"San Bernardo, Metropolitana de Santiago",0.3381,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-zona-sur-rm/trabajo/6095756
+Auxiliar de Picking - Concón (Temporada Alta),Coca-Cola Embonor,"Concon, Valparaíso",0.3374,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/auxiliar-de-picking-concon-temporada-alta/trabajo/6100303
+Maestro(a) en Mantenimiento Polifuncional V Región (Reemplazo),SMU,"Viña del Mar, Valparaíso",0.3373,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/maestro-a-en-mantenimiento-polifuncional-v-region-reemplazo/trabajo/6095663
+Analista Clientes,SMU,"Las Condes, Metropolitana de Santiago",0.3369,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/analista-clientes/trabajo/6100041
+Analista Pagos y Contratos,SMU,"Las Condes, Metropolitana de Santiago",0.3358,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/analista-pagos-y-contratos/trabajo/6097860
+Jefe/a Sala ventas Retail- Punta Arenas,SMU,"Punta Arenas, Magallanes y Antártica Chilena",0.3346,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-punta-arenas/trabajo/6098775
 Gerente de Administración y Payroll para Mercado Envíos,mercadolibre,"Región Metropolitana de Santiago,Chile",0.3343,2026-07-17,https://mercadolibre.eightfold.ai/careers/job/41726802
+Analista de inventario de tienda,SMU,"Las Condes, Metropolitana de Santiago",0.3335,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/analista-de-inventario-de-tienda/trabajo/6097324
+Coordinador(a) de Proyectos de Ingeniería,SMU,"Santiago, Metropolitana de Santiago",0.3313,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/coordinador-a-de-proyectos-de-ingenieria/trabajo/6073115
 Category Manager - Decohogar,Ripley,Ofi Cerro Colorado 5240 - Comercial,0.3303,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22546?c=ripley
+Tesorero/a Full time Unimarc Los Muermos,SMU,"Los Muermos, Los Lagos",0.3292,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/tesorero-a-full-time-unimarc-los-muermos/trabajo/6080150
+Jefe(A) de Calidad e Inocuidad (Arica),Coca-Cola Embonor,"Arica, Arica y Parinacota",0.3277,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/jefe-a-de-calidad-e-inocuidad-arica/trabajo/6076897
 Analista de Operaciones - Mercado Envios,mercadolibre,"Región del Biobío,Chile",0.3272,2026-07-17,https://mercadolibre.eightfold.ai/careers/job/43141994
+Jefe/a Sala ventas Retail- Maipu,SMU,"Maipú, Metropolitana de Santiago",0.3262,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-maipu/trabajo/6095480
 Analista de Operaciones Financieras(R),Ripley,Tda Florida Center (Gesic) - Riesgo,0.326,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/14815?c=ripley
+Subgerente(a) Negocio - Categorías de Consumo Masivo,SMU,"Las Condes, Metropolitana de Santiago",0.323,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/subgerente-a-negocio-categorias-de-consumo-masivo/trabajo/6095673
+Jefe/a Tienda   Alvi Gabriela (Puente Alto),SMU,"Puente Alto, Metropolitana de Santiago",0.3228,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-tienda-alvi-gabriela-puente-alto/trabajo/6095742
 Ingeniero de Inteligencia Artificial,Ripley,Ofi. Alonso De Cordova 5320 - Producto Financiero,0.3224,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22184?c=ripley
 Analista Rentabilidad E2E,Ripley,Ofi Cerro Colorado 5240 - Internet,0.3224,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22140?c=ripley
+Asistente de Bodega (Arica),Coca-Cola Embonor,"Arica, Arica y Parinacota",0.3223,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/asistente-de-bodega-arica/trabajo/6101095
 Analista de Contratos,Ripley,Ofi. Alonso De Cordova 5320 - Finanzas,0.3219,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/21335?c=ripley
+Jefe/a de Sala Retail-La Florida,SMU,"La Florida, Metropolitana de Santiago",0.3199,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-de-sala-retail-la-florida/trabajo/6080133
+Jefe/a Sala ventas Retail- San Joaquin,SMU,"San Joaquín, Metropolitana de Santiago",0.3193,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-san-joaquin/trabajo/6098762
+Jefe/a Sala ventas Retail- Llay Llay,SMU,"Llayllay, Valparaíso",0.319,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-llay-llay/trabajo/6099491
+Analista de Incentivos Variables (Talca),Coca-Cola Embonor,"Talca, Maule",0.3184,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/analista-de-incentivos-variables-talca/trabajo/6085178
+Jefe de Sala Retail Alvi Concha y Toro (Puente Alto),SMU,"Puente Alto, Metropolitana de Santiago",0.3178,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-de-sala-retail-alvi-concha-y-toro-puente-alto/trabajo/6089189
 Tax Specialist,mercadolibre,"Región Metropolitana de Santiago,Chile",0.3172,2026-07-17,https://mercadolibre.eightfold.ai/careers/job/43221247
+Maestro(a) en Mantenimiento Polifuncional - Concepción,SMU,"Concepción, Biobío",0.316,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/maestro-a-en-mantenimiento-polifuncional-concepcion/trabajo/6080079
+Jefe/a Sala ventas Retail- La Cisterna,SMU,"La Cisterna, Metropolitana de Santiago",0.3156,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-la-cisterna/trabajo/6099695
+Arquitecto(a) Coordinador(a) de Permisos,SMU,"Las Condes, Metropolitana de Santiago",0.3152,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/arquitecto-a-coordinador-a-de-permisos/trabajo/6101131
+Supervisor(a) Control Cajas - RM,SMU,"Santiago, Metropolitana de Santiago",0.3138,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/supervisor-a-control-cajas-rm/trabajo/6071747
 Ingeniero de Datos Cobranza,Ripley,Ofi. Estado 91 - Producto Financiero,0.3111,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/21927?c=ripley
+Desarrollador(a) Fullstack,SMU,"Las Condes, Metropolitana de Santiago",0.3107,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/desarrollador-a-fullstack/trabajo/6084287
+Expedicionario(A) - Plazo Fijo (Concón),Coca-Cola Embonor,"Concon, Valparaíso",0.3105,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/expedicionario-a-plazo-fijo-concon/trabajo/6083950
+"Desarrollador(a) Fullstack SR - Presencial, Las Condes",SMU,"Las Condes, Metropolitana de Santiago",0.3103,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/desarrollador-a-fullstack-sr-presencial-las-condes/trabajo/6084289
+Jefe/a Sala ventas Retail- Angol,SMU,"Angol, La Araucanía",0.3102,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-angol/trabajo/6098782
+Jefe/a Sala ventas Retail- Chañaral,SMU,"Chañaral, Atacama",0.3089,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-chanaral/trabajo/6097421
+Jefe/a de Sala ventas Retail Ñuñoa,SMU,"Ñuñoa, Metropolitana de Santiago",0.3077,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-de-sala-ventas-retail-nunoa/trabajo/6097398
 Analista Control de Servicios,Ripley,Ofi. Alonso De Cordova 5320 - Producto Financiero,0.3073,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/11983?c=ripley
+Product Owner Comercial (Reemplazo Pre y Post Natal),SMU,"Las Condes, Metropolitana de Santiago",0.3068,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/product-owner-comercial-reemplazo-pre-y-post-natal/trabajo/6083603
+Jefe/a Sala ventas Retail- Copiapo,SMU,"Copiapó, Atacama",0.3053,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-ventas-retail-copiapo/trabajo/6098778
+Prevencionista de Riesgos - Unimarc Región Metropolitana,Unimarc,"Santiago, Metropolitana de Santiago",0.3053,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/prevencionista-de-riesgos-unimarc-region-metropolitana/trabajo/6086548
+Expedicionario(A) (Arica),Coca-Cola Embonor,"Iquique, Tarapacá",0.3013,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/expedicionario-a-arica/trabajo/6095192
+Jefe/a de Operaciones de Compra y Administración de Contratos ,SMU,"Las Condes, Metropolitana de Santiago",0.3001,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-de-operaciones-de-compra-y-administracion-de-contratos/trabajo/6082012
+Operadores(as) Sala Ventas -Full time 40 hrs y Part Time 30 hrs Las Condes,SMU,"Las Condes, Metropolitana de Santiago",0.2987,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/operadores-as-sala-ventas-full-time-40-hrs-y-part-time-30-hrs-las-condes/trabajo/6074896
+Operador General de Equipos (Concón),Coca-Cola Embonor,"Concon, Valparaíso",0.2984,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/operador-general-de-equipos-concon/trabajo/6077749
 Jefe Comercial PT Ripley Plaza Egaña,Ripley,Tda Plaza Egaña - Ventas,0.2978,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/20697?c=ripley
 Líder de Revenue Management,Ripley,Ofi. Alonso De Cordova 5320 - Producto Financiero,0.297,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/21725?c=ripley
+Auxiliar de Grúa y Picking - Concón (Temporada Alta),Coca-Cola Embonor,"Concon, Valparaíso",0.2957,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/auxiliar-de-grua-y-picking-concon-temporada-alta/trabajo/6100310
+Jefe(a) Desarrollo Inmobiliario,SMU,"Las Condes, Metropolitana de Santiago",0.2955,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-desarrollo-inmobiliario/trabajo/6102025
 Asistente Comercial Banco,Ripley,Tda Crillon - Comercial,0.2908,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/14438?c=ripley
 Jefe de Proyectos y Gestión Comercial,Ripley,Ofi. Alonso De Cordova 5320 - Gerencia,0.2901,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/21236?c=ripley
+Jefe de Sala Retail Alvi- Peñalolén,SMU,"Peñalolén, Metropolitana de Santiago",0.2896,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-de-sala-retail-alvi-penalolen/trabajo/6097297
+KAM VANS ,Vans,"Las Condes, Metropolitana de Santiago",0.2883,2026-07-17,https://forus.trabajando.cl/trabajo-empleo/kam-vans/trabajo/6099574
 Asistente Comercial Banco(R),Ripley,Tda Concepcion Castellon - Comercial,0.2868,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/14652?c=ripley
 Asistente Comercial Banco(R),Ripley,Tda San Bernardo - Comercial,0.2866,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/13606?c=ripley
+Jefe de Tienda Retail- Aysén,SMU,"Aysén, Aysén",0.2862,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-de-tienda-retail-aysen/trabajo/6077944
 Ejecutivo de Venta Producto Financiero(R),Ripley,Tda Chillan (Gesic) - Nuevos Clientes,0.2845,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/14403?c=ripley
 Ejecutivo de Venta Producto Financiero(R),Ripley,Tda Plaza Vespucio (Gesic) - Nuevos Clientes,0.2845,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/14530?c=ripley
 Ejecutivo de Venta Producto Financiero(R),Ripley,Tda Rancagua (Gesic) - Avance,0.2844,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/14641?c=ripley
+Electrónico Turno (Arica),Coca-Cola Embonor,"Arica, Arica y Parinacota",0.2826,2026-07-17,https://embonor.trabajando.cl/trabajo-empleo/electronico-turno-arica/trabajo/6075223
 Ejecutivo Comercial,Ripley,Tda Iquique - Comercial,0.281,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/14670?c=ripley
+Jefe/a de Tienda Parfois Parque Arauco,Forus S.A.,"Las Condes, Metropolitana de Santiago",0.2788,2026-07-17,https://forus.trabajando.cl/trabajo-empleo/jefe-a-de-tienda-parfois-parque-arauco/trabajo/6090429
 Asistente Comercial Internet Reemplazo Pre y Post Natal,Ripley,Ofi Cerro Colorado 5240 - Comercial,0.2784,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/15563?c=ripley
 Ejecutivo de Venta Producto Financiero,Ripley,Tda Costanera Center (Gesic) - Nuevos Clientes,0.2775,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/5536?c=ripley
+Diseñador(a) Gráfico(a),Forus S.A.,"Las Condes, Metropolitana de Santiago",0.2764,2026-07-17,https://forus.trabajando.cl/trabajo-empleo/disenador-a-grafico-a/trabajo/6088360
 Supervisor de Seguridad,Ripley,Tda Talca - Seguridad,0.2737,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/17733?c=ripley
+Auditor/a de Calidad e Inocuidad Alimentaria (Terreno),SMU,"Santiago, Metropolitana de Santiago",0.2726,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/auditor-a-de-calidad-e-inocuidad-alimentaria-terreno/trabajo/6100797
 Asistente Comercial Pt 18,Ripley,Tda Plaza Oeste (Gesic) - Sucursales,0.2711,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/14642?c=ripley
+Subgerente(a) de Riesgo Operacional y Fraude,SMU,"Las Condes, Metropolitana de Santiago",0.2694,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/subgerente-a-de-riesgo-operacional-y-fraude/trabajo/6075916
 Analista Finanzas Corporativas,Ripley,Ofi. Alonso De Cordova 5320 - Finanzas,0.2667,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/20511?c=ripley
 Ejecutivo de Venta Producto Finan PT 18,Ripley,Tda Plaza Huechuraba (Gesic) - Nuevos Clientes,0.2652,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/12417?c=ripley
 Analista Prevención de Lavado de Activos,Ripley,Ofi. Alonso De Cordova 5320 - Riesgo,0.2565,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/11480?c=ripley
 Guardia de seguridad 4X3 Full-time Copiapo,Ripley,Tda Copiapó - Seguridad,0.2561,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/13889?c=ripley
 Guardia Interno Tiendas Part Time - San Fernando,Ripley,Tda San Fernando - Seguridad,0.2525,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/16157?c=ripley
 Encargado de Mantención,Ripley,Tda Estacion Central - Mantencion,0.2509,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/19792?c=ripley
+Jefe/a Sala Super 10-Estación Central,SMU,"Estación Central, Metropolitana de Santiago",0.2476,2026-07-17,https://smu.trabajando.cl/trabajo-empleo/jefe-a-sala-super-10-estacion-central/trabajo/6095301
 Asistente Apoyo Campaña SG,Ripley,Tda La Calera - Ventas,0.2469,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/13464?c=ripley
 Asistente Comercial JP 25,Ripley,Tda Costanera Center (Gesic) - Sucursales,0.2426,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/14655?c=ripley
 Vigilantes,Ripley,Tda Chillan - Seguridad,0.2378,2026-07-17,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/5666?c=ripley
