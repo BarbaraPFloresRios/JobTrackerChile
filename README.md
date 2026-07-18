@@ -6,7 +6,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Analyst](https://falabella.airavirtual.com/postula/7VBlP9itE50B0omKBQ84?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.5748 | 2026-07-12 |
+| [Data Analyst](https://falabella.airavirtual.com/postula/7VBlP9itE50B0omKBQ84?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.5745 | 2026-07-12 |
 | [Technical Account Manager, ES - LATAM - SOLA - Chile](https://www.amazon.jobs/en/jobs/10426938/technical-account-manager-es-latam-sola-chile) | amazon | CL, RM, Comuna De Providencia | 0.5256 | 2026-07-12 |
 | [Analista Excelencia Operacional](https://falabella.airavirtual.com/postula/XKMiTTBbKSMymwoVAIAh?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5169 | 2026-07-12 |
 | [Partner Development Manager Chile, Partner Sales and Development Latam](https://www.amazon.jobs/en/jobs/10472942/partner-development-manager-chile-partner-sales-and-development-latam) | amazon | CL, RM, Comuna De Providencia | 0.5137 | 2026-07-13 |
@@ -23,11 +23,11 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Administrador-Gerente de Tienda Retail -Curicó](https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-curico/trabajo/6076801) | SMU | Curicó, Maule | 0.4963 | 2026-07-17 |
 | [Ingeniero/a de Procesos - Quilicura](https://www.trabajaenccu.cl/trabajo/6075826-ingeniero-a-de-procesos-quilicura) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.4959 | 2026-07-16 |
 | [BI Engineer Cencosud Media](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14138?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4947 | 2026-07-12 |
-| [Senior Machine Learning Engineer](https://falabella.airavirtual.com/postula/aGrX7xH3YNRgbcVr7MOs?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4921 | 2026-07-12 |
 | [Data Engineer](https://falabella.airavirtual.com/postula/B0mhxr6BuYEx8tIth8Wi?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4921 | 2026-07-12 |
 | [Senior Customer Solutions Mgr, CSM SOLA](https://www.amazon.jobs/en/jobs/10412308/senior-customer-solutions-mgr-csm-sola) | amazon | CL, RM, Comuna De Providencia | 0.4909 | 2026-07-12 |
 | [Senior Performance Specialist](https://falabella.airavirtual.com/postula/TYKFN37I7QUsTisO7s7K?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4909 | 2026-07-12 |
 | [Data Analyst Jr.](https://falabella.airavirtual.com/postula/b5mUx2bHt0xLdyZfAvJC?logged_action=apply&register=true) | Banco Falabella | Santiago, Metropolitana, Chile | 0.4902 | 2026-07-12 |
+| [Senior Machine Learning Engineer](https://falabella.airavirtual.com/postula/aGrX7xH3YNRgbcVr7MOs?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4894 | 2026-07-12 |
 | [Gerente Planning Y Revenue Management](https://postulawalmartchile.cl/vacante/detalle/4422129/external) | Walmart Chile | Quilicura | 0.4890 | 2026-07-14 |
 | [Ingeniero/a de Planificación (Distribución) - Quilicura](https://www.trabajaenccu.cl/trabajo/6077925-ingeniero-a-de-planificacion-distribucion-quilicura) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.4877 | 2026-07-16 |
 | [Data Scientist](https://falabella.airavirtual.com/postula/MUjzv0XWbHKSPJ5JcoNi?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4873 | 2026-07-12 |
