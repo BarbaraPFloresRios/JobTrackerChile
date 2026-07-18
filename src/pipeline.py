@@ -48,6 +48,28 @@ RIPLEY_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/ripley_jobs.csv"
 )
 
+# Titles to exclude across all companies: internships and
+# operational store roles (cajero/a, vendedor/a).
+EXCLUDED_TITLE_PATTERN = r"pr[aá]ctic|cajer|vendedor"
+
+
+def drop_excluded_titles(jobs):
+    if jobs.empty or "title" not in jobs.columns:
+        return jobs
+
+    excluded = jobs["title"].astype(str).str.contains(
+        EXCLUDED_TITLE_PATTERN,
+        case=False,
+        regex=True,
+        na=False,
+    )
+
+    if excluded.any():
+        print(f"Excluding {excluded.sum()} jobs with internship titles")
+
+    return jobs[~excluded]
+
+
 def normalize_key(series):
     return (
         series
@@ -89,6 +111,12 @@ def save_jobs(current_jobs, output_path, company=""):
 
     today = pd.Timestamp.today().strftime("%Y-%m-%d")
 
+    current_jobs = drop_excluded_titles(current_jobs)
+
+    if current_jobs.empty:
+        print(f"{company}: no jobs left after title exclusions; skipping.")
+        return pd.DataFrame()
+
     current_jobs = current_jobs.copy()
     current_jobs[dedupe_key] = normalize_key(current_jobs[dedupe_key])
     current_jobs["last_seen_date"] = today
@@ -96,6 +124,7 @@ def save_jobs(current_jobs, output_path, company=""):
 
     if os.path.exists(output_path):
         old_jobs = pd.read_csv(output_path)
+        old_jobs = drop_excluded_titles(old_jobs)
 
         if "position_id" in old_jobs.columns:
             old_jobs["position_id"] = (
