@@ -18,6 +18,7 @@ from scrapers.trabajando import (
     scrape_andina,
     scrape_embonor,
     scrape_forus,
+    scrape_rosen,
 )
 
 RAW_DATA_DIR = "data/raw"
@@ -68,6 +69,10 @@ EMBONOR_OUTPUT_PATH = (
 
 FORUS_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/forus_jobs.csv"
+)
+
+ROSEN_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/rosen_jobs.csv"
 )
 
 # Titles to exclude across all companies: internships and
@@ -316,6 +321,7 @@ def run_pipeline():
         ("Andina", scrape_andina, ANDINA_OUTPUT_PATH),
         ("Embonor", scrape_embonor, EMBONOR_OUTPUT_PATH),
         ("Forus", scrape_forus, FORUS_OUTPUT_PATH),
+        ("Rosen", scrape_rosen, ROSEN_OUTPUT_PATH),
     ]
 
     scraped_jobs = []

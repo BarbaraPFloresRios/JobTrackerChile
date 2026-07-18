@@ -277,3 +277,12 @@ def scrape_forus():
         source="forus",
         company_fallback="Forus",
     )
+
+
+def scrape_rosen():
+    return scrape_trabajando_portal(
+        host="rosen.trabajando.cl",
+        id_dominio=2870,
+        source="rosen",
+        company_fallback="Rosen",
+    )
