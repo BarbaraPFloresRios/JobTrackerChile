@@ -25,8 +25,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Senior FullStack Software Engineer](https://falabella.airavirtual.com/postula/UZ7CPtTBswPbPVkm3XHP?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4793 | 2026-07-13 |
 | [Gerente/a - Administrador/a Local Retail Puerto Montt](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-puerto-montt/trabajo/6097594) | SMU | Puerto Montt, Los Lagos | 0.4753 | 2026-07-17 |
 | [Gerente/a - Administrador/a Local Retail Los Andes](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-los-andes/trabajo/6101142) | SMU | Los Andes, Valparaíso | 0.4752 | 2026-07-17 |
-| [Coordinador/a Sistemas de Calidad - Coinco](https://www.trabajaenccu.cl/trabajo/6097037-coordinador-a-sistemas-de-calidad-coinco) | CCU | Coinco, Lib. Gral. Bdo. O'Higgins, Chile | 0.4709 | 2026-07-16 |
 | [Administrador-Gerente de Tienda Retail -Batuco](https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-batuco/trabajo/6073521) | SMU | Lampa, Metropolitana de Santiago | 0.4709 | 2026-07-17 |
+| [Coordinador/a Sistemas de Calidad - Coinco](https://www.trabajaenccu.cl/trabajo/6097037-coordinador-a-sistemas-de-calidad-coinco) | CCU | Coinco, Lib. Gral. Bdo. O'Higgins, Chile | 0.4709 | 2026-07-16 |
 | [Especialista Planner](https://postulawalmartchile.cl/vacante/detalle/4426774/external) | Walmart Chile | Santiago | 0.4693 | 2026-07-14 |
 | [Jefe de Planificación Logística - Las Condes](https://www.trabajaenccu.cl/trabajo/6101802-jefe-de-planificacion-logistica-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4691 | 2026-07-16 |
 | [Administrador(a)/Gerente de Tienda-La Ligua](https://smu.trabajando.cl/trabajo-empleo/administrador-a-gerente-de-tienda-la-ligua/trabajo/6085500) | SMU | La Ligua, Valparaíso | 0.4684 | 2026-07-17 |
