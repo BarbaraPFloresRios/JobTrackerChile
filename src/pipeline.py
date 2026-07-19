@@ -19,6 +19,15 @@ from scrapers.trabajando import (
     scrape_embonor,
     scrape_forus,
     scrape_rosen,
+    scrape_ahumada,
+    scrape_carozzi,
+    scrape_salcobrand,
+    scrape_pf,
+    scrape_tricot,
+    scrape_abc,
+    scrape_casaideas,
+    scrape_soprole,
+    scrape_watts,
 )
 
 RAW_DATA_DIR = "data/raw"
@@ -73,6 +82,42 @@ FORUS_OUTPUT_PATH = (
 
 ROSEN_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/rosen_jobs.csv"
+)
+
+AHUMADA_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/ahumada_jobs.csv"
+)
+
+CAROZZI_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/carozzi_jobs.csv"
+)
+
+SALCOBRAND_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/salcobrand_jobs.csv"
+)
+
+PF_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/pf_jobs.csv"
+)
+
+TRICOT_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/tricot_jobs.csv"
+)
+
+ABC_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/abc_jobs.csv"
+)
+
+CASAIDEAS_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/casaideas_jobs.csv"
+)
+
+SOPROLE_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/soprole_jobs.csv"
+)
+
+WATTS_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/watts_jobs.csv"
 )
 
 # Titles to exclude across all companies: internships and
@@ -322,6 +367,15 @@ def run_pipeline():
         ("Embonor", scrape_embonor, EMBONOR_OUTPUT_PATH),
         ("Forus", scrape_forus, FORUS_OUTPUT_PATH),
         ("Rosen", scrape_rosen, ROSEN_OUTPUT_PATH),
+        ("Ahumada", scrape_ahumada, AHUMADA_OUTPUT_PATH),
+        ("Carozzi", scrape_carozzi, CAROZZI_OUTPUT_PATH),
+        ("Salcobrand", scrape_salcobrand, SALCOBRAND_OUTPUT_PATH),
+        ("PF", scrape_pf, PF_OUTPUT_PATH),
+        ("Tricot", scrape_tricot, TRICOT_OUTPUT_PATH),
+        ("abc", scrape_abc, ABC_OUTPUT_PATH),
+        ("Casaideas", scrape_casaideas, CASAIDEAS_OUTPUT_PATH),
+        ("Soprole", scrape_soprole, SOPROLE_OUTPUT_PATH),
+        ("Watts", scrape_watts, WATTS_OUTPUT_PATH),
     ]
 
     scraped_jobs = []

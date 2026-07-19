@@ -286,3 +286,84 @@ def scrape_rosen():
         source="rosen",
         company_fallback="Rosen",
     )
+
+
+def scrape_ahumada():
+    return scrape_trabajando_portal(
+        host="ahumada.trabajando.cl",
+        id_dominio=4076,
+        source="ahumada",
+        company_fallback="Farmacias Ahumada",
+    )
+
+
+def scrape_carozzi():
+    return scrape_trabajando_portal(
+        host="carozzi.trabajando.cl",
+        id_dominio=2317,
+        source="carozzi",
+        company_fallback="Carozzi",
+    )
+
+
+def scrape_salcobrand():
+    return scrape_trabajando_portal(
+        host="salcobrand.trabajando.cl",
+        id_dominio=269,
+        source="salcobrand",
+        company_fallback="Salcobrand",
+    )
+
+
+def scrape_pf():
+    return scrape_trabajando_portal(
+        host="pf.trabajando.cl",
+        id_dominio=3663,
+        source="pf",
+        company_fallback="PF Alimentos",
+    )
+
+
+def scrape_tricot():
+    return scrape_trabajando_portal(
+        host="tricot.trabajando.cl",
+        id_dominio=245,
+        source="tricot",
+        company_fallback="Tricot",
+    )
+
+
+def scrape_abc():
+    return scrape_trabajando_portal(
+        host="abcdin.trabajando.cl",
+        id_dominio=3677,
+        source="abc",
+        company_fallback="abc",
+    )
+
+
+def scrape_casaideas():
+    return scrape_trabajando_portal(
+        host="casaideas.trabajando.cl",
+        id_dominio=1353,
+        source="casaideas",
+        company_fallback="Casaideas",
+    )
+
+
+def scrape_soprole():
+    return scrape_trabajando_portal(
+        host="soprole.trabajando.cl",
+        id_dominio=55,
+        source="soprole",
+        company_fallback="Soprole",
+    )
+
+
+def scrape_watts():
+    return scrape_trabajando_portal(
+        host="watts.trabajando.cl",
+        id_dominio=865,
+        source="watts",
+        company_fallback="Watts",
+    )
