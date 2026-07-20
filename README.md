@@ -8,8 +8,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 |---|---|---|---:|---|
 | [KAM Supermercados CPCh](https://www.trabajaenccu.cl/trabajo/6086515-kam-supermercados-cpch) | CPCH | Las Condes, Metropolitana de Santiago, Chile | 0.5098 | 2026-07-16 |
 | [Ingeniero/a de Planificación Demanda - Las Condes](https://www.trabajaenccu.cl/trabajo/6098962-ingeniero-a-de-planificacion-demanda-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5098 | 2026-07-16 |
-| [Planner Retail Media](https://salcobrand.trabajando.cl/trabajo-empleo/planner-retail-media/trabajo/6101267) | Salcobrand | Providencia, Metropolitana de Santiago | 0.5040 | 2026-07-17 |
+| [Planner Retail Media](https://salcobrand.trabajando.cl/trabajo-empleo/planner-retail-media/trabajo/6103405) | Salcobrand | Providencia, Metropolitana de Santiago | 0.5090 | 2026-07-20 |
 | [Analista Contable Trainee - Las Condes](https://www.trabajaenccu.cl/trabajo/6099749-analista-contable-trainee-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5035 | 2026-07-16 |
+| [Planner Retail Media](https://salcobrand.trabajando.cl/trabajo-empleo/planner-retail-media/trabajo/6101267) | Salcobrand | Providencia, Metropolitana de Santiago | 0.5026 | 2026-07-17 |
 | [Coordinador/a SIG/MPD - Coinco](https://www.trabajaenccu.cl/trabajo/6084675-coordinador-a-sig-mpd-coinco) | CCU | Coinco, Lib. Gral. Bdo. O'Higgins, Chile | 0.5016 | 2026-07-16 |
 | [Human Resources Partner, LatAm, Builder Experience (BeXT)](https://www.amazon.jobs/en/jobs/10474981/human-resources-partner-latam-builder-experience-bext) | amazon | CL, RM, Comuna De Providencia | 0.4999 | 2026-07-15 |
 | [Administrador-Gerente de Tienda Retail -Curicó](https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-curico/trabajo/6076801) | SMU | Curicó, Maule | 0.4963 | 2026-07-17 |
@@ -19,6 +20,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Subject Matter Expert MM  IM, Datos Maestros](https://falabella.airavirtual.com/postula/yKhnymvoOHSCchFZ8waK?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4846 | 2026-07-17 |
 | [Gerente/a - Administrador/a Local Retail- El Bosque RM](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-el-bosque-rm/trabajo/6099520) | SMU | El Bosque, Metropolitana de Santiago | 0.4832 | 2026-07-17 |
 | [Category Planner](https://ahumada.trabajando.cl/trabajo-empleo/category-planner/trabajo/6101644) | Farmacias Ahumada S.A. | Huechuraba, Metropolitana de Santiago | 0.4804 | 2026-07-17 |
+| [Líder Asistencia Ventas y Suministros, IKEA Parque Arauco](https://falabella.airavirtual.com/postula/Jb4WvlNmCPOXuIIZ6Foi?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4756 | 2026-07-20 |
 | [Gerente/a - Administrador/a Local Retail Puerto Montt](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-puerto-montt/trabajo/6097594) | SMU | Puerto Montt, Los Lagos | 0.4753 | 2026-07-17 |
 | [Gerente/a - Administrador/a Local Retail Los Andes](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-los-andes/trabajo/6101142) | SMU | Los Andes, Valparaíso | 0.4752 | 2026-07-17 |
 | [Administrador-Gerente de Tienda Retail -Batuco](https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-batuco/trabajo/6073521) | SMU | Lampa, Metropolitana de Santiago | 0.4709 | 2026-07-17 |
@@ -28,9 +30,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Administrador(a)/Gerente de Tienda-La Ligua](https://smu.trabajando.cl/trabajo-empleo/administrador-a-gerente-de-tienda-la-ligua/trabajo/6085500) | SMU | La Ligua, Valparaíso | 0.4684 | 2026-07-17 |
 | [Jefe/a de operaciones envasado - Renca](https://www.trabajaenccu.cl/trabajo/6083075-jefe-a-de-operaciones-envasado-renca) | CCU CHILE | Renca, Metropolitana de Santiago, Chile | 0.4651 | 2026-07-16 |
 | [Gruero/a Operario - Plasco](https://www.trabajaenccu.cl/trabajo/6075963-gruero-a-operario-plasco) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4648 | 2026-07-16 |
-| [Administrador/Gerente de Tienda Retail-Iquique](https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-iquique/trabajo/6083615) | SMU | Iquique, Tarapacá | 0.4600 | 2026-07-17 |
 | [Administrador-Gerente de Tienda Retail -Estación Central](https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-estacion-central/trabajo/6086396) | SMU | Estación Central, Metropolitana de Santiago | 0.4594 | 2026-07-17 |
-| [Ingeniero/a Control de Gestión Financiero - Las Condes](https://www.trabajaenccu.cl/trabajo/6076296-ingeniero-a-control-de-gestion-financiero-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4588 | 2026-07-16 |
 
 # About
 
