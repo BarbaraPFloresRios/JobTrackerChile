@@ -1,4 +1,24 @@
 title,team,location,city,state,posted_date,job_id,source,first_seen_date,last_seen_date,semantic_similarity,job_category,worker_type,schedule_type,company_name,education,country,experience_level,application_deadline,url,description_short,description,requirements
+Arquitecto/a de Ciberseguridad - Las Condes,Otra Área,"Las Condes, Metropolitana de Santiago, Chile",Las Condes,Metropolitana de Santiago,2026-07-21,6099716,ccu,2026-07-16,2026-07-21,0.4585,Especialista,,Mixta (Teletrabajo + Presencial),CCU,Técnico profesional superior,Chile,2,2026-09-07,https://www.trabajaenccu.cl/trabajo/6099716-arquitecto-a-de-ciberseguridad-las-condes,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
+Estamos en búsqueda de un/a Arquitecto/a de Ciberseguridad para desempeñarse en nuestro edificio corporativo ubicado en la comuna de Las Condes.
+El propósito del cargo es diseñar e implementar la arquitectura de ciberseguridad para los entornos corporativos (IT) y servicios en la nube de la Compañía, mediante la aplicación de directrices de seguridad por diseño, modelos Zero Trust y marcos de trabajo globales. Todo ello con el fin de resguardar la continuidad operacional, mitigar riesgos técnicos, asegurar la confidencialidad de la información y potenciar la resiliencia tecnológica de CCU.
+Principales funciones:
+Elaborar y mantener la arquitectura de referencia de ciberseguridad para entornos TI, Cloud y nuevos proyectos, aplicando principios de seguridad por diseño, modelo Zero Trust y marcos internacionales como NIST CSF 2.0 e ISO 27001. 
+Evaluar e integrar nuevas tecnologías y definir estándares de configuración segura, con el objetivo de reducir posibles puntos de entrada de ataques antes del despliegue en producción.. 
+Realizar ejercicios de modelado de amenazas y revisiones de seguridad en los procesos de desarrollo, en coordinación con el Centro de Operaciones de Ciberseguridad. 
+Brindar asesoría especializada a los equipos de infraestructura, desarrollo y operaciones, traduciendo los riesgos técnicos en impactos organizacionales para elevar el desempeño preventivo.
+Evaluar la arquitectura actual con una mirada crítica y de mejora continua, identificando brechas y proponiendo diseños que fortalezcan la seguridad sobre ambientes on premise y en la nube (GCP). 
+Elaborar reportes y métricas de madurez de seguridad para la Jefatura de Arquitectura y el CISO, proponer lineamientos de seguridad para tecnologías emergentes, como Inteligencia Artificial y criptografía post-cuántica.
+Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferencias de las personas, promoviendo un entorno diverso e integrador, para así contribuir a un mejor vivir. Por esto, te agradecemos que nos compartas si necesitas adaptación en alguna etapa del proceso de postulación.
+¡Te invitamos a SER CCU!","Requisitos:
+Formación en Ingeniería en Informática, Ciberseguridad, Conectividad y Redes, Telemática o carrera afín.
+Al menos 2 años de experiencia específica en funciones de arquitectura o diseño seguro, dentro de una trayectoria en ciberseguridad.
+Conocimiento de marcos de trabajo y cumplimiento en ciberseguridad (NIST CSF, ISO 27001).
+Manejo de arquitectura de ciberseguridad en ambientes de nube e híbridos, seguridad por diseño y modelos Zero Trust.
+Experiencia en modelado de amenazas y seguridad en entornos DevSecOps.
+Disponibilidad para desempeñarse de forma híbrida en Las Condes, con movilidad a nivel nacional
+Experiencia previa en empresas industriales o productivas, con conocimiento de seguridad en entornos OT (ISA/IEC 62443, Modelo Purdue).
+Manejo del ecosistema Google Cloud (GCP).Certificaciones como CISSP, GICSP, ISA/IEC 62443 o Cloud (deseable)"
 Asistente Administrativo/a - Quilicura,Otra Área,"Quilicura, Metropolitana de Santiago, Chile",Quilicura,Metropolitana de Santiago,2026-07-20,6097627,ccu,2026-07-16,2026-07-21,0.4381,Administrativo,,Jornada Completa,CCU,Técnico medio/ colegio técnico,Chile,3,2026-08-31,https://www.trabajaenccu.cl/trabajo/6097627-asistente-administrativo-a-quilicura,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
 Estamos es búsqueda de nuestro/a próximo/a Asistente Administrativo/a para CreCCU, ubicado en Quilicura.
 Principales Funciones:
@@ -177,26 +197,6 @@ Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferenci
 Enseñanza media técnico profesional completa y/o superior relacionado al cargo 
 Disponibilidad para trabajar en turnos rotativos
 Residir en Salamanca"
-Arquitecto/a de Ciberseguridad - Las Condes,Otra Área,"Las Condes, Metropolitana de Santiago, Chile",Las Condes,Metropolitana de Santiago,2026-07-09,6099716,ccu,2026-07-16,2026-07-21,0.4577,Especialista,,Mixta (Teletrabajo + Presencial),CCU,Técnico profesional superior,Chile,2,2026-09-07,https://www.trabajaenccu.cl/trabajo/6099716-arquitecto-a-de-ciberseguridad-las-condes,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
-Estamos en búsqueda de un/a Arquitecto/a de Ciberseguridad para desempeñarse en nuestro edificio corporativo ubicado en la comuna de Las Condes.
-El propósito del cargo es diseñar e implementar la arquitectura de ciberseguridad para los entornos corporativos (IT) y servicios en la nube de la Compañía, mediante la aplicación de directrices de seguridad por diseño, modelos Zero Trust y marcos de trabajo globales. Todo ello con el fin de resguardar la continuidad operacional, mitigar riesgos técnicos, asegurar la confidencialidad de la información y potenciar la resiliencia tecnológica de CCU.
-Principales funciones:
-Elaborar y mantener la arquitectura de referencia de ciberseguridad para entornos TI, Cloud y nuevos proyectos, aplicando principios de seguridad por diseño, modelo Zero Trust y marcos internacionales como NIST CSF 2.0 e ISO 27001. 
-Evaluar e integrar nuevas tecnologías y definir estándares de configuración segura, con el objetivo de reducir posibles puntos de entrada de ataques antes del despliegue en producción.. 
-Realizar ejercicios de modelado de amenazas y revisiones de seguridad en los procesos de desarrollo, en coordinación con el Centro de Operaciones de Ciberseguridad. 
-Brindar asesoría especializada a los equipos de infraestructura, desarrollo y operaciones, traduciendo los riesgos técnicos en impactos organizacionales para elevar el desempeño preventivo.
-Evaluar la arquitectura actual con una mirada crítica y de mejora continua, identificando brechas y proponiendo diseños que fortalezcan la seguridad sobre ambientes on premise y en la nube (GCP). 
-Elaborar reportes y métricas de madurez de seguridad para la Jefatura de Arquitectura y el CISO, proponer lineamientos de seguridad para tecnologías emergentes, como Inteligencia Artificial y criptografía post-cuántica.
-Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferencias de las personas, promoviendo un entorno diverso e integrador, para así contribuir a un mejor vivir. Por esto, te agradecemos que nos compartas si necesitas adaptación en alguna etapa del proceso de postulación.
-¡Te invitamos a SER CCU!","Requisitos:
-Formación en Ingeniería en Informática, Ciberseguridad, Conectividad y Redes, Telemática o carrera afín.
-Al menos 2 años de experiencia específica en funciones de arquitectura o diseño seguro, dentro de una trayectoria en ciberseguridad.
-Conocimiento de marcos de trabajo y cumplimiento en ciberseguridad (NIST CSF, ISO 27001).
-Manejo de arquitectura de ciberseguridad en ambientes de nube e híbridos, seguridad por diseño y modelos Zero Trust.
-Experiencia en modelado de amenazas y seguridad en entornos DevSecOps.
-Disponibilidad para desempeñarse de forma híbrida en Las Condes, con movilidad a nivel nacional
-Experiencia previa en empresas industriales o productivas, con conocimiento de seguridad en entornos OT (ISA/IEC 62443, Modelo Purdue).
-Manejo del ecosistema Google Cloud (GCP).Certificaciones como CISSP, GICSP, ISA/IEC 62443 o Cloud (deseable)"
 Chequeador - Calama,Otra Área,"Calama, Antofagasta, Chile",Calama,Antofagasta,2026-07-08,6099953,ccu,2026-07-16,2026-07-21,0.3551,Supervisor,,Jornada Completa,Transportes CCU,Técnico profesional superior,Chile,1,2026-09-06,https://www.trabajaenccu.cl/trabajo/6099953-chequeador-calama,,"¡Únete a CCU! Buscamos Chequeador en Calama
 En CCU, mejoramos y acompañamos distintos momentos de la vida con nuestras marcas de bebestibles. Nos guiamos por principios que benefician a las personas, cuidamos el medio ambiente y estamos comprometidos con la Diversidad e Inclusión, valores clave para nuestro crecimiento sustentable.
 Actualmente, estamos en la búsqueda de un Chequeador para nuestro Centro de Distribución en Calama.
@@ -317,6 +317,26 @@ Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferenci
 Manejo de Excel nivel intermedio y herramientas Google.
 Manejo de BBDD SQL deseable.
 Disponibilidad para trabajar en modalidad presencial en Las Condes y disponibilidad para ir a ruta."
+Jefe de Planificación de Aprovisionamiento,Otra Área,"Las Condes, Metropolitana de Santiago, Chile",Las Condes,Metropolitana de Santiago,2026-07-07,6099054,ccu,2026-07-16,2026-07-21,0.4461,Jefe Área/Sección/Depto./Local,,Jornada Completa,CCU,Universitaria,Chile,3,2026-09-05,https://www.trabajaenccu.cl/trabajo/6099054-jefe-de-planificacion-de-aprovisionamiento,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
+Nos encontramos en búsqueda de nuestro próximo Jefe/a de Planificación de Aprovisionamiento para desempeñarse en nuestro edificio corporativo ubicada en Av. Vitacura 2570, Las Condes.
+Principales funciones:
+Liderar el equipo de Planificación de Aprovisionamiento de Materias Primas, promoviendo una gestión colaborativa, proactiva y orientada a la mejora continua, con capacidad para anticipar riesgos, resolver problemas y coordinar transversalmente con las distintas áreas de la cadena de suministro. 
+Asegurar la disponibilidad oportuna de materias primas para el cumplimiento del plan de producción, mediante una eficiente planificación del suministro, la optimización de inventarios, el seguimiento de indicadores y la gestión operativa con proveedores.
+Requisitos:
+Título profesional de Ingeniería Civil Industrial o Ingeniería Comercial.
+Experiencia mínima de 3 años en cargos de jefatura o liderazgo de equipos, áreas de planificación, abastecimiento o gestión de la cadena de suministro.
+Conocimiento herramientas de análisis de datos (Power BI, SQL u otras similares).
+Manejo de SAP IBP, SAP S/4HANA, avanzado de Microsoft Office.
+Manejo de herramientas de Inteligencia Artificial Generativa aplicadas al análisis de información, automatización y mejora de procesos
+Disponibilidad para trabajar 100% presencial en Las Condes.
+Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferencias de las personas, promoviendo un entorno diverso e integrador, para así contribuir a un mejor vivir. Por esto, te agradecemos que nos compartas si necesitas adaptación en alguna etapa del proceso de postulación.
+¡Te invitamos a Ser CCU!","Requisitos:
+Título profesional de Ingeniería Civil Industrial o Ingeniería Comercial.
+Experiencia mínima de 3 años en cargos de jefatura o liderazgo de equipos, áreas de planificación, abastecimiento o gestión de la cadena de suministro.
+Conocimiento herramientas de análisis de datos (Power BI, SQL u otras similares).
+Manejo de SAP IBP, SAP S/4HANA, avanzado de Microsoft Office.
+Manejo de herramientas de Inteligencia Artificial Generativa aplicadas al análisis de información, automatización y mejora de procesos
+Disponibilidad para trabajar 100% presencial en Las Condes."
 Auxiliar de Operaciones (Pickeador) - Calama,Otra Área,"Calama, Antofagasta, Chile",Calama,Antofagasta,2026-07-07,6098990,ccu,2026-07-16,2026-07-21,0.4056,Operario,,Jornada Completa,Transportes CCU,Media,Chile,1,2026-09-05,https://www.trabajaenccu.cl/trabajo/6098990-auxiliar-de-operaciones-pickeador-calama,,"¡Únete a CCU! Buscamos Auxiliares de Operaciones en Calama
 En CCU, mejoramos y acompañamos distintos momentos de la vida con nuestras marcas de bebestibles. Nos guiamos por principios que benefician a las personas, cuidamos el medio ambiente y estamos comprometidos con la Diversidad e Inclusión, valores clave para nuestro crecimiento sustentable.
 Actualmente, estamos en la búsqueda de Auxiliares de Operaciones de Bodega (para Picking) para nuestro Centro de Distribución en Calama.
@@ -339,26 +359,6 @@ Residencia en Calama (excluyente).
 Disponibilidad para trabajar en turno noche, de lunes a sábado.
 Disponibilidad para trabajar inicialmente con contrato a plazo fijo (con posibilidad de paso a indefinido según desempeño).
 Postulantes extranjeros deben contar con permanencia definitiva."
-Jefe de Planificación de Aprovisionamiento,Otra Área,"Las Condes, Metropolitana de Santiago, Chile",Las Condes,Metropolitana de Santiago,2026-07-07,6099054,ccu,2026-07-16,2026-07-21,0.4461,Jefe Área/Sección/Depto./Local,,Jornada Completa,CCU,Universitaria,Chile,3,2026-09-05,https://www.trabajaenccu.cl/trabajo/6099054-jefe-de-planificacion-de-aprovisionamiento,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
-Nos encontramos en búsqueda de nuestro próximo Jefe/a de Planificación de Aprovisionamiento para desempeñarse en nuestro edificio corporativo ubicada en Av. Vitacura 2570, Las Condes.
-Principales funciones:
-Liderar el equipo de Planificación de Aprovisionamiento de Materias Primas, promoviendo una gestión colaborativa, proactiva y orientada a la mejora continua, con capacidad para anticipar riesgos, resolver problemas y coordinar transversalmente con las distintas áreas de la cadena de suministro. 
-Asegurar la disponibilidad oportuna de materias primas para el cumplimiento del plan de producción, mediante una eficiente planificación del suministro, la optimización de inventarios, el seguimiento de indicadores y la gestión operativa con proveedores.
-Requisitos:
-Título profesional de Ingeniería Civil Industrial o Ingeniería Comercial.
-Experiencia mínima de 3 años en cargos de jefatura o liderazgo de equipos, áreas de planificación, abastecimiento o gestión de la cadena de suministro.
-Conocimiento herramientas de análisis de datos (Power BI, SQL u otras similares).
-Manejo de SAP IBP, SAP S/4HANA, avanzado de Microsoft Office.
-Manejo de herramientas de Inteligencia Artificial Generativa aplicadas al análisis de información, automatización y mejora de procesos
-Disponibilidad para trabajar 100% presencial en Las Condes.
-Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferencias de las personas, promoviendo un entorno diverso e integrador, para así contribuir a un mejor vivir. Por esto, te agradecemos que nos compartas si necesitas adaptación en alguna etapa del proceso de postulación.
-¡Te invitamos a Ser CCU!","Requisitos:
-Título profesional de Ingeniería Civil Industrial o Ingeniería Comercial.
-Experiencia mínima de 3 años en cargos de jefatura o liderazgo de equipos, áreas de planificación, abastecimiento o gestión de la cadena de suministro.
-Conocimiento herramientas de análisis de datos (Power BI, SQL u otras similares).
-Manejo de SAP IBP, SAP S/4HANA, avanzado de Microsoft Office.
-Manejo de herramientas de Inteligencia Artificial Generativa aplicadas al análisis de información, automatización y mejora de procesos
-Disponibilidad para trabajar 100% presencial en Las Condes."
 Encargado/a de Comunicaciones Internas,Otra Área,"Las Condes, Metropolitana de Santiago, Chile",Las Condes,Metropolitana de Santiago,2026-07-03,6097947,ccu,2026-07-16,2026-07-21,0.4172,Encargado,,Jornada Completa,CCU,Universitaria,Chile,3,2026-09-01,https://www.trabajaenccu.cl/trabajo/6097947-encargado-a-de-comunicaciones-internas,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
 Nos encontramos en búsqueda de nuestro próximo Encargado/a de Comunicaciones Internas para desempeñarse en nuestro Edificio Corporativo ubicado en Las Condes.
 Principales funciones:
@@ -547,7 +547,7 @@ Título de Técnico Superior en Prevención de Riesgos, Medio Ambiente o carrera
 0 a 2 años de experiencia previa.
 Conocimientos normativos en LOTO, ISO 22000 e ISO 14001 y formación/conocimiento como Auditor Líder y BPM. Manejo de SAP, Power BI (Análisis de Datos), Office (Excel, PowerPoint) y Herramientas Google.
 Disponibilidad para trabajar en Coinco"
-Operador/a Mantenedor/a Envasado - Renca ,Otra Área,"Renca, Metropolitana de Santiago, Chile",Renca,Metropolitana de Santiago,2026-06-18,6084152,ccu,2026-07-16,2026-07-21,0.4092,Operario,,Jornada Completa,CCU,Técnico profesional superior,Chile,1,2026-08-17,https://www.trabajaenccu.cl/trabajo/6084152-operador-a-mantenedor-a-envasado-renca,,"En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir. Con una amplia gama de marcas de bebestibles y experiencias, mejoramos y acompañamos distintos momentos de la vida, guiados por nuestros principios, en beneficio de las personas con las que nos relacionamos y el cuidado del medio ambiente. 
+Operador/a Mantenedor/a Envasado - Renca ,Otra Área,"Renca, Metropolitana de Santiago, Chile",Renca,Metropolitana de Santiago,2026-06-18,6084152,ccu,2026-07-16,2026-07-21,0.4091,Operario,,Jornada Completa,CCU,Técnico profesional superior,Chile,1,2026-08-17,https://www.trabajaenccu.cl/trabajo/6084152-operador-a-mantenedor-a-envasado-renca,,"En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir. Con una amplia gama de marcas de bebestibles y experiencias, mejoramos y acompañamos distintos momentos de la vida, guiados por nuestros principios, en beneficio de las personas con las que nos relacionamos y el cuidado del medio ambiente. 
 Actualmente estamos buscando a un Operador Mantenedor para desempeñarse en nuestra planta de Renca.
 Principales funciones:
 Operación y Ajuste: Operar y ajustar los equipos asignados según sus especificaciones técnicas para cumplir con el plan de producción, asegurando la calidad del producto.
@@ -804,6 +804,21 @@ Manejo de Microsoft Office.
 Excel nivel intermedio-avanzado.
 Disponibilidad para trabajar 100% presencial en Las Condes.
 Deseable manejo de inglés."
+Gruero/a Operario - Plasco,Otra Área,"Renca, Metropolitana de Santiago, Chile",Renca,Metropolitana de Santiago,2026-05-29,6075963,ccu,2026-07-16,2026-07-21,0.4648,Operario,,Por Turnos,CCU,Media,Chile,1,2026-07-28,https://www.trabajaenccu.cl/trabajo/6075963-gruero-a-operario-plasco,,"En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
+Con una amplia gama de marcas de bebestibles y experiencias, mejoramos y acompañamos distintos momentos de la vida, guiados por nuestros principios, en beneficio de las personas con las que nos relacionamos y el cuidado del medio ambiente. De esta manera, estamos comprometidos con la Diversidad e Inclusión, ya que consideramos que son valores fundamentales para el crecimiento sustentable de la organización y que nos permiten poner en práctica nuestro propósito.
+Estamos en la búsqueda de Operadores de Grúa Horquilla para nuestra planta en Renca, con al menos 1 año de experiencia.
+Tendrás como principal responsabilidad:
+ Realizar conteos, registros y movimientos de pallets, cajas y embalajes según los protocolos internos y solicitudes de la jefatura.
+Verificar, contar y registrar el producto terminado y la materia prima recibida (producción/proveedores), asegurando el cumplimiento de normas de calidad e inocuidad.
+Entregar materias primas y materiales a las áreas de Soplado e Inyección en los horarios establecidos.
+Retirar embalajes vacíos, mermas, purgas y residuos para mantener la fluidez operativa y apoyar al área de molino.
+Almacenar, optimizar espacios y reordenar productos en bodega, previniendo daños o pérdidas y manteniendo el orden y la limpieza.
+¡En CCU te cuidamos! Nuestros establecimientos cuentan con altos estándares de seguridad e higiene para proteger a todas las personas que forman parte de nuestra compañía.
+ 
+Te invitamos a SER CCU y postular a esta gran oportunidad.","Estudios mínimos de Enseñanza Media Completa.
+Licencia clase D.
+Conocimiento en logística con al menos 1 año manejando grúa horquilla.
+Disponibilidad para trabajar por turnos rotativos (tarde, mañana, noche)."
 Mantenedor/a Experto/a Mecánico A  - Renca,Otra Área,"Renca, Metropolitana de Santiago, Chile",Renca,Metropolitana de Santiago,2026-05-29,6075964,ccu,2026-07-16,2026-07-21,0.4263,Operario,,Jornada Completa,CCU CHILE,Técnico profesional superior,Chile,1,2026-07-28,https://www.trabajaenccu.cl/trabajo/6075964-mantenedor-a-experto-a-mecanico-a-renca,,"Con una amplia gama de marcas de bebestibles y experiencias, mejoramos y acompañamos distintos momentos de la vida, guiados por nuestros principios, en beneficio de las personas con las que nos relacionamos y el cuidado del medio ambiente.
 Estamos buscando a un Mantenedor/a Experto/a Eléctrico para desempeñarse en nuestra planta Quilicura
 Principales funciones:
@@ -821,21 +836,21 @@ Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferenci
 Desde 1 año de experiencia.
 Conocimientos ténicos de: programación de PLC, intrumentación, sensores, variadores de frecuencia, señales análogas, HMI o pantallas industriales.
 Disponibilidad para realizar turnos rotativos."
-Gruero/a Operario - Plasco,Otra Área,"Renca, Metropolitana de Santiago, Chile",Renca,Metropolitana de Santiago,2026-05-29,6075963,ccu,2026-07-16,2026-07-21,0.4648,Operario,,Por Turnos,CCU,Media,Chile,1,2026-07-28,https://www.trabajaenccu.cl/trabajo/6075963-gruero-a-operario-plasco,,"En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
-Con una amplia gama de marcas de bebestibles y experiencias, mejoramos y acompañamos distintos momentos de la vida, guiados por nuestros principios, en beneficio de las personas con las que nos relacionamos y el cuidado del medio ambiente. De esta manera, estamos comprometidos con la Diversidad e Inclusión, ya que consideramos que son valores fundamentales para el crecimiento sustentable de la organización y que nos permiten poner en práctica nuestro propósito.
-Estamos en la búsqueda de Operadores de Grúa Horquilla para nuestra planta en Renca, con al menos 1 año de experiencia.
-Tendrás como principal responsabilidad:
- Realizar conteos, registros y movimientos de pallets, cajas y embalajes según los protocolos internos y solicitudes de la jefatura.
-Verificar, contar y registrar el producto terminado y la materia prima recibida (producción/proveedores), asegurando el cumplimiento de normas de calidad e inocuidad.
-Entregar materias primas y materiales a las áreas de Soplado e Inyección en los horarios establecidos.
-Retirar embalajes vacíos, mermas, purgas y residuos para mantener la fluidez operativa y apoyar al área de molino.
-Almacenar, optimizar espacios y reordenar productos en bodega, previniendo daños o pérdidas y manteniendo el orden y la limpieza.
-¡En CCU te cuidamos! Nuestros establecimientos cuentan con altos estándares de seguridad e higiene para proteger a todas las personas que forman parte de nuestra compañía.
- 
-Te invitamos a SER CCU y postular a esta gran oportunidad.","Estudios mínimos de Enseñanza Media Completa.
-Licencia clase D.
-Conocimiento en logística con al menos 1 año manejando grúa horquilla.
-Disponibilidad para trabajar por turnos rotativos (tarde, mañana, noche)."
+Administrativo de Cobranzas - Talcahuano ,Otra Área,"Talcahuano, Biobío, Chile",Talcahuano,Biobío,2026-05-26,6074307,ccu,2026-07-16,2026-07-21,0.4117,Administrativo,,Jornada Completa,CCU,Técnico profesional superior,Chile,1,2026-07-25,https://www.trabajaenccu.cl/trabajo/6074307-administrativo-de-cobranzas-talcahuano,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
+Nos encontramos en búsqueda de un/a Administrativo/a de Cobranzas para desempeñarse en Talcahuano
+El propósito de este cargo consiste en aplicar y gestionar los procesos de cobranza de las distintas carteras de clientes, asegurando el cumplimiento de los indicadores de crédito y manteniendo las carteras vigentes y al día, con la finalidad de entregar un servicio de cobranza de calidad que contribuya a la continuidad de negocios rentables para la compañía.
+Principales Funciones:
+Aplicar los procesos de cobranza de las diferentes carteras, con el objetivo de cumplir los indicadores de crédito y asegurar un servicio de cobranza de calidad.
+Aplicar los procesos de cobranza y apoyo comercial del programa CRECCU, con el fin de alcanzar los indicadores propuestos para el área.
+Gestionar las distintas carteras, aplicando los procesos de pago de los clientes de crédito y solicitando la emisión de notas de crédito, con el propósito de mantener las carteras limpias y vigentes.
+Aplicar los procesos de cuidado de las personas, contribuyendo a un buen clima organizacional y al cumplimiento de los acuerdos de nivel de servicio.
+Requisitos:
+Formación técnico profesional en carreras afines a Administración, Contabilidad, Finanzas o similares
+1 a 2 años de experiencia en cobranzas, crédito o áreas administrativo-contables
+Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferencias de las personas, promoviendo un entorno diverso e integrador, para así contribuir a un mejor vivir. Por esto, te agradecemos que nos compartas si necesitas adaptación en alguna etapa del proceso.
+¡Te invitamos a SER CCU!","Requisitos:
+Formación técnico profesional en carreras afines a Administración, Contabilidad, Finanzas o similares
+1 a 2 años de experiencia en cobranzas, crédito o áreas administrativo-contables"
 Jefe/a Desarrollo Comercial rPET,Otra Área,"Las Condes, Metropolitana de Santiago, Chile",Las Condes,Metropolitana de Santiago,2026-05-26,6074396,ccu,2026-07-16,2026-07-21,0.3049,Jefe Área/Sección/Depto./Local,,Jornada Completa,CCU,Universitaria,Chile,2,2026-07-25,https://www.trabajaenccu.cl/trabajo/6074396-jefe-a-desarrollo-comercial-rpet,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
 Nos encontramos en búsqueda de nuestro próximo Jefe/a Desarrollo Comercial rPET para desempeñarse en nuestro edificio corporativo ubicada en Av. Vitacura 2570, Las Condes.
 Principales funciones:
@@ -858,22 +873,7 @@ Al menos 2 años de experiencia trabajando en áreas similares.
 Manejo de Excel nivel avanzado, SAP nivel intermedio.
 Disponibilidad para asistir a Planta CirCCUlar 1 vez a la semana (Américo Vespucio #999, Renca) (excluyente).
 Disponibilidad para trabajar 100% presencial en Las Condes."
-Administrativo de Cobranzas - Talcahuano ,Otra Área,"Talcahuano, Biobío, Chile",Talcahuano,Biobío,2026-05-26,6074307,ccu,2026-07-16,2026-07-21,0.3971,Administrativo,,Jornada Completa,CCU,Técnico profesional superior,Chile,1,2026-07-25,https://www.trabajaenccu.cl/trabajo/6074307-administrativo-de-cobranzas-talcahuano,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
-Nos encontramos en búsqueda de un/a Administrativo/a de Cobranzas para desempeñarse en Talcahuano
-El propósito de este cargo consiste en aplicar y gestionar los procesos de cobranza de las distintas carteras de clientes, asegurando el cumplimiento de los indicadores de crédito y manteniendo las carteras vigentes y al día, con la finalidad de entregar un servicio de cobranza de calidad que contribuya a la continuidad de negocios rentables para la compañía.
-Principales Funciones:
-Aplicar los procesos de cobranza de las diferentes carteras, con el objetivo de cumplir los indicadores de crédito y asegurar un servicio de cobranza de calidad.
-Aplicar los procesos de cobranza y apoyo comercial del programa CRECCU, con el fin de alcanzar los indicadores propuestos para el área.
-Gestionar las distintas carteras, aplicando los procesos de pago de los clientes de crédito y solicitando la emisión de notas de crédito, con el propósito de mantener las carteras limpias y vigentes.
-Aplicar los procesos de cuidado de las personas, contribuyendo a un buen clima organizacional y al cumplimiento de los acuerdos de nivel de servicio.
-Requisitos:
-Formación técnico profesional en carreras afines a Administración, Contabilidad, Finanzas o similares
-1 a 2 años de experiencia en cobranzas, crédito o áreas administrativo-contables
-Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferencias de las personas, promoviendo un entorno diverso e integrador, para así contribuir a un mejor vivir. Por esto, te agradecemos que nos compartas si necesitas adaptación en alguna etapa del proceso.
-¡Te invitamos a SER CCU!","Requisitos:
-Formación técnico profesional en carreras afines a Administración, Contabilidad, Finanzas o similares
-1 a 2 años de experiencia en cobranzas, crédito o áreas administrativo-contables"
-Administrativo de Cobranzas - Los Ángeles,Otra Área,"Los Ángeles, Biobío, Chile",Los Ángeles,Biobío,2026-05-25,6073687,ccu,2026-07-16,2026-07-21,0.4069,Administrativo,,Jornada Completa,CCU,Técnico profesional superior,Chile,1,2026-07-24,https://www.trabajaenccu.cl/trabajo/6073687-administrativo-de-cobranzas-los-angeles,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
+Administrativo de Cobranzas - Los Ángeles,Otra Área,"Los Ángeles, Biobío, Chile",Los Ángeles,Biobío,2026-05-25,6073687,ccu,2026-07-16,2026-07-21,0.4248,Administrativo,,Jornada Completa,CCU,Técnico profesional superior,Chile,1,2026-07-24,https://www.trabajaenccu.cl/trabajo/6073687-administrativo-de-cobranzas-los-angeles,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
 Nos encontramos en búsqueda de un/a Administrativo/a de Cobranzas para desempeñarse en Los Ángeles
 El propósito de este cargo consiste en aplicar y gestionar los procesos de cobranza de las distintas carteras de clientes, asegurando el cumplimiento de los indicadores de crédito y manteniendo las carteras vigentes y al día, con la finalidad de entregar un servicio de cobranza de calidad que contribuya a la continuidad de negocios rentables para la compañía.
 Principales Funciones:
@@ -888,7 +888,7 @@ Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferenci
 ¡Te invitamos a SER CCU!","Requisitos:
 Formación técnico profesional en carreras afines a Administración, Contabilidad, Finanzas o similares
 1 a 2 años de experiencia en cobranzas, crédito o áreas administrativo-contables"
-Operario/a de Producción Manantial - Quilicura,Otra Área,"Quilicura, Metropolitana de Santiago, Chile",Quilicura,Metropolitana de Santiago,2026-05-18,6071120,ccu,2026-07-16,2026-07-18,0.3846,Operario,,Por Turnos,CCU,Técnico medio/ colegio técnico,Chile,1,2026-07-17,https://www.trabajaenccu.cl/trabajo/6071120-operario-a-de-produccion-manantial-quilicura,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
+Operario/a de Producción Manantial - Quilicura,Otra Área,"Quilicura, Metropolitana de Santiago, Chile",Quilicura,Metropolitana de Santiago,2026-05-18,6071120,ccu,2026-07-16,2026-07-18,0.3841,Operario,,Por Turnos,CCU,Técnico medio/ colegio técnico,Chile,1,2026-07-17,https://www.trabajaenccu.cl/trabajo/6071120-operario-a-de-produccion-manantial-quilicura,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
 Con una amplia gama de marcas de bebestibles y experiencias, mejoramos y acompañamos distintos momentos de la vida, guiados por nuestros principios, en beneficio de las personas con las que nos relacionamos y el cuidado del medio ambiente.
 Actualmente estamos buscando a un/a Operario/a de Producción para desempeñarse en nuestra planta Manantial de Quilicura.
 Principales funciones:
@@ -908,7 +908,7 @@ Nuestro SER CCU nos inspira a trabajar con aceptación y respeto a las diferenci
 Formación: Enseñanza media técnica o superior (deseable en áreas industriales, mecánicas o de alimentos).
 Experiencia: Desde 1 año en operación de líneas de producción, idealmente en industria de alimentos o bebestibles.
 Conocimientos: BPM, normas básicas de higiene y seguridad industrial."
-Analista Crédito y Cobranza - Quilicura,Otra Área,"Quilicura, Metropolitana de Santiago, Chile",Quilicura,Metropolitana de Santiago,2026-05-17,6070981,ccu,2026-07-16,2026-07-17,0.3764,Analista,,Jornada Completa,CCU,Técnico profesional superior,Chile,1,2026-07-16,https://www.trabajaenccu.cl/trabajo/6070981-analista-credito-y-cobranza-quilicura,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
+Analista Crédito y Cobranza - Quilicura,Otra Área,"Quilicura, Metropolitana de Santiago, Chile",Quilicura,Metropolitana de Santiago,2026-05-17,6070981,ccu,2026-07-16,2026-07-17,0.3677,Analista,,Jornada Completa,CCU,Técnico profesional superior,Chile,1,2026-07-16,https://www.trabajaenccu.cl/trabajo/6070981-analista-credito-y-cobranza-quilicura,,"¡En CCU nos apasiona crear experiencias para compartir juntos un mejor vivir!
 Nos encontramos en búsqueda de un Analista de créditos y cobranzas para las oficinas de nuestra planta cervecera en Quilicura.
 Principales funciones:
 Evaluación de clientes para otorgamiento de crédito, midiendo el riesgo de cada uno.
