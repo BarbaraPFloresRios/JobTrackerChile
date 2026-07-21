@@ -1,22 +1,105 @@
 title,team,location,city,state,posted_date,job_id,requisition_id,source,first_seen_date,last_seen_date,semantic_similarity,management_level,job_profile,company_name,country,url,description_short,description,requirements
-Supervisor Zonal Seguros,Área Zona Centro,Ofi. Alonso De Cordova 5320 - Comercial,,,2026-07-20,20019,111384,ripley,2026-07-20,2026-07-21,0.348,GGS.-10-BACKOFFICE,Supervisor Zonal Seguros,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/20019?c=ripley,,"¡En Banco Ripley estamos en búsqueda de un/a Supervisor/a Zonal de Seguros! 🔍🚀
-Si te apasiona el liderazgo de equipos comerciales, la gestión de indicadores y el desarrollo de estrategias que impulsen el cumplimiento de metas, ¡te estamos buscando! 🙌
+Reemplazo de Ingeniero Datos Cobranza,Área Control de Gestión Cobranza,Ofi. Estado 91 - Producto Financiero,,,2026-07-21,22719,114084,ripley,2026-07-21,2026-07-21,0.3584,GGS.-09-BACKOFFICE,Ingeniero Control de Gestión Cobranza,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22719?c=ripley,,"🚀 ¡En Banco Ripley Chile estamos en búsqueda de un/a
+reemplazo
+de Ingeniero de Datos Cobranza! 🔍📊☁️
+Si te apasiona la ingeniería de datos, la automatización de procesos y el desarrollo de soluciones escalables que generen impacto en el negocio, ¡te estamos buscando! 🙌
 🎯 Misión del cargo
-Implementar las estrategias comerciales definidas para el canal de venta de seguros, asegurando el cumplimiento de los objetivos, la calidad de las ventas y un excelente clima organizacional. Serás responsable de coordinar acciones en las redes del banco, manteniendo relaciones cercanas y efectivas con los equipos de sucursales.
+Diseñar, desarrollar y mantener soluciones de ingeniería de datos que permitan abastecer de información confiable y oportuna a las distintas áreas de Cobranzas. Serás responsable de construir y optimizar pipelines de datos, administrar procesos ETL/ELT, automatizar procesos y disponibilizar información para reportería, analítica y toma de decisiones.
 ¿Cuál será tu principal desafío? 🚀
-💡 Implementar y gestionar acciones de seguimiento comercial, reduciendo dispersiones entre sucursales y asegurando el cumplimiento del presupuesto.
-📈 Establecer modelos de gestión y metodologías de control para impulsar los resultados de las zonas a cargo.
-🎯 Controlar la gestión de ventas bajo criterios de eficiencia, ética y calidad, velando por el cumplimiento de los estándares definidos.
-🤝 Liderar, acompañar y desarrollar a los equipos comerciales, promoviendo un clima laboral positivo, cercano y de confianza.
-📊 Implementar campañas, capacitaciones y planes comerciales que fortalezcan el desempeño y potencien los resultados.
-🚀 Mantener una relación permanente con las sucursales, detectando oportunidades de mejora e impulsando iniciativas que contribuyan al crecimiento del negocio de seguros.
+☁️ Diseñar y desarrollar pipelines de datos sobre plataformas AWS para soportar los procesos analíticos y operacionales del área.
+🔄 Construir y mantener procesos ETL/ELT utilizando AWS Glue, SQL y otras herramientas de integración de datos.
+📊 Modelar, optimizar y administrar estructuras de datos en Amazon Redshift, asegurando disponibilidad y rendimiento.
+🔗 Integrar información proveniente de múltiples fuentes internas y externas para generar datasets confiables y escalables.
+⚙️ Automatizar procesos de carga, transformación y publicación de información, mejorando la eficiencia operacional.
+📈 Levantar requerimientos junto a usuarios de negocio y proponer soluciones de ingeniería de datos que apoyen la gestión y toma de decisiones.
+🚀 Participar en proyectos de mejora continua, automatización y evolución de la plataforma de datos de Cobranzas.
+🚀 ¿Por qué trabajar en Banco Ripley? 💜
+🔹 Capacitaciones y entrenamiento enfocados en tu desarrollo profesional.
+🔹 Tasa preferencial en productos Banco Ripley.
+🔹 Seguro complementario.
+🔹 Descuentos en Tiendas Ripley.
+🔹 Participación en proyectos de transformación y modernización tecnológica.
+🌟 En Banco Ripley valoramos la diversidad e inclusión
+En el marco de la Ley 21.015, te invitamos a postular y, si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.
+📢 ¡Postula y sé parte del equipo que impulsa la transformación de datos en soluciones de alto impacto para la gestión de Cobranzas en Banco Ripley! 🚀📊☁️","¿Qué valoramos en tu postulación? 🎯
+🎓 Título de Ingeniería Civil Industrial, Ingeniería Informática, Ingeniería Comercial o carrera afín.
+💼 Experiencia desarrollando soluciones de ingeniería de datos, procesos ETL/ELT y automatización sobre plataformas Cloud, idealmente AWS.
+🗄️ SQL Avanzado. (Excluyente)
+☁️ Experiencia con Amazon Redshift, AWS Glue Jobs y S3. (Excluyente)
+🐍 Manejo de Python. (Excluyente)
+🔄 Conocimientos en procesos ETL/ELT y optimización de consultas SQL. (Excluyente)
+📊 Experiencia trabajando con grandes volúmenes de datos y bases de datos analíticas.
+📈 Excel Avanzado.
+⭐ Deseable experiencia con Lambda, Power BI y Spark/PySpark.
+🧠 Pensamiento analítico, orientación a la automatización y capacidad para resolver problemas complejos.
+🤝 Habilidades de comunicación y trabajo colaborativo con áreas de negocio y equipos tecnológicos."
+Ejecutivos de Compra - Hombre,División Comercial Hombre,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-21,20727,112085,ripley,2026-07-21,2026-07-21,0.3356,GGS.-12-BACKOFFICE,Ejecutivos de Compra,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/20727?c=ripley,,"¡En Ripley Chile, lo tenemos todo! ¡Solo nos falta tu talento! 🤩🩷
+Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar constantemente la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio. Si te apasiona el análisis de datos, el trabajo en equipo y enfrentar nuevos desafíos, esta oportunidad es para ti.
+¡Postula para ser parte de nuestro equipo!
+Estamos en búsqueda de nuestro nuevo/a Product Manager Hombre para nuestra Gerencia Comercial.
+¿Cuál será tu objetivo principal?
+Apoyar al logro de los objetivos del área y del negocio mediante la gestión eficiente del presupuesto de performance de sus divisiones a cargo y la generación de estrategias para incrementar la inversión de nuestros sellers y proveedores del canal Hombre, impulsando una gestión comercial y una toma de decisiones con enfoque omnicanal.
+¿Cuáles serán tus principales desafíos? 🚀
+Liderar la gestión comercial de la categoría Hombre, asegurando el cumplimiento de los objetivos del negocio.
+Gestionar la compra y administración del inventario de la categoría con una visión omnicanal, velando por la disponibilidad y eficiencia del stock.
+Definir y ejecutar la estrategia comercial de la categoría, siendo responsable de indicadores como ventas, margen, rotación y control de obsolescencia.
+Diseñar e implementar la propuesta comercial de la categoría, incluyendo surtido, catálogo, PLP, estrategia de precios y llamados comerciales.
+Coordinar el trabajo con las distintas áreas de la compañía para asegurar una correcta ejecución de las iniciativas comerciales.
+Gestionar la relación con sellers y proveedores de la categoría, impulsando oportunidades de negocio y negociaciones comerciales.
+Planificar y coordinar campañas de marketing para potenciar el desempeño comercial de la categoría.
 ¿Qué valoramos en tu postulación? 🎯
-🎓 Profesional del área de Administración, Ingeniería Comercial o carreras afines.
-💼 Al menos 2 años de experiencia en el rubro de seguros.
-🚀 Experiencia liderando equipos comerciales y gestionando indicadores de desempeño.
-📊 Capacidad analítica para realizar seguimiento de resultados y generar planes de acción.
-🧩 Perfil planificado, orientado a resultados, con liderazgo positivo y habilidades para influir y movilizar equipos.
-🌍 Disponibilidad para viajar y recorrer sucursales.
+Título Profesional de Ingeniero Comercial
+Experiencia de al menos 4-5 años en cargos similares o en división mujer
+Experiencia deseable en retail
+¿Por qué trabajar en Ripley?🩷
+Pensamos en el bienestar de nuestros colaboradores, es por esto que contamos con atractivos beneficios corporativos como:
+Capacitaciones y entrenamiento enfocado a tu desarrollo de carrera.
+Tasa Preferencial en Productos Banco Ripley.
+Seguro Complementario Gratuito.
+Descuento en Tiendas Ripley.
+Desarrollo Profesional.
+Entre otros.
+¡Postula para ser parte de nuestro equipo!
+En Ripley y Banco Ripley valoramos la diversidad e inclusión. Es por esto que, en el marco de la Ley 21.015, te invitamos a postular y si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.",
+Subgerente Centro Integral de Servicios,Gerencia Nf,Tda Estacion Central (Gesic) - Sucursales,,,2026-07-21,21954,113312,ripley,2026-07-21,2026-07-21,0.2833,GGS-11-RETAIL,Subgerente Centro Integral de Servicios,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/21954?c=ripley,,Subgerente Centro Integral de Servicios,
+Supervisor Servicio Al Cliente,Centro de Cambios,Tda Plaza Huechuraba - Plataforma De Servicios,,,2026-07-20,22899,114266,ripley,2026-07-20,2026-07-21,0.3065,GGS-09-RETAIL,Supervisor Servicio Al Cliente,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22899?c=ripley,,"En
+Ripley
+, lo tenemos todo ¡Solo nos falta tu talento!🤩
+Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio.
+Súmate a una industria ágil y desafiante ¡Postula para ser parte de nuestro equipo!
+Estamos en búsqueda de nuestro/a nuevo/a
+Supervisor de Servicio al Cliente.
+Tu misión 🚀
+Tu misión será velar por la correcta atención y resolución de reclamos que afecten directa o indirectamente a los clientes, relacionada con la post venta, además de contar con el cuidado de aquellos procesos que pongan en riesgo la pérdida de valor en la empresa. (clientes, productos, insumos).
+¿Cuáles serán tus principales desafíos? 🚀
+Control de procedimientos y resolución de casos.
+Gestión de comunicación entre clientes y operaciones.
+Control de ventas con retiro en tienda.
+Liderazgo y capacitación del equipo de servicio al cliente.
+Prevención de reclamos y protección de la imagen corporativa.
+Liderazgo en orden y limpieza de bodega omnicanal, para entregar una experiencia adecuada hacia el cliente.
+¿Por qué trabajar en Ripley? ❤️💜
+Entendemos y nos amoldamos a tu estilo de vida, promoviendo beneficios que fomenten la flexibilidad en la manera de trabajar. Gracias a Rworks nos conectamos desde cualquier lugar, y contamos con modernos espacios colaborativos para mantener la cohesión con nuestros equipos.
+Tendrás acceso a seguros complementarios de salud, convenios con reconocidas universidades y beneficios preferenciales en Banco Ripley.
+Revisa más detalles sobre vida en la empresa en nuestro LinkedIn “Ripley Chile”.",
+Jefe Mis Riesgo,Área Seguimiento y Mis Banco,Ofi. Alonso De Cordova 5320 - Prod.Financiero,,,2026-07-20,17173,108553,ripley,2026-07-20,2026-07-21,0.3722,GGS.-12-BACKOFFICE,Jefe Mis Riesgo,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/17173?c=ripley,,"¡En Banco Ripley estamos en búsqueda de un/a Jefe/a MIS Riesgo! 🔍🚀
+Si te apasiona el análisis de datos, la generación de insights y el impacto directo en la toma de decisiones estratégicas, ¡te estamos buscando! 🙌
+🎯 Misión del cargo
+Liderar la gestión, procesamiento y análisis de grandes volúmenes de información, asegurando la calidad e integridad de los datos, con el objetivo de generar insights oportunos que permitan alertar desviaciones y apoyar la toma de decisiones en la gestión de riesgo y cartera.
+¿Cuál será tu principal desafío? 🚀
+📊 Gestionar y supervisar el procesamiento de grandes volúmenes de datos, asegurando consistencia, calidad e integridad de la información.
+📈 Desarrollar y automatizar reportes que alerten desviaciones en la cartera, tanto en stock como en originación.
+🎯 Monitorear indicadores clave de riesgo, provisiones, morosidad y gestión de cobranza, asegurando su correcta evolución.
+🤝 Coordinar con áreas como Contabilidad, Operaciones, Comercial, Auditoría y equipos de Riesgo para alinear información y gestión.
+🔍 Entregar soporte analítico y directrices para la gestión de cobranza y seguimiento de indicadores críticos.
+📌 Preparar información clave para comités de riesgo y relacionamiento con entidades regulatorias.
+🚀 Impulsar mejoras en reportería mediante automatización, integración con herramientas como Power BI e iniciativas de analítica avanzada.
+¿Qué valoramos en tu postulación? 🎯
+🎓 Formación en Ingeniería Civil Industrial, Informática, Estadística o carrera afín.
+💼 Al menos 5 años de experiencia en roles similares, idealmente en riesgo, datos o control de gestión.
+📊 Alta capacidad analítica y experiencia trabajando con grandes volúmenes de datos.
+💻 Manejo de herramientas de análisis y reportería (Excel avanzado, Power BI, SQL y deseable experiencia en automatización).
+📈 Conocimiento en indicadores de riesgo, cartera, provisiones y cobranza.
 🚀 ¿Por qué trabajar en Banco Ripley? 💜
 Pensamos en el bienestar y desarrollo de nuestros colaboradores, por eso ofrecemos:
 🔹 Capacitaciones y oportunidades de crecimiento profesional.
@@ -24,7 +107,7 @@ Pensamos en el bienestar y desarrollo de nuestros colaboradores, por eso ofrecem
 🔹 Seguro complementario.
 🔹 Descuentos en Tiendas Ripley.
 En Ripley y Banco Ripley valoramos la diversidad e inclusión. En el marco de la Ley 21.015, te invitamos a postular y, si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.
-📢 ¡Postula y sé parte del equipo que impulsa el crecimiento del negocio de seguros en Banco Ripley! 🚀",
+📢 ¡Postula y sé parte del equipo que impulsa decisiones estratégicas a través de datos en Banco Ripley! 🚀",
 Data Scientist,Área Data Analytics,Ofi. Alonso De Cordova 5320 - Prod.Financiero,,,2026-07-20,20106,111459,ripley,2026-07-20,2026-07-21,0.416,GGS.-10-BACKOFFICE,Data Scientist,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/20106?c=ripley,,"🚀 ¡En Banco Ripley Chile estamos en búsqueda de un/a Data Scientist! 🔍📊🤖
 Si te apasiona transformar datos en conocimiento, desarrollar modelos analíticos avanzados y generar impacto real en la estrategia del negocio, ¡te estamos buscando! 🙌
 🎯 Misión del cargo
@@ -84,24 +167,24 @@ Pensamos en el bienestar y desarrollo de nuestros colaboradores, por eso ofrecem
 🔹 Descuentos en Tiendas Ripley.
 En Ripley y Banco Ripley valoramos la diversidad e inclusión. En el marco de la Ley 21.015, te invitamos a postular y, si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.
 📢 ¡Postula y sé parte del equipo que está liderando la transformación mediante Inteligencia Artificial en Banco Ripley! 🚀",
-Jefe Mis Riesgo,Área Seguimiento y Mis Banco,Ofi. Alonso De Cordova 5320 - Prod.Financiero,,,2026-07-20,17173,108553,ripley,2026-07-20,2026-07-21,0.3722,GGS.-12-BACKOFFICE,Jefe Mis Riesgo,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/17173?c=ripley,,"¡En Banco Ripley estamos en búsqueda de un/a Jefe/a MIS Riesgo! 🔍🚀
-Si te apasiona el análisis de datos, la generación de insights y el impacto directo en la toma de decisiones estratégicas, ¡te estamos buscando! 🙌
+Supervisor Zonal Seguros,Área Zona Centro,Ofi. Alonso De Cordova 5320 - Comercial,,,2026-07-20,20019,111384,ripley,2026-07-20,2026-07-21,0.348,GGS.-10-BACKOFFICE,Supervisor Zonal Seguros,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/20019?c=ripley,,"¡En Banco Ripley estamos en búsqueda de un/a Supervisor/a Zonal de Seguros! 🔍🚀
+Si te apasiona el liderazgo de equipos comerciales, la gestión de indicadores y el desarrollo de estrategias que impulsen el cumplimiento de metas, ¡te estamos buscando! 🙌
 🎯 Misión del cargo
-Liderar la gestión, procesamiento y análisis de grandes volúmenes de información, asegurando la calidad e integridad de los datos, con el objetivo de generar insights oportunos que permitan alertar desviaciones y apoyar la toma de decisiones en la gestión de riesgo y cartera.
+Implementar las estrategias comerciales definidas para el canal de venta de seguros, asegurando el cumplimiento de los objetivos, la calidad de las ventas y un excelente clima organizacional. Serás responsable de coordinar acciones en las redes del banco, manteniendo relaciones cercanas y efectivas con los equipos de sucursales.
 ¿Cuál será tu principal desafío? 🚀
-📊 Gestionar y supervisar el procesamiento de grandes volúmenes de datos, asegurando consistencia, calidad e integridad de la información.
-📈 Desarrollar y automatizar reportes que alerten desviaciones en la cartera, tanto en stock como en originación.
-🎯 Monitorear indicadores clave de riesgo, provisiones, morosidad y gestión de cobranza, asegurando su correcta evolución.
-🤝 Coordinar con áreas como Contabilidad, Operaciones, Comercial, Auditoría y equipos de Riesgo para alinear información y gestión.
-🔍 Entregar soporte analítico y directrices para la gestión de cobranza y seguimiento de indicadores críticos.
-📌 Preparar información clave para comités de riesgo y relacionamiento con entidades regulatorias.
-🚀 Impulsar mejoras en reportería mediante automatización, integración con herramientas como Power BI e iniciativas de analítica avanzada.
+💡 Implementar y gestionar acciones de seguimiento comercial, reduciendo dispersiones entre sucursales y asegurando el cumplimiento del presupuesto.
+📈 Establecer modelos de gestión y metodologías de control para impulsar los resultados de las zonas a cargo.
+🎯 Controlar la gestión de ventas bajo criterios de eficiencia, ética y calidad, velando por el cumplimiento de los estándares definidos.
+🤝 Liderar, acompañar y desarrollar a los equipos comerciales, promoviendo un clima laboral positivo, cercano y de confianza.
+📊 Implementar campañas, capacitaciones y planes comerciales que fortalezcan el desempeño y potencien los resultados.
+🚀 Mantener una relación permanente con las sucursales, detectando oportunidades de mejora e impulsando iniciativas que contribuyan al crecimiento del negocio de seguros.
 ¿Qué valoramos en tu postulación? 🎯
-🎓 Formación en Ingeniería Civil Industrial, Informática, Estadística o carrera afín.
-💼 Al menos 5 años de experiencia en roles similares, idealmente en riesgo, datos o control de gestión.
-📊 Alta capacidad analítica y experiencia trabajando con grandes volúmenes de datos.
-💻 Manejo de herramientas de análisis y reportería (Excel avanzado, Power BI, SQL y deseable experiencia en automatización).
-📈 Conocimiento en indicadores de riesgo, cartera, provisiones y cobranza.
+🎓 Profesional del área de Administración, Ingeniería Comercial o carreras afines.
+💼 Al menos 2 años de experiencia en el rubro de seguros.
+🚀 Experiencia liderando equipos comerciales y gestionando indicadores de desempeño.
+📊 Capacidad analítica para realizar seguimiento de resultados y generar planes de acción.
+🧩 Perfil planificado, orientado a resultados, con liderazgo positivo y habilidades para influir y movilizar equipos.
+🌍 Disponibilidad para viajar y recorrer sucursales.
 🚀 ¿Por qué trabajar en Banco Ripley? 💜
 Pensamos en el bienestar y desarrollo de nuestros colaboradores, por eso ofrecemos:
 🔹 Capacitaciones y oportunidades de crecimiento profesional.
@@ -109,39 +192,39 @@ Pensamos en el bienestar y desarrollo de nuestros colaboradores, por eso ofrecem
 🔹 Seguro complementario.
 🔹 Descuentos en Tiendas Ripley.
 En Ripley y Banco Ripley valoramos la diversidad e inclusión. En el marco de la Ley 21.015, te invitamos a postular y, si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.
-📢 ¡Postula y sé parte del equipo que impulsa decisiones estratégicas a través de datos en Banco Ripley! 🚀",
-Ingeniero en Gestión de Continuidad,Depto. Continuidad de Negocio,Ofi. Alonso De Cordova 5320 - Prod.Financiero,,,2026-07-20,23037,114401,ripley,2026-07-20,2026-07-21,0.3302,GGS.-10-BACKOFFICE,Ingeniero en Gestión de Continuidad,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/23037?c=ripley,,"¡En Banco Ripley estamos en búsqueda de un/a Ingeniero/a en Gestión de Continuidad! 🔍🚀
-Si te apasiona la tecnología, la gestión de riesgos y asegurar la disponibilidad de servicios críticos, ¡te estamos buscando! 🙌
-🎯 Misión del cargo
-Asegurar la continuidad operativa del negocio, reduciendo el impacto de incidentes disruptivos mediante la implementación, gestión y mejora de planes de continuidad, garantizando que el Banco esté preparado para responder y recuperarse oportunamente ante eventos que afecten sus operaciones críticas.
-¿Cuál será tu principal desafío? 🚀
-🧠 Coordinar la gestión de continuidad de negocio, evaluando impactos y riesgos sobre procesos críticos.
-📊 Desarrollar, implementar y mantener planes de continuidad (BCP) y apoyar planes de recuperación ante desastres (DRP).
-🔍 Evaluar técnicamente iniciativas y cambios tecnológicos, identificando riesgos, GAPS y puntos únicos de falla (SPOF).
-⚙️ Diseñar y monitorear indicadores (KPI/KRI) para la toma de decisiones en continuidad.
-🤝 Coordinar con equipos de TI, riesgo, seguridad y distintas áreas del banco para ejecutar pruebas de continuidad.
-📈 Gestionar planes de mitigación y fortalecer la resiliencia organizacional.
-📋 Asegurar cumplimiento normativo y reporte ante entidades regulatorias (CMF).
-🧠 Competencias clave
-🔎 Alta capacidad analítica y visión técnica del negocio.
-⚡ Autonomía, proactividad y capacidad de coordinación transversal.
-🤝 Habilidad para liderar iniciativas y articular múltiples equipos.
-📈 Orientación a resultados y gestión de riesgos.
-🔐 Rigurosidad en el manejo de información crítica.
-🚀 ¿Por qué trabajar en Banco Ripley? 💜
-🔹 Capacitaciones y oportunidades de crecimiento profesional.
-🔹 Tasa preferencial en productos Banco Ripley.
-🔹 Seguro complementario.
-🔹 Descuentos en Tiendas Ripley.
-En Ripley y Banco Ripley valoramos la diversidad e inclusión. En el marco de la Ley 21.015, te invitamos a postular y, si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.
-📢 ¡Postula y sé parte del equipo que asegura la continuidad y resiliencia del Banco! 🚀","¿Qué valoramos en tu postulación? 🎯
-🎓 Formación en Ingeniería Informática, Ingeniería Civil o carrera afín.
-💼 Al menos 4 años de experiencia en continuidad de negocio, tecnología o gestión de riesgos.
-💻 Conocimiento en infraestructura TI, redes, servidores, bases de datos y arquitecturas tecnológicas.
-☁️ Experiencia o conocimientos en entornos tecnológicos complejos.
-📚 Conocimiento en normativa de continuidad (ISO 22301) y seguridad de la información (ISO 27001).
-📊 Manejo de Excel y herramientas de análisis (Power BI deseable).
-🏦 Experiencia en banca o industrias altamente tecnológicas (deseable)."
+📢 ¡Postula y sé parte del equipo que impulsa el crecimiento del negocio de seguros en Banco Ripley! 🚀",
+Product Manager Medios Digitales - Reemplazo Pre y Post Natal,Subgcia. de Medios E-commerce,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-20,22709,114081,ripley,2026-07-20,2026-07-21,0.3952,GGS.-10-BACKOFFICE,Product Manager Medios Digitales,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22709?c=ripley,,"En Ripley Chile, lo tenemos todo ¡Solo nos falta tu talento! 🤩🩷
+Promovemos equipos diversos y colaborativos, buscando mejorar la experiencia de nuestros clientes a través de la innovación y la cultura de servicio. ¡Súmate a una industria ágil y desafiante!
+¡Postula para ser parte de nuestro equipo!
+Estamos en búsqueda de nuestro/a nuevo/a Product Manager Medios Digitales - Reemplazo Pre y Post Natal para nuestra Gerencia de Marketing E-commerce.
+Tu misión será apoyar al logro de objetivos del área y del negocio mediante la gestión eficiente del presupuesto de performance de sus divisiones a cargo y la generación de estrategias para incrementar la inversión de nuestros sellers y proveedores en el Marketplace.
+¿Cuáles serán tus principales funciones? 🚀
+Gestionar presupuesto de sus divisiones de forma eficiente para lograr objetivos del área.
+Generar estrategias para incrementar la inversión digital de proveedores en ripley.com.
+Participar en instancias de capacitación a sellers en temas relacionados a marketing digital.
+Negociar y asesorar a proveedores y sellers proveedores y área comercial para levantar ppto para campañas en medios R.com.
+Diseñar e implementar planes digitales que permitan a nuestros sellers y proveedores lograr sus objetivos dentro del e-commerce.
+Implementar y optimizar campañas en medios digitales (ej: Google Ads, Meta Ads y Tik Tok Ads).
+Coordinar con equipo campañas y marketing tienda para campañas conjuntas.
+Analizar insights de medios para mejorar resultados de campañas por categorías.
+Analizar KPIs objetivos por categoría (ej: roas, conversión, tráfico, venta).
+¿Qué valoramos en tu postulación? 🎯
+Ingeniero comercial, carrera afín (Excluyente)
+Excel intermedio-avanzado: Deseable conocimiento de Supermetrics.
+Desde 2 años de experiencia
+Experiencia en Medios Digitales y Marketing digital, foco en campañas e indicadores de performance.(Excluyente)
+Experiencia implementando campañas: Implementación de campañas de search, shopping, discovery en Google. Implementación de campañas de subasta y remarketing en Facebook.
+Manejo de plataformas de anuncios Google Ads y administrador de Meta.
+Manejo de herramientas de análisis como Google Analytics, Looker Studio.
+¿Por qué trabajar en Ripley?🩷
+Pensamos en el bienestar de nuestros colaboradores, es por esto que contamos con atractivos beneficios corporativos como:
+Capacitaciones y entrenamiento enfocado a tu desarrollo de carrera.
+Tasa Preferencial en Productos Banco Ripley.
+Seguro Complementario Gratuito.
+Descuento en Tiendas Ripley.
+Desarrollo Profesional.
+Entre otros.
+En Ripley y Banco Ripley valoramos la diversidad e inclusión. Es por esto que, en el marco de la Ley 21.015, te invitamos a postular y si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo",
 Jefe de Sostenibilidad,Gerencia Proyectos Sostenibles,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-20,22946,114313,ripley,2026-07-20,2026-07-21,0.3412,GGS.-12-BACKOFFICE,Jefe de Sostenibilidad,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22946?c=ripley,,"En
 Ripley Chile
 , lo tenemos todo
@@ -207,26 +290,6 @@ Uso de CRM
 Captación y fidelización de clientes.
 Atención y servicio al cliente.
 Manejo de bases de datos y reportes comerciales."
-Supervisor Servicio Al Cliente,Centro de Cambios,Tda Plaza Huechuraba - Plataforma De Servicios,,,2026-07-20,22899,114266,ripley,2026-07-20,2026-07-21,0.2996,GGS-09-RETAIL,Supervisor Servicio Al Cliente,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22899?c=ripley,,"En
-Ripley
-, lo tenemos todo ¡Solo nos falta tu talento!🤩
-Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio.
-Súmate a una industria ágil y desafiante ¡Postula para ser parte de nuestro equipo!
-Estamos en búsqueda de nuestro/a nuevo/a
-Supervisor de Servicio al Cliente.
-Tu misión 🚀
-Tu misión será velar por la correcta atención y resolución de reclamos que afecten directa o indirectamente a los clientes, relacionada con la post venta, además de contar con el cuidado de aquellos procesos que pongan en riesgo la pérdida de valor en la empresa. (clientes, productos, insumos).
-¿Cuáles serán tus principales desafíos? 🚀
-Control de procedimientos y resolución de casos.
-Gestión de comunicación entre clientes y operaciones.
-Control de ventas con retiro en tienda.
-Liderazgo y capacitación del equipo de servicio al cliente.
-Prevención de reclamos y protección de la imagen corporativa.
-Liderazgo en orden y limpieza de bodega omnicanal, para entregar una experiencia adecuada hacia el cliente.
-¿Por qué trabajar en Ripley? ❤️💜
-Entendemos y nos amoldamos a tu estilo de vida, promoviendo beneficios que fomenten la flexibilidad en la manera de trabajar. Gracias a Rworks nos conectamos desde cualquier lugar, y contamos con modernos espacios colaborativos para mantener la cohesión con nuestros equipos.
-Tendrás acceso a seguros complementarios de salud, convenios con reconocidas universidades y beneficios preferenciales en Banco Ripley.
-Revisa más detalles sobre vida en la empresa en nuestro LinkedIn “Ripley Chile”.",
 Ejecutivo de Venta Producto Financiero,Captación,Tda Florida Center (Gesic) - Nuevos Clientes,,,2026-07-20,22902,114269,ripley,2026-07-20,2026-07-21,0.3398,GGS-0-RETAIL,Ejecutivo de Venta Producto Financiero,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22902?c=ripley,,"En
 Banco Ripley Chile
 , lo tenemos todo ¡Solo nos falta tu talento! 🤩
@@ -255,38 +318,38 @@ Manejo de sistemas CRM para la gestión y seguimiento de clientes.
 Captación y fidelización de clientes.
 Atención y servicio al cliente con enfoque en la satisfacción del usuario.
 Manejo de bases de datos y elaboración de reportes comerciales."
-Product Manager Medios Digitales - Reemplazo Pre y Post Natal,Subgcia. de Medios E-commerce,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-20,22709,114081,ripley,2026-07-20,2026-07-21,0.3952,GGS.-10-BACKOFFICE,Product Manager Medios Digitales,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22709?c=ripley,,"En Ripley Chile, lo tenemos todo ¡Solo nos falta tu talento! 🤩🩷
-Promovemos equipos diversos y colaborativos, buscando mejorar la experiencia de nuestros clientes a través de la innovación y la cultura de servicio. ¡Súmate a una industria ágil y desafiante!
-¡Postula para ser parte de nuestro equipo!
-Estamos en búsqueda de nuestro/a nuevo/a Product Manager Medios Digitales - Reemplazo Pre y Post Natal para nuestra Gerencia de Marketing E-commerce.
-Tu misión será apoyar al logro de objetivos del área y del negocio mediante la gestión eficiente del presupuesto de performance de sus divisiones a cargo y la generación de estrategias para incrementar la inversión de nuestros sellers y proveedores en el Marketplace.
-¿Cuáles serán tus principales funciones? 🚀
-Gestionar presupuesto de sus divisiones de forma eficiente para lograr objetivos del área.
-Generar estrategias para incrementar la inversión digital de proveedores en ripley.com.
-Participar en instancias de capacitación a sellers en temas relacionados a marketing digital.
-Negociar y asesorar a proveedores y sellers proveedores y área comercial para levantar ppto para campañas en medios R.com.
-Diseñar e implementar planes digitales que permitan a nuestros sellers y proveedores lograr sus objetivos dentro del e-commerce.
-Implementar y optimizar campañas en medios digitales (ej: Google Ads, Meta Ads y Tik Tok Ads).
-Coordinar con equipo campañas y marketing tienda para campañas conjuntas.
-Analizar insights de medios para mejorar resultados de campañas por categorías.
-Analizar KPIs objetivos por categoría (ej: roas, conversión, tráfico, venta).
-¿Qué valoramos en tu postulación? 🎯
-Ingeniero comercial, carrera afín (Excluyente)
-Excel intermedio-avanzado: Deseable conocimiento de Supermetrics.
-Desde 2 años de experiencia
-Experiencia en Medios Digitales y Marketing digital, foco en campañas e indicadores de performance.(Excluyente)
-Experiencia implementando campañas: Implementación de campañas de search, shopping, discovery en Google. Implementación de campañas de subasta y remarketing en Facebook.
-Manejo de plataformas de anuncios Google Ads y administrador de Meta.
-Manejo de herramientas de análisis como Google Analytics, Looker Studio.
-¿Por qué trabajar en Ripley?🩷
-Pensamos en el bienestar de nuestros colaboradores, es por esto que contamos con atractivos beneficios corporativos como:
-Capacitaciones y entrenamiento enfocado a tu desarrollo de carrera.
-Tasa Preferencial en Productos Banco Ripley.
-Seguro Complementario Gratuito.
-Descuento en Tiendas Ripley.
-Desarrollo Profesional.
-Entre otros.
-En Ripley y Banco Ripley valoramos la diversidad e inclusión. Es por esto que, en el marco de la Ley 21.015, te invitamos a postular y si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo",
+Ingeniero en Gestión de Continuidad,Depto. Continuidad de Negocio,Ofi. Alonso De Cordova 5320 - Prod.Financiero,,,2026-07-20,23037,114401,ripley,2026-07-20,2026-07-21,0.3302,GGS.-10-BACKOFFICE,Ingeniero en Gestión de Continuidad,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/23037?c=ripley,,"¡En Banco Ripley estamos en búsqueda de un/a Ingeniero/a en Gestión de Continuidad! 🔍🚀
+Si te apasiona la tecnología, la gestión de riesgos y asegurar la disponibilidad de servicios críticos, ¡te estamos buscando! 🙌
+🎯 Misión del cargo
+Asegurar la continuidad operativa del negocio, reduciendo el impacto de incidentes disruptivos mediante la implementación, gestión y mejora de planes de continuidad, garantizando que el Banco esté preparado para responder y recuperarse oportunamente ante eventos que afecten sus operaciones críticas.
+¿Cuál será tu principal desafío? 🚀
+🧠 Coordinar la gestión de continuidad de negocio, evaluando impactos y riesgos sobre procesos críticos.
+📊 Desarrollar, implementar y mantener planes de continuidad (BCP) y apoyar planes de recuperación ante desastres (DRP).
+🔍 Evaluar técnicamente iniciativas y cambios tecnológicos, identificando riesgos, GAPS y puntos únicos de falla (SPOF).
+⚙️ Diseñar y monitorear indicadores (KPI/KRI) para la toma de decisiones en continuidad.
+🤝 Coordinar con equipos de TI, riesgo, seguridad y distintas áreas del banco para ejecutar pruebas de continuidad.
+📈 Gestionar planes de mitigación y fortalecer la resiliencia organizacional.
+📋 Asegurar cumplimiento normativo y reporte ante entidades regulatorias (CMF).
+🧠 Competencias clave
+🔎 Alta capacidad analítica y visión técnica del negocio.
+⚡ Autonomía, proactividad y capacidad de coordinación transversal.
+🤝 Habilidad para liderar iniciativas y articular múltiples equipos.
+📈 Orientación a resultados y gestión de riesgos.
+🔐 Rigurosidad en el manejo de información crítica.
+🚀 ¿Por qué trabajar en Banco Ripley? 💜
+🔹 Capacitaciones y oportunidades de crecimiento profesional.
+🔹 Tasa preferencial en productos Banco Ripley.
+🔹 Seguro complementario.
+🔹 Descuentos en Tiendas Ripley.
+En Ripley y Banco Ripley valoramos la diversidad e inclusión. En el marco de la Ley 21.015, te invitamos a postular y, si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.
+📢 ¡Postula y sé parte del equipo que asegura la continuidad y resiliencia del Banco! 🚀","¿Qué valoramos en tu postulación? 🎯
+🎓 Formación en Ingeniería Informática, Ingeniería Civil o carrera afín.
+💼 Al menos 4 años de experiencia en continuidad de negocio, tecnología o gestión de riesgos.
+💻 Conocimiento en infraestructura TI, redes, servidores, bases de datos y arquitecturas tecnológicas.
+☁️ Experiencia o conocimientos en entornos tecnológicos complejos.
+📚 Conocimiento en normativa de continuidad (ISO 22301) y seguridad de la información (ISO 27001).
+📊 Manejo de Excel y herramientas de análisis (Power BI deseable).
+🏦 Experiencia en banca o industrias altamente tecnológicas (deseable)."
 Analista de Contratos,Subgerencia de Compras,Ofi. Alonso De Cordova 5320 - Finanzas,,,2026-07-17,21335,112692,ripley,2026-07-17,2026-07-21,0.2888,GGS.-09-BACKOFFICE,Analista de Contratos,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/21335?c=ripley,,"En Ripley Chile, lo tenemos todo ¡Solo nos falta tu talento! 🤩
 Promovemos equipos diversos y colaborativos, buscando mejorar la experiencia de nuestros clientes a través de la innovación y la cultura de servicio. Súmate a una industria ágil y desafiante, ¡Postula para ser parte de nuestro equipo!
 Estamos en búsqueda de nuestro/a nuevo/a Analista de Contratos para nuestra Gerencia Corporativa de Adm. y Finanzas
@@ -313,6 +376,23 @@ Requisitos🎯
 - Entre otros.
 ¡Postula para ser parte de nuestro equipo!
 En Ripley y Banco Ripley valoramos la diversidad e inclusión. Es por esto que, en el marco de la Ley 21.015, te invitamos a postular y si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.",
+Guardia Interno Tiendas Part Time - San Fernando,Seguridad,Tda San Fernando - Seguridad,,,2026-07-15,16157,107488,ripley,2026-07-17,2026-07-21,0.3548,GGS-0-RETAIL,Guardia Interno Tiendas Pt 18,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/16157?c=ripley,,"En Ripley Chile, lo tenemos todo ¡Solo nos falta tu talento! 🤩
+Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio.
+Súmate a una industria ágil y desafiante ¡Postula para ser parte de nuestro equipo!
+Estamos en búsqueda de nuestro/a
+Guardia Interno Tiendas San Fernando
+Tu misión 🚀
+Velar por los bienes de la compañía y seguridad de nuestros clientes y colaboradores, manteniendo un entorno seguro y protegido, prestando atención a los indicios de delito o desorden que puedan afectar el correcto funcionamiento de la tienda.
+¿Cuáles serán tus principales desafíos? 🚀
+Resguardo de Activos y Seguridad Integral en Tienda.
+Prevención de Hurtos en Puntos de Acceso.
+Control de Productos No Enlazados o Empiochados.
+Supervisión de Apertura y Cierre de Tienda.
+¿Por qué trabajar en Ripley? ❤️💜
+Entendemos y nos amoldamos a tu estilo de vida, promoviendo beneficios que fomenten la flexibilidad en la manera de trabajar.
+Gracias a Rworks nos conectamos desde cualquier lugar, y contamos con modernos espacios colaborativos para mantener la cohesión con nuestros equipos.
+Tendrás acceso a seguros complementarios de salud, convenios con reconocidas universidades y beneficios preferenciales en Banco Ripley.
+Revisa más detalles sobre vida en la empresa en nuestro LinkedIn “Ripley Chile”",
 Líder de Revenue Management,Área Revenue Management,Ofi. Alonso De Cordova 5320 - Producto Financiero,,,2026-07-15,21725,113117,ripley,2026-07-17,2026-07-21,0.3873,GGS.-12-BACKOFFICE,Jefe de Revenue Management,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/21725?c=ripley,,"¡En Banco Ripley estamos en búsqueda de un/a Líder de Revenue Management! 🔍🚀
 Si te apasiona hacer crecer las ventas a raíz de estrategias comerciales y rentabilidad a través del pricing, ¡te estamos buscando! 🙌
 🎯 Misión del cargo
@@ -398,24 +478,7 @@ Líderes de tienda
 Porque aquí las personas están en el centro. Promovemos una cultura cercana, colaborativa y diversa, donde podrás desarrollarte profesionalmente, asumir nuevos desafíos y formar parte de una empresa que impulsa el crecimiento de sus equipos.
 Además, podrás acceder a beneficios pensados para acompañarte en tu desarrollo y bienestar.
 ✨ ¡Súmate a Ripley y sé parte de una experiencia donde tu talento hace la diferencia!",
-Guardia Interno Tiendas Part Time - San Fernando,Seguridad,Tda San Fernando - Seguridad,,,2026-07-15,16157,107488,ripley,2026-07-17,2026-07-21,0.3548,GGS-0-RETAIL,Guardia Interno Tiendas Pt 18,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/16157?c=ripley,,"En Ripley Chile, lo tenemos todo ¡Solo nos falta tu talento! 🤩
-Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio.
-Súmate a una industria ágil y desafiante ¡Postula para ser parte de nuestro equipo!
-Estamos en búsqueda de nuestro/a
-Guardia Interno Tiendas San Fernando
-Tu misión 🚀
-Velar por los bienes de la compañía y seguridad de nuestros clientes y colaboradores, manteniendo un entorno seguro y protegido, prestando atención a los indicios de delito o desorden que puedan afectar el correcto funcionamiento de la tienda.
-¿Cuáles serán tus principales desafíos? 🚀
-Resguardo de Activos y Seguridad Integral en Tienda.
-Prevención de Hurtos en Puntos de Acceso.
-Control de Productos No Enlazados o Empiochados.
-Supervisión de Apertura y Cierre de Tienda.
-¿Por qué trabajar en Ripley? ❤️💜
-Entendemos y nos amoldamos a tu estilo de vida, promoviendo beneficios que fomenten la flexibilidad en la manera de trabajar.
-Gracias a Rworks nos conectamos desde cualquier lugar, y contamos con modernos espacios colaborativos para mantener la cohesión con nuestros equipos.
-Tendrás acceso a seguros complementarios de salud, convenios con reconocidas universidades y beneficios preferenciales en Banco Ripley.
-Revisa más detalles sobre vida en la empresa en nuestro LinkedIn “Ripley Chile”",
-Subgerente Comercial,Supervisión de Ventas,Tda Crillon - Ventas,,,2026-07-14,17190,108514,ripley,2026-07-17,2026-07-21,0.3214,GGS-11-RETAIL,Subgerente Comercial,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/17190?c=ripley,,"En
+Subgerente Comercial,Supervisión de Ventas,Tda Crillon - Ventas,,,2026-07-14,17190,108514,ripley,2026-07-17,2026-07-21,0.3248,GGS-11-RETAIL,Subgerente Comercial,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/17190?c=ripley,,"En
 Ripley
 , lo tenemos todo ¡Solo nos falta tu talento!🤩
 Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio.
@@ -435,7 +498,7 @@ Entendemos y nos amoldamos a tu estilo de vida, promoviendo beneficios que fomen
 Gracias a Rworks nos conectamos desde cualquier lugar, y contamos con modernos espacios colaborativos para mantener la cohesión con nuestros equipos.
 Tendrás acceso a seguros complementarios de salud, convenios con reconocidas universidades y beneficios preferenciales en Banco Ripley.
 Revisa más detalles sobre vida en la empresa en nuestro LinkedIn “Ripley Chile”.",
-Subgerente Comercial,Supervisión de Ventas,Tda Florida Center - Ventas,,,2026-07-14,22132,113488,ripley,2026-07-17,2026-07-21,0.3254,GGS-11-RETAIL,Subgerente Comercial,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22132?c=ripley,,"En
+Subgerente Comercial,Supervisión de Ventas,Tda Florida Center - Ventas,,,2026-07-14,22132,113488,ripley,2026-07-17,2026-07-21,0.323,GGS-11-RETAIL,Subgerente Comercial,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22132?c=ripley,,"En
 Ripley
 , lo tenemos todo ¡Solo nos falta tu talento!🤩
 Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio.
@@ -543,17 +606,17 @@ En Ripley y Banco Ripley valoramos la diversidad e inclusión. En el marco de la
 📚 Conocimiento básico de normativa PLAFT y tipologías de lavado de activos.
 📊 Manejo de Excel nivel intermedio (excluyente).
 💻 Experiencia en sistemas de monitoreo (deseable)."
-Category Manager - Electro,Gerencia División Electro,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-13,22534,113893,ripley,2026-07-17,2026-07-21,0.355,GGS.-10-BACKOFFICE,Category Manager,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22534?c=ripley,,"¡En Ripley Chile, lo tenemos todo! ¡Solo nos falta tu talento!
+Category Manager - Decohogar,Gerencia División Decohogar,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-13,22546,113891,ripley,2026-07-17,2026-07-21,0.3929,GGS.-10-BACKOFFICE,Category Manager,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22546?c=ripley,,"¡En Ripley Chile, lo tenemos todo! ¡Solo nos falta tu talento!
 🤩🩷
 Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar constantemente la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio. Si te apasiona el análisis de datos, el trabajo en equipo y enfrentar nuevos desafíos, esta oportunidad es para ti.
 ¡Postula para ser parte de nuestro equipo!
 Estamos en búsqueda de nuestro/a nuevo/a
-Category Manager Electro - Línea Blanca
+Category Manager Decohogar - Maletas, alfombras, decoración y navidad
 para nuestra
 Gerencia Comercial.
 ¿Cuáles serán tus principales desafíos?
 🚀
-Apoyar la definición de estrategia comercial del departamento: Línea Blanca
+Apoyar la definición de estrategia comercial del departamento: Maletas, Alfombras, Decoración y Navidad.
 Generar órdenes de compra.
 Ejecutar cambio de precios y costos.
 Realizar la gestión operacional del departamento.
@@ -576,17 +639,17 @@ Descuento en Tiendas Ripley.
 Desarrollo Profesional.
 Entre otros.
 En Ripley y Banco Ripley valoramos la diversidad e inclusión. Es por esto que, en el marco de la Ley 21.015, te invitamos a postular y si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo",
-Category Manager - Decohogar,Gerencia División Decohogar,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-13,22546,113891,ripley,2026-07-17,2026-07-21,0.3929,GGS.-10-BACKOFFICE,Category Manager,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22546?c=ripley,,"¡En Ripley Chile, lo tenemos todo! ¡Solo nos falta tu talento!
+Category Manager - Electro,Gerencia División Electro,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-13,22534,113893,ripley,2026-07-17,2026-07-21,0.355,GGS.-10-BACKOFFICE,Category Manager,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22534?c=ripley,,"¡En Ripley Chile, lo tenemos todo! ¡Solo nos falta tu talento!
 🤩🩷
 Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar constantemente la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio. Si te apasiona el análisis de datos, el trabajo en equipo y enfrentar nuevos desafíos, esta oportunidad es para ti.
 ¡Postula para ser parte de nuestro equipo!
 Estamos en búsqueda de nuestro/a nuevo/a
-Category Manager Decohogar - Maletas, alfombras, decoración y navidad
+Category Manager Electro - Línea Blanca
 para nuestra
 Gerencia Comercial.
 ¿Cuáles serán tus principales desafíos?
 🚀
-Apoyar la definición de estrategia comercial del departamento: Maletas, Alfombras, Decoración y Navidad.
+Apoyar la definición de estrategia comercial del departamento: Línea Blanca
 Generar órdenes de compra.
 Ejecutar cambio de precios y costos.
 Realizar la gestión operacional del departamento.
@@ -736,6 +799,36 @@ En Ripley y Banco Ripley valoramos la diversidad e inclusión. En el marco de la
 💻 Manejo de SAP y herramientas BI como Power BI.
 📈 Manejo avanzado de Excel.
 📚 Conocimiento en control de gestión, finanzas y administración."
+Supervisor de Seguridad,Seguridad,Tda Talca - Seguridad,,,2026-07-08,17733,108737,ripley,2026-07-17,2026-07-21,0.2953,GGS-08-RETAIL,Supervisor de Seguridad,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/17733?c=ripley,,"En Ripley Chile, lo tenemos todo ¡Solo nos falta tu talento! 🤩
+Estamos en búsqueda de nuestro/a nuevo/a
+Supervisor/a de Seguridad
+para una de nuestras tiendas Ripley ubicada en
+Talca.
+Su misión será prevenir, asesorar, y ejecutar distintas medidas de seguridad para evitar actos delictuales sobre los bienes de la empresa y del personal, para permitir un clima de seguridad, tranquilidad y normalidad dentro del establecimiento, con el fin de un mejor desempeño comercial de sus empleados y un ambiente grato a los clientes.
+¿Cuáles serán tus principales desafíos? 🚀
+Realizar la coordinación diaria del equipo de seguridad, distribuyendo los funcionarios en los puntos a cubrir.
+Disminuir las pérdidas por diferencia de inventario, mitigar el riesgo de pérdidas de valores y lograr resguardo de las personas e instalaciones.
+Mantener en todo momento los sistemas de seguridad técnica operativos y en buen estado.
+Cumplir y hacer cumplir la normativa legal vigente con respecto a la seguridad privada, cursos OS10, acreditaciones, seguros de vida y directiva de funcionamiento al día.
+Detectar malas prácticas y participar en forma activa en su corrección, todo respetando normativa legal vigente.
+Velar por la seguridad diurna y nocturna de las instalaciones.
+¿Qué valoramos en tu postulación? 🎯
+Enseñanza Media Completa (excluyente)
+Estudios en Administración o carreras afines (deseable).
+Mínimo 3 años de experiencia liderando equipos en el área de seguridad.
+Curso de Supervisor o Jefe de Seguridad OS10 vigente (excluyente)
+Diplomado en Seguridad (deseable, no excluyente).
+Disponibilidad para trabajar con turnos rotativos de lunes a domingo.
+¿Por qué trabajar en Ripley? 💜
+Pensamos en el bienestar de nuestros colaboradores, es por esto que contamos con atractivos beneficios corporativos como:
+Capacitaciones y entrenamiento enfocado a tu desarrollo de carrera.
+Tasa Preferencial en Productos Banco Ripley.
+Seguro Complementario Gratuito.
+Descuento en Tiendas Ripley.
+Desarrollo Profesional.
+Entre otros.
+¡En Ripley estamos comprometidos con la Diversidad e Inclusión laboral!
+¡Postula para ser parte de nuestro equipo!",
 PM Rentabilidad E2E,Gerencia Gestión Omnicanal,Ofi Cerro Colorado 5240 - Internet,,,2026-07-08,22136,113494,ripley,2026-07-17,2026-07-21,0.3531,GGS.-10-BACKOFFICE,PM Rentabilidad E2E,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22136?c=ripley,,"En Ripley Chile, lo tenemos todo ¡Solo nos falta tu talento! 🤩
 Promovemos equipos diversos y colaborativos, buscando mejorar la experiencia de nuestros clientes a través de la innovación y la cultura de servicio. Súmate a una industria ágil y desafiante, ¡Postula para ser parte de nuestro equipo!
 Estamos en búsqueda de nuestro/a nuevo/a
@@ -770,36 +863,6 @@ Desarrollo Profesional.
 Entre otros.
 ¡Postula para ser parte de nuestro equipo!
 En Ripley y Banco Ripley valoramos la diversidad e inclusión. Es por esto que, en el marco de la Ley 21.015, te invitamos a postular y si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.",
-Supervisor de Seguridad,Seguridad,Tda Talca - Seguridad,,,2026-07-08,17733,108737,ripley,2026-07-17,2026-07-21,0.2953,GGS-08-RETAIL,Supervisor de Seguridad,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/17733?c=ripley,,"En Ripley Chile, lo tenemos todo ¡Solo nos falta tu talento! 🤩
-Estamos en búsqueda de nuestro/a nuevo/a
-Supervisor/a de Seguridad
-para una de nuestras tiendas Ripley ubicada en
-Talca.
-Su misión será prevenir, asesorar, y ejecutar distintas medidas de seguridad para evitar actos delictuales sobre los bienes de la empresa y del personal, para permitir un clima de seguridad, tranquilidad y normalidad dentro del establecimiento, con el fin de un mejor desempeño comercial de sus empleados y un ambiente grato a los clientes.
-¿Cuáles serán tus principales desafíos? 🚀
-Realizar la coordinación diaria del equipo de seguridad, distribuyendo los funcionarios en los puntos a cubrir.
-Disminuir las pérdidas por diferencia de inventario, mitigar el riesgo de pérdidas de valores y lograr resguardo de las personas e instalaciones.
-Mantener en todo momento los sistemas de seguridad técnica operativos y en buen estado.
-Cumplir y hacer cumplir la normativa legal vigente con respecto a la seguridad privada, cursos OS10, acreditaciones, seguros de vida y directiva de funcionamiento al día.
-Detectar malas prácticas y participar en forma activa en su corrección, todo respetando normativa legal vigente.
-Velar por la seguridad diurna y nocturna de las instalaciones.
-¿Qué valoramos en tu postulación? 🎯
-Enseñanza Media Completa (excluyente)
-Estudios en Administración o carreras afines (deseable).
-Mínimo 3 años de experiencia liderando equipos en el área de seguridad.
-Curso de Supervisor o Jefe de Seguridad OS10 vigente (excluyente)
-Diplomado en Seguridad (deseable, no excluyente).
-Disponibilidad para trabajar con turnos rotativos de lunes a domingo.
-¿Por qué trabajar en Ripley? 💜
-Pensamos en el bienestar de nuestros colaboradores, es por esto que contamos con atractivos beneficios corporativos como:
-Capacitaciones y entrenamiento enfocado a tu desarrollo de carrera.
-Tasa Preferencial en Productos Banco Ripley.
-Seguro Complementario Gratuito.
-Descuento en Tiendas Ripley.
-Desarrollo Profesional.
-Entre otros.
-¡En Ripley estamos comprometidos con la Diversidad e Inclusión laboral!
-¡Postula para ser parte de nuestro equipo!",
 Analista Rentabilidad E2E,Gerencia Gestión Omnicanal,Ofi Cerro Colorado 5240 - Internet,,,2026-07-08,22140,113495,ripley,2026-07-17,2026-07-21,0.3724,GGS.-09-BACKOFFICE,Analista Rentabilidad E2E,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22140?c=ripley,,"En Ripley Chile, lo tenemos todo ¡Solo nos falta tu talento! 🤩
 Promovemos equipos diversos y colaborativos, buscando mejorar la experiencia de nuestros clientes a través de la innovación y la cultura de servicio. Súmate a una industria ágil y desafiante, ¡Postula para ser parte de nuestro equipo!
 Estamos en búsqueda de nuestro/a nuevo/a
@@ -833,8 +896,7 @@ Desarrollo Profesional.
 Entre otros.
 ¡Postula para ser parte de nuestro equipo!
 En Ripley y Banco Ripley valoramos la diversidad e inclusión. Es por esto que, en el marco de la Ley 21.015, te invitamos a postular y si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.",
-Analista Finanzas Corporativas,Gerencia Finanzas,Ofi. Alonso De Cordova 5320 - Finanzas,,,2026-07-07,20511,111867,ripley,2026-07-17,2026-07-21,0.2744,GGS.-10-BACKOFFICE,Analista Finanzas Corporativas,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/20511?c=ripley,,Analista Finanzas Corporativas,
-Asistente Comercial Internet Reemplazo Pre y Post Natal,Subgerencia Moda e Infantil,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-07,15563,106896,ripley,2026-07-17,2026-07-21,0.3084,GGS.-09-BACKOFFICE,Asistente Comercial Internet Senior,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/15563?c=ripley,,"¡En Ripley Chile, lo tenemos todo! ¡Solo nos falta tu talento! 🤩
+Asistente Comercial Internet Reemplazo Pre y Post Natal,Subgerencia Moda e Infantil,Ofi Cerro Colorado 5240 - Comercial,,,2026-07-07,15563,106896,ripley,2026-07-17,2026-07-21,0.3295,GGS.-09-BACKOFFICE,Asistente Comercial Internet Senior,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/15563?c=ripley,,"¡En Ripley Chile, lo tenemos todo! ¡Solo nos falta tu talento! 🤩
 Somos un equipo diverso, ágil y colaborativo, enfocado en mejorar constantemente la experiencia de nuestros clientes a través de la innovación y una sólida cultura de servicio. Si te apasiona el análisis de datos, el trabajo en equipo y enfrentar nuevos desafíos, esta oportunidad es para ti.
 ¡Postula para ser parte de nuestro equipo!
 Estamos en búsqueda de un/a Asistente Comercial Internet - Reemplazo Pre y Post Natal para sumarse a nuestra Gerencia Comercial E-commerce.
@@ -867,6 +929,7 @@ Desarrollo Profesional.
 Entre otros.
 ¡Postula para ser parte de nuestro equipo!
 En Ripley y Banco Ripley valoramos la diversidad e inclusión. Es por esto que, en el marco de la Ley 21.015, te invitamos a postular y si necesitas algún ajuste razonable durante el proceso, no dudes en indicarlo.",
+Analista Finanzas Corporativas,Gerencia Finanzas,Ofi. Alonso De Cordova 5320 - Finanzas,,,2026-07-07,20511,111867,ripley,2026-07-17,2026-07-21,0.2744,GGS.-10-BACKOFFICE,Analista Finanzas Corporativas,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/20511?c=ripley,,Analista Finanzas Corporativas,
 Jefe de Proyectos y Gestión Comercial,Gerencia Negocio Financiero,Ofi. Alonso De Cordova 5320 - Gerencia,,,2026-07-06,21236,112592,ripley,2026-07-17,2026-07-21,0.3004,GGS.-12-BACKOFFICE,Jefe de Proyectos y Gestión Comercial,Ripley,Chile,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/21236?c=ripley,,"¡En Banco Ripley estamos en búsqueda de un/a Jefe/a de Proyectos y Gestión Comercial - Sucursales! 🔍🚀
 Si te apasiona liderar proyectos estratégicos, impulsar la transformación comercial y generar impacto a través de la mejora continua, ¡te estamos buscando! 🙌
 🎯 Misión del cargo
