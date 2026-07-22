@@ -6,7 +6,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [KAM Supermercados CPCh](https://www.trabajaenccu.cl/trabajo/6086515-kam-supermercados-cpch) | CPCH | Las Condes, Metropolitana de Santiago, Chile | 0.5247 | 2026-07-16 |
+| [KAM Supermercados CPCh](https://www.trabajaenccu.cl/trabajo/6086515-kam-supermercados-cpch) | CPCH | Las Condes, Metropolitana de Santiago, Chile | 0.5251 | 2026-07-16 |
 | [Category Planner (Reemplazo pre y post natal)](https://salcobrand.trabajando.cl/trabajo-empleo/category-planner-reemplazo-pre-y-post-natal/trabajo/6103694) | Preunic | Santiago, Metropolitana de Santiago | 0.5110 | 2026-07-21 |
 | [Ingeniero/a de Planificación Demanda - Las Condes](https://www.trabajaenccu.cl/trabajo/6098962-ingeniero-a-de-planificacion-demanda-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5098 | 2026-07-16 |
 | [Planner Retail Media](https://salcobrand.trabajando.cl/trabajo-empleo/planner-retail-media/trabajo/6103405) | Salcobrand | Providencia, Metropolitana de Santiago | 0.5090 | 2026-07-20 |
@@ -23,8 +23,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Líder Asistencia Ventas y Suministros, IKEA Parque Arauco](https://falabella.airavirtual.com/postula/Jb4WvlNmCPOXuIIZ6Foi?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4756 | 2026-07-20 |
 | [Gerente/a - Administrador/a Local Retail Puerto Montt](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-puerto-montt/trabajo/6097594) | SMU | Puerto Montt, Los Lagos | 0.4753 | 2026-07-17 |
 | [Gerente/a - Administrador/a Local Retail Los Andes](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-retail-los-andes/trabajo/6101142) | SMU | Los Andes, Valparaíso | 0.4752 | 2026-07-17 |
-| [Administrador-Gerente de Tienda Retail -Batuco](https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-batuco/trabajo/6073521) | SMU | Lampa, Metropolitana de Santiago | 0.4709 | 2026-07-17 |
 | [Coordinador/a Sistemas de Calidad - Coinco](https://www.trabajaenccu.cl/trabajo/6097037-coordinador-a-sistemas-de-calidad-coinco) | CCU | Coinco, Lib. Gral. Bdo. O'Higgins, Chile | 0.4709 | 2026-07-16 |
+| [Administrador-Gerente de Tienda Retail -Batuco](https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-batuco/trabajo/6073521) | SMU | Lampa, Metropolitana de Santiago | 0.4709 | 2026-07-17 |
 | [Jefe de Planificación Logística - Las Condes](https://www.trabajaenccu.cl/trabajo/6101802-jefe-de-planificacion-logistica-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4691 | 2026-07-16 |
 | [Administrador(a)/Gerente de Tienda-La Ligua](https://smu.trabajando.cl/trabajo-empleo/administrador-a-gerente-de-tienda-la-ligua/trabajo/6085500) | SMU | La Ligua, Valparaíso | 0.4690 | 2026-07-17 |
 | [Jefe/a de operaciones envasado - Renca](https://www.trabajaenccu.cl/trabajo/6083075-jefe-a-de-operaciones-envasado-renca) | CCU CHILE | Renca, Metropolitana de Santiago, Chile | 0.4651 | 2026-07-16 |
