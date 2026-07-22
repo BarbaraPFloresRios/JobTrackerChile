@@ -6,7 +6,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [KAM Supermercados CPCh](https://www.trabajaenccu.cl/trabajo/6086515-kam-supermercados-cpch) | CPCH | Las Condes, Metropolitana de Santiago, Chile | 0.5241 | 2026-07-16 |
+| [KAM Supermercados CPCh](https://www.trabajaenccu.cl/trabajo/6086515-kam-supermercados-cpch) | CPCH | Las Condes, Metropolitana de Santiago, Chile | 0.5242 | 2026-07-16 |
 | [Category Planner (Reemplazo pre y post natal)](https://salcobrand.trabajando.cl/trabajo-empleo/category-planner-reemplazo-pre-y-post-natal/trabajo/6103694) | Preunic | Santiago, Metropolitana de Santiago | 0.5110 | 2026-07-21 |
 | [Ingeniero/a de Planificación Demanda - Las Condes](https://www.trabajaenccu.cl/trabajo/6098962-ingeniero-a-de-planificacion-demanda-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5098 | 2026-07-16 |
 | [Planner Retail Media](https://salcobrand.trabajando.cl/trabajo-empleo/planner-retail-media/trabajo/6103405) | Salcobrand | Providencia, Metropolitana de Santiago | 0.5090 | 2026-07-20 |
@@ -28,9 +28,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Administrador(a)/Gerente de Tienda-La Ligua](https://smu.trabajando.cl/trabajo-empleo/administrador-a-gerente-de-tienda-la-ligua/trabajo/6085500) | SMU | La Ligua, Valparaíso | 0.4690 | 2026-07-17 |
 | [Jefe/a de operaciones envasado - Renca](https://www.trabajaenccu.cl/trabajo/6083075-jefe-a-de-operaciones-envasado-renca) | CCU CHILE | Renca, Metropolitana de Santiago, Chile | 0.4651 | 2026-07-16 |
 | [Gruero/a Operario - Plasco](https://www.trabajaenccu.cl/trabajo/6075963-gruero-a-operario-plasco) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4648 | 2026-07-16 |
+| [Vendor Manager Inventory (VMI)](https://salcobrand.trabajando.cl/trabajo-empleo/vendor-manager-inventory-vmi/trabajo/6101286) | Salcobrand | Santiago, Metropolitana de Santiago | 0.4595 | 2026-07-17 |
 | [Administrador-Gerente de Tienda Retail -Estación Central](https://smu.trabajando.cl/trabajo-empleo/administrador-gerente-de-tienda-retail-estacion-central/trabajo/6086396) | SMU | Estación Central, Metropolitana de Santiago | 0.4594 | 2026-07-17 |
 | [Ingeniero/a Control de Gestión Financiero - Las Condes](https://www.trabajaenccu.cl/trabajo/6076296-ingeniero-a-control-de-gestion-financiero-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4588 | 2026-07-16 |
-| [Arquitecto/a de Ciberseguridad - Las Condes](https://www.trabajaenccu.cl/trabajo/6099716-arquitecto-a-de-ciberseguridad-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4585 | 2026-07-16 |
 
 # About
 
