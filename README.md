@@ -18,8 +18,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Vendor Manager Inventory (VMI)](https://salcobrand.trabajando.cl/trabajo-empleo/vendor-manager-inventory-vmi/trabajo/6103134) | Salcobrand | Santiago, Metropolitana de Santiago | 0.4556 | 2026-07-20 |
 | [Security Architect Team Lead](https://falabella.airavirtual.com/postula/1Y7hSJIyizRmxg3Y8WvY?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4485 | 2026-07-22 |
 | [Jefe/a PGC, FT 42Hrs, Tottus Buin](https://falabella.airavirtual.com/postula/vmOkrEPfypYC07WZoCie?logged_action=apply&register=true) | Tottus | Buin, Metropolitana, Chile | 0.4478 | 2026-07-23 |
+| [Subgerente de Growth y Estrategia para Real Estate - Marketplace VIS](https://mercadolibre.eightfold.ai/careers/job/42030466) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4440 | 2026-07-23 |
 | [Category Manager de E-commerce - Colina (Híbrido)](https://rosen.trabajando.cl/trabajo-empleo/category-manager-de-e-commerce-colina-hibrido/trabajo/6104351) | Colchones Rosen SAIC | Colina, Metropolitana de Santiago | 0.4433 | 2026-07-22 |
-| [Subgerente de Growth y Estrategia para Real Estate - Marketplace VIS](https://mercadolibre.eightfold.ai/careers/job/42030466) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4424 | 2026-07-23 |
 | [Project Manager Contenidos](https://falabella.airavirtual.com/postula/2K31tjn0Eu1ZFaAEGaLk?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4409 | 2026-07-23 |
 | [Category Manager Marcas Propias](https://falabella.airavirtual.com/postula/Y34oqDqj6TxJ4juJoJUl?logged_action=apply&register=true) | Tottus | Santiago, Metropolitana, Chile | 0.4362 | 2026-07-20 |
 | [Business Analyst - Digital Factory](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14531?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4355 | 2026-07-20 |
