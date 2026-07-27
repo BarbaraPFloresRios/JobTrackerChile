@@ -17,8 +17,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Jefe/a PGC, FT 42Hrs, Tottus Buin](https://falabella.airavirtual.com/postula/vmOkrEPfypYC07WZoCie?logged_action=apply&register=true) | Tottus | Buin, Metropolitana, Chile | 0.4478 | 2026-07-23 |
 | [Project Manager](https://falabella.airavirtual.com/postula/WMq4q60GAFYUVQ0ebf9b?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4459 | 2026-07-24 |
 | [Category Manager de E-commerce - Colina (Híbrido)](https://rosen.trabajando.cl/trabajo-empleo/category-manager-de-e-commerce-colina-hibrido/trabajo/6104351) | Colchones Rosen SAIC | Colina, Metropolitana de Santiago | 0.4433 | 2026-07-22 |
-| [Subgerente de Growth y Estrategia para Real Estate - Marketplace VIS](https://mercadolibre.eightfold.ai/careers/job/42030466) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4410 | 2026-07-23 |
 | [Project Manager Contenidos](https://falabella.airavirtual.com/postula/2K31tjn0Eu1ZFaAEGaLk?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4409 | 2026-07-23 |
+| [Subgerente de Growth y Estrategia para Real Estate - Marketplace VIS](https://mercadolibre.eightfold.ai/careers/job/42030466) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4394 | 2026-07-23 |
 | [NW Deployment Build Lead I, Data Center Operations](https://www.amazon.jobs/en/jobs/10483750/nw-deployment-build-lead-i-data-center-operations) | amazon | CL, Santiago | 0.4391 | 2026-07-24 |
 | [Reclutador Proyecto Cyber / Falabella](https://falabella.airavirtual.com/postula/Wigfj35mjIUsra3txNgT?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4363 | 2026-07-24 |
 | [IT Specialist](https://falabella.airavirtual.com/postula/g5U0nbjvtPhuS6xOoami?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4344 | 2026-07-23 |
