@@ -17,8 +17,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Jefe/a PGC, FT 42Hrs, Tottus Buin](https://falabella.airavirtual.com/postula/vmOkrEPfypYC07WZoCie?logged_action=apply&register=true) | Tottus | Buin, Metropolitana, Chile | 0.4478 | 2026-07-23 |
 | [Project Manager](https://falabella.airavirtual.com/postula/WMq4q60GAFYUVQ0ebf9b?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4459 | 2026-07-24 |
 | [Ayudante de Reparto - Renca](https://pf.trabajando.cl/trabajo-empleo/ayudante-de-reparto-renca/trabajo/6106160) | PF Alimentos | Renca, Metropolitana de Santiago | 0.4455 | 2026-07-27 |
+| [Subgerente de Growth y Estrategia para Real Estate - Marketplace VIS](https://mercadolibre.eightfold.ai/careers/job/42030466) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4440 | 2026-07-23 |
 | [Category Manager de E-commerce - Colina (Híbrido)](https://rosen.trabajando.cl/trabajo-empleo/category-manager-de-e-commerce-colina-hibrido/trabajo/6104351) | Colchones Rosen SAIC | Colina, Metropolitana de Santiago | 0.4433 | 2026-07-22 |
-| [Subgerente de Growth y Estrategia para Real Estate - Marketplace VIS](https://mercadolibre.eightfold.ai/careers/job/42030466) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4424 | 2026-07-23 |
 | [Project Manager Contenidos](https://falabella.airavirtual.com/postula/2K31tjn0Eu1ZFaAEGaLk?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4409 | 2026-07-23 |
 | [ Jefe de Sistemas Logística y Supply Chain - Huechuraba](https://ahumada.trabajando.cl/trabajo-empleo/jefe-de-sistemas-logistica-y-supply-chain-huechuraba/trabajo/6106043) | Farmacias Ahumada S.A. | Huechuraba, Metropolitana de Santiago | 0.4403 | 2026-07-27 |
 | [NW Deployment Build Lead I, Data Center Operations](https://www.amazon.jobs/en/jobs/10483750/nw-deployment-build-lead-i-data-center-operations) | amazon | CL, Santiago | 0.4391 | 2026-07-24 |
