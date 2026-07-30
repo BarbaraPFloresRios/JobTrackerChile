@@ -16,7 +16,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Vendor Manager Inventory (VMI)](https://salcobrand.trabajando.cl/trabajo-empleo/vendor-manager-inventory-vmi/trabajo/6106114) | Salcobrand | Santiago, Metropolitana de Santiago | 0.4544 | 2026-07-27 |
 | [Project Manager](https://falabella.airavirtual.com/postula/IgVXzNi3sVric3QAykwc?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4518 | 2026-07-29 |
 | [Ingeniero/a de Software IA](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-software-ia/trabajo/6106285) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4511 | 2026-07-27 |
-| [Planner Consumo Masivo Sr. Marcas Propias Logística Supermercados Cencosud](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14659?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4493 | 2026-07-28 |
+| [Planner Consumo Masivo Sr. Marcas Propias Logística Supermercados Cencosud](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14659?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4492 | 2026-07-28 |
 | [Project Manager Logística](https://falabella.airavirtual.com/postula/l8LOLsnKTgOJSLBdf5z8?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4466 | 2026-07-29 |
 | [Project Manager](https://falabella.airavirtual.com/postula/WMq4q60GAFYUVQ0ebf9b?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4459 | 2026-07-24 |
 | [Ayudante de Reparto - Renca](https://pf.trabajando.cl/trabajo-empleo/ayudante-de-reparto-renca/trabajo/6106160) | PF Alimentos | Renca, Metropolitana de Santiago | 0.4455 | 2026-07-27 |
