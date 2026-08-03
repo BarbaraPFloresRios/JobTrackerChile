@@ -16,7 +16,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Supervisor/a de Turno / Warehouse Ikea](https://falabella.airavirtual.com/postula/ZzgD0R8TeVXtsd5JhDUj?logged_action=apply&register=true) | IKEA | Pudahuel, Metropolitana, Chile | 0.4609 | 2026-07-28 |
 | [Data Analyst CRM](https://falabella.airavirtual.com/postula/1Eqvl2d8o8Z2QZYQzWIj?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4608 | 2026-07-29 |
 | [Project Manager](https://falabella.airavirtual.com/postula/IgVXzNi3sVric3QAykwc?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4518 | 2026-07-29 |
-| [Planner Consumo Masivo Sr. Marcas Propias Logística Supermercados Cencosud](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14659?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4491 | 2026-07-28 |
+| [Planner Consumo Masivo Sr. Marcas Propias Logística Supermercados Cencosud](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14659?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4492 | 2026-07-28 |
 | [Project Manager Logística](https://falabella.airavirtual.com/postula/l8LOLsnKTgOJSLBdf5z8?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4466 | 2026-07-29 |
 | [Project Manager Fulfillment](https://falabella.airavirtual.com/postula/sSEdRRjzAu8JAT62gqNK?logged_action=apply&register=true) | Falabella Retail | Lo Espejo, Metropolitana, Chile | 0.4436 | 2026-07-31 |
 | [Performance Associate](https://falabella.airavirtual.com/postula/S1DpipMNSU945oKIVvwa?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4411 | 2026-07-30 |
