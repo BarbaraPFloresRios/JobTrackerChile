@@ -18,6 +18,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [KAM Ecommerce - Las Condes](https://www.trabajaenccu.cl/trabajo/6108990-kam-ecommerce-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4572 | 2026-08-04 |
 | [Vendor Manager Inventory (VMI)](https://salcobrand.trabajando.cl/trabajo-empleo/vendor-manager-inventory-vmi/trabajo/6108419) | Salcobrand | Santiago, Metropolitana de Santiago | 0.4537 | 2026-08-03 |
 | [Project Manager](https://falabella.airavirtual.com/postula/IgVXzNi3sVric3QAykwc?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4518 | 2026-07-29 |
+| [Analista de Existencias FT 42 horas Hc San Miguel](https://falabella.airavirtual.com/postula/xP49lWCtt3g5nviDDNov?logged_action=apply&register=true) | Sodimac | San Miguel, Metropolitana, Chile | 0.4496 | 2026-08-04 |
 | [Project Manager Logística](https://falabella.airavirtual.com/postula/l8LOLsnKTgOJSLBdf5z8?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4466 | 2026-07-29 |
 | [Ingeniero/a Optimización Digital](https://falabella.airavirtual.com/postula/JdHAi2q0sIkiT1JSaFGf?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4459 | 2026-08-04 |
 | [Project Manager Fulfillment](https://falabella.airavirtual.com/postula/sSEdRRjzAu8JAT62gqNK?logged_action=apply&register=true) | Falabella Retail | Lo Espejo, Metropolitana, Chile | 0.4436 | 2026-07-31 |
@@ -30,7 +31,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Ingeniero/a Marketing](https://soprole.trabajando.cl/trabajo-empleo/ingeniero-a-marketing/trabajo/6109168) | Soprole | Santiago, Metropolitana de Santiago | 0.4360 | 2026-08-04 |
 | [Project Manager Control Financiero Ecommerce](https://falabella.airavirtual.com/postula/zbE4lBgkNf49wd0dP2EA?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4351 | 2026-07-29 |
 | [Category Manager Experiencia](https://falabella.airavirtual.com/postula/u4yppG4VogIWDYKqIdOc?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4350 | 2026-07-30 |
-| [Reponedor 25 horas sem. 5x2 rotativo/ IKEA Parque Arauco](https://falabella.airavirtual.com/postula/9WKJFo1g36PIqwqYMWUm?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4331 | 2026-07-29 |
 
 # About
 
