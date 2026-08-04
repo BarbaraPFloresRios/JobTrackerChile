@@ -30,7 +30,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Coordinador/a de Abastecimiento, FT 42 hrs, SHC Chicureo](https://falabella.airavirtual.com/postula/8h9PtzcpmN6lPgG2fBNE?logged_action=apply&register=true) | Sodimac | Colina, Metropolitana, Chile | 0.4327 | 2026-07-31 |
 | [Supervisor/a Servicio Técnico - Iquique](https://www.trabajaenccu.cl/trabajo/6108616-supervisor-a-servicio-tecnico-iquique) | CCU | Iquique, Tarapacá, Chile | 0.4305 | 2026-08-03 |
 | [Product Manager de Alianzas y Convenios](https://salcobrand.trabajando.cl/trabajo-empleo/product-manager-de-alianzas-y-convenios/trabajo/6108406) | Pharma Benefits | Providencia, Metropolitana de Santiago | 0.4293 | 2026-08-03 |
-| [Head Comercial Retail Media](https://salcobrand.trabajando.cl/trabajo-empleo/head-comercial-retail-media/trabajo/6108418) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4284 | 2026-08-03 |
+| [Business Analyst Producto (Data & Measurement) CencosudMedia](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14734?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4291 | 2026-08-04 |
 
 # About
 
