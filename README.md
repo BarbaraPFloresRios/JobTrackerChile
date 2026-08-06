@@ -21,6 +21,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Gerente/Administrador Retail Alvi Calama](https://smu.trabajando.cl/trabajo-empleo/gerente-administrador-retail-alvi-calama/trabajo/6108611) | Alvi | Calama, Antofagasta | 0.4595 | 2026-08-03 |
 | [KAM Ecommerce - Las Condes](https://www.trabajaenccu.cl/trabajo/6108990-kam-ecommerce-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4572 | 2026-08-04 |
 | [Vendor Manager Inventory (VMI)](https://salcobrand.trabajando.cl/trabajo-empleo/vendor-manager-inventory-vmi/trabajo/6108419) | Salcobrand | Santiago, Metropolitana de Santiago | 0.4537 | 2026-08-03 |
+| [Especialista Procurement Categoría Transportes - Última Milla](https://mercadolibre.eightfold.ai/careers/job/43690170) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4499 | 2026-08-06 |
 | [Analista de Existencias FT 42 horas Hc San Miguel](https://falabella.airavirtual.com/postula/xP49lWCtt3g5nviDDNov?logged_action=apply&register=true) | Sodimac | San Miguel, Metropolitana, Chile | 0.4496 | 2026-08-04 |
 | [Project Manager Fulfillment](https://falabella.airavirtual.com/postula/sSEdRRjzAu8JAT62gqNK?logged_action=apply&register=true) | Falabella Retail | Lo Espejo, Metropolitana, Chile | 0.4436 | 2026-07-31 |
 | [Digital Marketing Specialist](https://falabella.airavirtual.com/postula/fDW4uz2mYYRhOV9gqInO?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4435 | 2026-08-03 |
@@ -30,7 +31,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Product Manager](https://smu.trabajando.cl/trabajo-empleo/product-manager/trabajo/6107834) | SMU | Las Condes, Metropolitana de Santiago | 0.4387 | 2026-07-31 |
 | [Ingeniero/a Marketing](https://soprole.trabajando.cl/trabajo-empleo/ingeniero-a-marketing/trabajo/6109168) | Soprole | Santiago, Metropolitana de Santiago | 0.4375 | 2026-08-04 |
 | [Planificador de Compras](https://falabella.airavirtual.com/postula/lH6qZYCobx5nD3PaxzGE?logged_action=apply&register=true) | Sodimac | Renca, Metropolitana, Chile | 0.4372 | 2026-08-04 |
-| [Consultor/a Atracción del Talento - Plan Navidad](https://salcobrand.trabajando.cl/trabajo-empleo/consultor-a-atraccion-del-talento-plan-navidad/trabajo/6108602) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4331 | 2026-08-03 |
 
 # About
 
