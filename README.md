@@ -24,7 +24,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Gruero Operario - Plasco](https://www.trabajaenccu.cl/trabajo/6108707-gruero-operario-plasco) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4605 | 2026-08-03 |
 | [Gerente/Administrador Retail Alvi Calama](https://smu.trabajando.cl/trabajo-empleo/gerente-administrador-retail-alvi-calama/trabajo/6108611) | Alvi | Calama, Antofagasta | 0.4595 | 2026-08-03 |
 | [KAM Ecommerce - Las Condes](https://www.trabajaenccu.cl/trabajo/6108990-kam-ecommerce-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4572 | 2026-08-04 |
-| [Especialista Procurement Categoría Transportes - Última Milla](https://mercadolibre.eightfold.ai/careers/job/43690170) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4554 | 2026-08-06 |
+| [Especialista Procurement Categoría Transportes - Última Milla](https://mercadolibre.eightfold.ai/careers/job/43690170) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4563 | 2026-08-06 |
 | [Vendor Manager Inventory (VMI)](https://salcobrand.trabajando.cl/trabajo-empleo/vendor-manager-inventory-vmi/trabajo/6108419) | Salcobrand | Santiago, Metropolitana de Santiago | 0.4537 | 2026-08-03 |
 | [Product Manager Ecommerce Accesorios](https://falabella.airavirtual.com/postula/IhtvsTOHD4VT2rsK9Uj7?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4523 | 2026-08-07 |
 | [Ingeniero/a de Software IA](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-software-ia/trabajo/6110611) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4510 | 2026-08-07 |
