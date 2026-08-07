@@ -14,10 +14,15 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Analista Gestión de Calidad / Reemplazo Pre y Post Natal](https://falabella.airavirtual.com/postula/l0yj5JICiHep7EmuygU6?logged_action=apply&register=true) | Tottus | Santiago, Metropolitana, Chile | 0.4713 | 2026-08-04 |
 | [Ayudante de Producción - Plasco](https://www.trabajaenccu.cl/trabajo/6109890-ayudante-de-produccion-plasco) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4689 | 2026-08-05 |
 | [Analista de Planificación Logística](https://falabella.airavirtual.com/postula/Wm0Idquheop0mJZbp60y?logged_action=apply&register=true) | Falabella Retail | Lo Espejo, Metropolitana, Chile | 0.4658 | 2026-08-04 |
+| [Analista de Existencias FT 42 Hrs. Semanales, Maipú / Cerrillos](https://falabella.airavirtual.com/postula/7UuMguChuysFtoMaEGPa?logged_action=apply&register=true) | Tottus | Maipú, Metropolitana, Chile | 0.4632 | 2026-08-07 |
+| [Brand Manager ](https://forus.trabajando.cl/trabajo-empleo/brand-manager/trabajo/6110501) | Forus S.A. | Las Condes, Metropolitana de Santiago | 0.4613 | 2026-08-07 |
 | [Gruero Operario - Plasco](https://www.trabajaenccu.cl/trabajo/6108707-gruero-operario-plasco) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4605 | 2026-08-03 |
 | [Gerente/Administrador Retail Alvi Calama](https://smu.trabajando.cl/trabajo-empleo/gerente-administrador-retail-alvi-calama/trabajo/6108611) | Alvi | Calama, Antofagasta | 0.4595 | 2026-08-03 |
 | [KAM Ecommerce - Las Condes](https://www.trabajaenccu.cl/trabajo/6108990-kam-ecommerce-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4572 | 2026-08-04 |
 | [Vendor Manager Inventory (VMI)](https://salcobrand.trabajando.cl/trabajo-empleo/vendor-manager-inventory-vmi/trabajo/6108419) | Salcobrand | Santiago, Metropolitana de Santiago | 0.4537 | 2026-08-03 |
+| [Product Manager Ecommerce Accesorios](https://falabella.airavirtual.com/postula/IhtvsTOHD4VT2rsK9Uj7?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4523 | 2026-08-07 |
+| [Ingeniero/a de Software IA](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-software-ia/trabajo/6110611) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4510 | 2026-08-07 |
+| [Analista de Compensaciones](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-compensaciones/trabajo/6110624) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4504 | 2026-08-07 |
 | [Especialista Procurement Categoría Transportes - Última Milla](https://mercadolibre.eightfold.ai/careers/job/43690170) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4499 | 2026-08-06 |
 | [Analista de Existencias FT 42 horas Hc San Miguel](https://falabella.airavirtual.com/postula/xP49lWCtt3g5nviDDNov?logged_action=apply&register=true) | Sodimac | San Miguel, Metropolitana, Chile | 0.4496 | 2026-08-04 |
 | [Digital Marketing Specialist](https://falabella.airavirtual.com/postula/fDW4uz2mYYRhOV9gqInO?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4435 | 2026-08-03 |
@@ -26,11 +31,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Ingeniero/a Optimización Digital](https://falabella.airavirtual.com/postula/JdHAi2q0sIkiT1JSaFGf?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4392 | 2026-08-04 |
 | [Líder Proyectos Digitales](https://salcobrand.trabajando.cl/trabajo-empleo/lider-proyectos-digitales/trabajo/6110006) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4383 | 2026-08-07 |
 | [Ingeniero/a Marketing](https://soprole.trabajando.cl/trabajo-empleo/ingeniero-a-marketing/trabajo/6109168) | Soprole | Santiago, Metropolitana de Santiago | 0.4375 | 2026-08-04 |
-| [Planificador de Compras](https://falabella.airavirtual.com/postula/lH6qZYCobx5nD3PaxzGE?logged_action=apply&register=true) | Sodimac | Renca, Metropolitana, Chile | 0.4372 | 2026-08-04 |
-| [Consultor/a Atracción del Talento - Plan Navidad](https://salcobrand.trabajando.cl/trabajo-empleo/consultor-a-atraccion-del-talento-plan-navidad/trabajo/6108602) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4331 | 2026-08-03 |
-| [Senior Back End Software Engineer](https://falabella.airavirtual.com/postula/rrtvH6Itn6dSrCmozyEA?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4306 | 2026-08-05 |
-| [Supervisor/a Servicio Técnico - Iquique](https://www.trabajaenccu.cl/trabajo/6108616-supervisor-a-servicio-tecnico-iquique) | CCU | Iquique, Tarapacá, Chile | 0.4304 | 2026-08-03 |
-| [Product Manager de Alianzas y Convenios](https://salcobrand.trabajando.cl/trabajo-empleo/product-manager-de-alianzas-y-convenios/trabajo/6108406) | Pharma Benefits | Providencia, Metropolitana de Santiago | 0.4293 | 2026-08-03 |
 
 # About
 
