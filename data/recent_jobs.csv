@@ -1,4 +1,11 @@
 title,company,location,semantic_similarity,first_seen_date,url
+"Administrativo/a de Tesorería, Media Jornada Tarde, Angol",Falabella Retail,"Angol, Araucanía, Chile",0.4495,2026-08-08,https://falabella.airavirtual.com/postula/zKoDzomav4qWcyZLLn6i?logged_action=apply&register=true
+"Encargado/a de Bodega Full Time, Los Ángeles, Falabella.",Falabella Retail,"Los Ángeles, Bíobío, Chile",0.4331,2026-08-08,https://falabella.airavirtual.com/postula/OQQ3lVVICjB6FDDABDDn?logged_action=apply&register=true
+"Trainee Seguridad / Falabella Plaza Tobalaba / Full Time Lunes a Viernes 42 horas,",Falabella Retail,"Puente Alto, Metropolitana, Chile",0.3838,2026-08-08,https://falabella.airavirtual.com/postula/UPZmhHB7jvj5V0LPukLo?logged_action=apply&register=true
+"Especialista en electromecánica, Full Time, Pudahuel",Tottus,"Pudahuel, Metropolitana, Chile",0.3835,2026-08-08,https://falabella.airavirtual.com/postula/SzeP0sNERXzhPwAtRkt8?logged_action=apply&register=true
+"Supervisor de Operaciones, Full Time, Pudahuel",Falabella.com,"Pudahuel, Metropolitana, Chile",0.3703,2026-08-08,https://falabella.airavirtual.com/postula/YBZJQCh8DIRn26z0ybWm?logged_action=apply&register=true
+"Ejecutivo/a Integral, 30 hrs, CMR Falabella Puerto Montt",Banco Falabella,"Santiago, Metropolitana, Chile",0.3583,2026-08-08,https://falabella.airavirtual.com/postula/RJGpSYMlXeI7BMAfEdN4?logged_action=apply&register=true
+Coordinador/a CCTV y Seguridad,Falabella.com,"Pudahuel, Metropolitana, Chile",0.3304,2026-08-08,https://falabella.airavirtual.com/postula/UILFnoa8XXNPvr7i7Fdv?logged_action=apply&register=true
 Planner (Retail) - Providencia,abc,"Providencia, Metropolitana de Santiago",0.5179,2026-08-07,https://abcdin.trabajando.cl/trabajo-empleo/planner-retail-providencia/trabajo/6110788
 Data Scientist,Falabella Retail,"Las Condes, Metropolitana, Chile",0.48,2026-08-07,https://falabella.airavirtual.com/postula/UWH4ecNcX8SJwGp3J8lB?logged_action=apply&register=true
 "Analista de Existencias FT 42 Hrs. Semanales, San Bernardo / Alameda",Tottus,"Estación Central, Metropolitana, Chile",0.4751,2026-08-07,https://falabella.airavirtual.com/postula/nAEaW5iDpTD79LME95Zd?logged_action=apply&register=true
@@ -40,9 +47,9 @@ Químico(a) Farmacéutico(a) Part Time  - Valdivia,Salcobrand,"Valdivia, Los Rí
 "Auxiliar de Farmacia Integral - Simon Bolivar, Ñuñoa",Salcobrand,"Ñuñoa, Metropolitana de Santiago",0.3863,2026-08-07,https://salcobrand.trabajando.cl/trabajo-empleo/auxiliar-de-farmacia-integral-simon-bolivar-nunoa/trabajo/6110606
 Químico(a) Farmacéutico(a) Full Time - Vitacura,Salcobrand,"Vitacura, Metropolitana de Santiago",0.3862,2026-08-07,https://salcobrand.trabajando.cl/trabajo-empleo/quimico-a-farmaceutico-a-full-time-vitacura/trabajo/6110327
 "Ejecutivo/a Integral, PT 20 hrs, CMR Plaza Egaña",Banco Falabella,"La Reina, Metropolitana, Chile",0.3851,2026-08-07,https://falabella.airavirtual.com/postula/qPhlFelvKJ7nbVnRxv0W?logged_action=apply&register=true
+Operador de Informática,Ripley,Tda Puerto Montt - Informatica,0.3849,2026-08-07,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/23329?c=ripley
 Analista de Gestión Promocional,Tottus,"Santiago, Metropolitana, Chile",0.3843,2026-08-07,https://falabella.airavirtual.com/postula/WaRWwumYyPvPxttEBsXh?logged_action=apply&register=true
 Auxiliar de Farmacia Integral Part Time - Huechuraba,Salcobrand,"Huechuraba, Metropolitana de Santiago",0.3834,2026-08-07,https://salcobrand.trabajando.cl/trabajo-empleo/auxiliar-de-farmacia-integral-part-time-huechuraba/trabajo/6110115
-Operador de Informática,Ripley,Tda Puerto Montt - Informatica,0.3825,2026-08-07,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/23329?c=ripley
 Químico(a) Farmacéutico(a) Full Time - Ñuñoa,Salcobrand,"Ñuñoa, Metropolitana de Santiago",0.3819,2026-08-07,https://salcobrand.trabajando.cl/trabajo-empleo/quimico-a-farmaceutico-a-full-time-nunoa/trabajo/6110328
 "Operador Producción Temporada - Plasco, Renca",CCU,"Renca, Metropolitana de Santiago, Chile",0.3785,2026-08-07,https://www.trabajaenccu.cl/trabajo/6110494-operador-produccion-temporada-plasco-renca
 Product Manager VANS,Vans,"Las Condes, Metropolitana de Santiago",0.3781,2026-08-07,https://forus.trabajando.cl/trabajo-empleo/product-manager-vans/trabajo/6110222
@@ -50,13 +57,13 @@ Analista Inversiones,Empresas Carozzi S.A.,"San Bernardo, Metropolitana de Santi
 Coordinador/a de Gestión Promocional,Tottus,"Santiago, Metropolitana, Chile",0.3739,2026-08-07,https://falabella.airavirtual.com/postula/T5r9VNmoyCRjNGNlhJhS?logged_action=apply&register=true
 JEFE IMPLEMENTACIONES COMERCIALES FT 45 HRS HC INDEPENDENCIA,Sodimac,"Independencia, Metropolitana, Chile",0.3738,2026-08-07,https://falabella.airavirtual.com/postula/ojl9fDpbIEfY1BrtWpEr?logged_action=apply&register=true
 Auxiliar de Farmacia Integral- Molina (Licencia prolongada),Salcobrand,"Molina, Maule",0.3726,2026-08-07,https://salcobrand.trabajando.cl/trabajo-empleo/auxiliar-de-farmacia-integral-molina-licencia-prolongada/trabajo/6110587
+"Jefe/a Depto Ventas, FT, SHC Alto Hospicio",Sodimac,"Alto Hospicio, Tarapacá, Chile",0.3707,2026-08-07,https://falabella.airavirtual.com/postula/gKWLiivjZ4WIdb3yIS51?logged_action=apply&register=true
 Asist. Serv. a Cliente y Ventas Sodimac HC Tobalaba PT20 hrs,Sodimac,"Puente Alto, Metropolitana, Chile",0.3706,2026-08-07,https://falabella.airavirtual.com/postula/nGgb1Awf6A8uZsklHZr5?logged_action=apply&register=true
 Especialista WMS,SMU,"Pudahuel, Metropolitana de Santiago",0.3699,2026-08-07,https://smu.trabajando.cl/trabajo-empleo/especialista-wms/trabajo/6110218
 Ingeniero(a) S&OP,SMU,"Las Condes, Metropolitana de Santiago",0.3693,2026-08-07,https://smu.trabajando.cl/trabajo-empleo/ingeniero-a-s-op/trabajo/6110697
 "Jefe/a Prevención de Pérdidas, FT 42 Hrs, Tottus Reñaca",Tottus,"Viña del Mar, Valparaíso, Chile",0.3692,2026-08-07,https://falabella.airavirtual.com/postula/HhmlPTsb8HBob6iAIL94?logged_action=apply&register=true
 Gruero/a Temporada- Plasco,CCU,"Renca, Metropolitana de Santiago, Chile",0.3682,2026-08-07,https://www.trabajaenccu.cl/trabajo/6110404-gruero-a-temporada-plasco
 Jefe/a de Finanzas,Banco Falabella,"Santiago, Metropolitana, Chile",0.3679,2026-08-07,https://falabella.airavirtual.com/postula/ifrvu8BUkgWhLCtRRAO6?logged_action=apply&register=true
-"Jefe/a Depto Ventas, FT, SHC Alto Hospicio",Sodimac,"Alto Hospicio, Tarapacá, Chile",0.367,2026-08-07,https://falabella.airavirtual.com/postula/gKWLiivjZ4WIdb3yIS51?logged_action=apply&register=true
 Trainee de Seguridad Jornada Media Jornada Tarde 5x2/ 30 hrs semanales/ Falabella Valdivia,Falabella Retail,"Valdivia, Los Ríos, Chile",0.3658,2026-08-07,https://falabella.airavirtual.com/postula/LRv7KXvVEnkKn21tsG1F?logged_action=apply&register=true
 Auxiliar de Farmacia Integral - Huechuraba,Salcobrand,"Huechuraba, Metropolitana de Santiago",0.3654,2026-08-07,https://salcobrand.trabajando.cl/trabajo-empleo/auxiliar-de-farmacia-integral-huechuraba/trabajo/6110109
 Analista de Calidad - NOS,Empresas Carozzi,"San Bernardo, Metropolitana de Santiago",0.3649,2026-08-07,https://carozzi.trabajando.cl/trabajo-empleo/analista-de-calidad-nos/trabajo/6110823
@@ -126,7 +133,7 @@ Bodeguero/a Full Time - Preunic Quilicura,Preunic,"Quilicura, Metropolitana de S
 Bodeguero/a Full Time - Preunic Las Condes,Preunic,"Las Condes, Metropolitana de Santiago",0.4023,2026-08-06,https://salcobrand.trabajando.cl/trabajo-empleo/bodeguero-a-full-time-preunic-las-condes/trabajo/6109958
 Bodeguero/a Full Time - Preunic Ñuñoa,Preunic,"Ñuñoa, Metropolitana de Santiago",0.3969,2026-08-06,https://salcobrand.trabajando.cl/trabajo-empleo/bodeguero-a-full-time-preunic-nunoa/trabajo/6109960
 "Ejecutivo/a Integral, Full Time, CMR Plaza Egaña",Banco Falabella,"La Reina, Metropolitana, Chile",0.3962,2026-08-06,https://falabella.airavirtual.com/postula/NldFghacY4nivrSUL2Jl?logged_action=apply&register=true
-Analista Senior de Tarjeta de créditos - Fintech,mercadolibre,"Región Metropolitana de Santiago,Chile",0.3763,2026-08-06,https://mercadolibre.eightfold.ai/careers/job/43680120
+Analista Senior de Tarjeta de créditos - Fintech,mercadolibre,"Región Metropolitana de Santiago,Chile",0.3796,2026-08-06,https://mercadolibre.eightfold.ai/careers/job/43680120
 App Growth Manager | Paris.cl (Reemplazo),cencosud,"Santiago, REGION METROPOLITANA, CL",0.3725,2026-08-06,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14760?c=cencosud
 "Ejecutivo/a Integral, PT 20 hrs, Banco Falabella Linares",Banco Falabella,"Santiago, Metropolitana, Chile",0.3601,2026-08-06,https://falabella.airavirtual.com/postula/DMgPIx2oKSZl35w20snN?logged_action=apply&register=true
 "Ejecutivo/a Integral, FT, Banco Falabella Talca CN",Banco Falabella,"Santiago, Metropolitana, Chile",0.3552,2026-08-06,https://falabella.airavirtual.com/postula/gUHhphAHz4ivWE4SYSWk?logged_action=apply&register=true
@@ -148,7 +155,7 @@ Analista de Planificación y Análisis Financiero,Seguros Falabella,"Las Condes,
 Lider Tecnico IA,Empresas SB,"Santiago, Metropolitana de Santiago",0.4019,2026-08-05,https://salcobrand.trabajando.cl/trabajo-empleo/lider-tecnico-ia/trabajo/6109747
 Analista de Pricing Promocional,SMU,"Las Condes, Metropolitana de Santiago",0.401,2026-08-05,https://smu.trabajando.cl/trabajo-empleo/analista-de-pricing-promocional/trabajo/6109403
 "Jefe/a Depto Operacional, FT42hrs, SHC LA REINA",Sodimac,"La Reina, Metropolitana, Chile",0.3992,2026-08-05,https://falabella.airavirtual.com/postula/j0EQLJ331WAxkqSNqoJq?logged_action=apply&register=true
-Operario/a Integral ,Salcobrand,"Santiago, Metropolitana de Santiago",0.3955,2026-08-05,https://salcobrand.trabajando.cl/trabajo-empleo/operario-a-integral/trabajo/6109584
+Operario/a Integral ,Salcobrand,"Santiago, Metropolitana de Santiago",0.3971,2026-08-05,https://salcobrand.trabajando.cl/trabajo-empleo/operario-a-integral/trabajo/6109584
 Bodeguero/a Full Time - Preunic Arauco Maipú ,Preunic,"Maipú, Metropolitana de Santiago",0.3934,2026-08-05,https://salcobrand.trabajando.cl/trabajo-empleo/bodeguero-a-full-time-preunic-arauco-maipu/trabajo/6109316
 Operador/a CCTV - Las Condes,Empresas SB,"San Bernardo, Metropolitana de Santiago",0.3927,2026-08-05,https://salcobrand.trabajando.cl/trabajo-empleo/operador-a-cctv-las-condes/trabajo/6109346
 Analista de Transporte - Mercado Envios,mercadolibre,"Región Metropolitana de Santiago,Chile",0.3918,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43569605
@@ -164,10 +171,10 @@ Skincare Beauty F/ Part Time 20 hrs Sábado y Domingo/ Falabella Costanera,Falab
 "Account Representative, Eats SMB INT (Sales Plan)",uber,"Santiago, Chile",0.358,2026-08-05,https://www.uber.com/global/en/careers/list/303401/
 Category Manager Nuevos Negocios,Ripley,Ofi Cerro Colorado 5240 - Comercial,0.3577,2026-08-05,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/23924?c=ripley
 Administrador de Servicios ,Empresas Carozzi,"San Bernardo, Metropolitana de Santiago",0.3573,2026-08-05,https://carozzi.trabajando.cl/trabajo-empleo/administrador-de-servicios/trabajo/6109567
-Subgerente de Service Center - Mercado Envíos,mercadolibre,"Santiago,Chile",0.3556,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43651411
 IT Support,Falabella Corporativo,"Santiago, Metropolitana, Chile",0.3553,2026-08-05,https://falabella.airavirtual.com/postula/uORh2yDJHHR4Hgamt8jv?logged_action=apply&register=true
 Ejecutivo de Venta Producto Finan PT 18,Ripley,Tda Plaza Tobalaba (Gesic) - Nuevos Clientes,0.3545,2026-08-05,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/23308?c=ripley
 Ejecutivo de Venta Producto Finan PT 18,Ripley,Tda Plaza Huechuraba (Gesic) - Nuevos Clientes,0.3534,2026-08-05,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/23300?c=ripley
+Subgerente de Service Center - Mercado Envíos,mercadolibre,"Santiago,Chile",0.3528,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43651411
 Op. Implementaciones Comerciales Sodimac Maitencillo 42 hrs,Sodimac,"Puchuncaví, Valparaíso, Chile",0.3521,2026-08-05,https://falabella.airavirtual.com/postula/f1SeQHEobQ32LgEskf6A?logged_action=apply&register=true
 Guardia de Seguridad 4x4 Quilicura,Tricot S.A.,"Quilicura, Metropolitana de Santiago",0.3514,2026-08-05,https://tricot.trabajando.cl/trabajo-empleo/guardia-de-seguridad-4x4-quilicura/trabajo/6109655
 Makeup Artist Beauty F/Part Time 20 hrs sabado y Domingo/ Falabella Alto las Condes,Falabella Retail,"Las Condes, Metropolitana, Chile",0.3485,2026-08-05,https://falabella.airavirtual.com/postula/okhDaOBuNN1fOsiu0oOE?logged_action=apply&register=true
@@ -199,8 +206,8 @@ Consultor/a de Belleza Full Time - Mall Plaza Antofagasta,Preunic,"Antofagasta, 
 Operativo Tienda Sodimac HC Punta Arenas Jornada PT25 hrs,Sodimac,"Punta Arenas, Magallanes y Antártica Chilena, Chile",0.3083,2026-08-05,https://falabella.airavirtual.com/postula/ODiaU50dX45fFwWw9sVb?logged_action=apply&register=true
 Auxiliar de Farmacia 30hrs - Curicó,Farmacias Ahumada S.A.,"Curicó, Maule",0.2958,2026-08-05,https://ahumada.trabajando.cl/trabajo-empleo/auxiliar-de-farmacia-30hrs-curico/trabajo/6109667
 Maestro/a Tostador/a | Rincón Jumbo Cafeteria  Alto Las Condesr,cencosud,"Santiago, REGION METROPOLITANA, CL",0.2893,2026-08-05,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14748?c=cencosud
-Jefe De Proyecto De Diseño Omnicanal,Walmart Chile,Santiago,0.283,2026-08-05,https://postulawalmartchile.cl/vacante/detalle/4469691/external
 Operativo/a Tienda Sodimac Vallenar Jornada 20 horas,Sodimac,"Vallenar, Atacama, Chile",0.2798,2026-08-05,https://falabella.airavirtual.com/postula/kpBpGaZUwoZwrjP9MO4W?logged_action=apply&register=true
+Jefe De Proyecto De Diseño Omnicanal,Walmart Chile,Santiago,0.2793,2026-08-05,https://postulawalmartchile.cl/vacante/detalle/4469691/external
 Asistente Tostador | Rincón Jumbo Alto Las Condes,cencosud,"Santiago, REGION METROPOLITANA, CL",0.2724,2026-08-05,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14749?c=cencosud
 Técnico en Mantenimiento Multiparking Cenco Malls,cencosud,"Santiago, REGIÓN METROPOLITANA, CL",0.2718,2026-08-05,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14757?c=cencosud
 Recepcionista | Rincón Jumbo Alto Las Condes (Full Time y Part Time),cencosud,"Santiago, REGION METROPOLITANA, CL",0.2703,2026-08-05,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14746?c=cencosud
@@ -226,8 +233,8 @@ Senior Fullstack Software Engineer,Falabella Corporativo,"Santiago, Metropolitan
 Asesor/a de Ventas/ Media Jornada Tarde 30hrs Semanales/ Americanino Oeste,Falabella Retail,"Cerrillos, Metropolitana, Chile",0.4074,2026-08-04,https://falabella.airavirtual.com/postula/doCGSg6JQtW3qKWlnMTM?logged_action=apply&register=true
 Asesor/a de Ventas/ Media Jornada Tarde 30 hrs semanales/ Americanino Calama,Falabella Retail,"Calama, Antofagasta, Chile",0.4063,2026-08-04,https://falabella.airavirtual.com/postula/9sydXJXNCYBqeFYR4t0U?logged_action=apply&register=true
 Asesor/a de Ventas / Part Time sábado y domingo/ Americanino Calama,Falabella Retail,"Calama, Antofagasta, Chile",0.4053,2026-08-04,https://falabella.airavirtual.com/postula/PQxQk9g5dY3cjVEXR3j7?logged_action=apply&register=true
-Bodegueros/as Full Time - Valdivia,Preunic,"Valdivia, Los Ríos",0.4048,2026-08-04,https://salcobrand.trabajando.cl/trabajo-empleo/bodegueros-as-full-time-valdivia/trabajo/6109222
 Asesor/a de marca Mango Tienda Alto las Condes PT 20 hrs. Fin de Semana,Falabella Retail,"Las Condes, Metropolitana, Chile",0.4032,2026-08-04,https://falabella.airavirtual.com/postula/n0c16h7U9nGt0sWABQuJ?logged_action=apply&register=true
+Bodegueros/as Full Time - Valdivia,Preunic,"Valdivia, Los Ríos",0.4029,2026-08-04,https://salcobrand.trabajando.cl/trabajo-empleo/bodegueros-as-full-time-valdivia/trabajo/6109222
 Químico(a) Farmacéutico(a) Part Time  - Viña del Mar,Salcobrand,"Viña del Mar, Valparaíso",0.4014,2026-08-04,https://salcobrand.trabajando.cl/trabajo-empleo/quimico-a-farmaceutico-a-part-time-vina-del-mar/trabajo/6109148
 Product Manager Sell Out Moda Hombre Reemplazo,Ripley,Ofi Cerro Colorado 5240 - Comercial,0.4013,2026-08-04,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/24120?c=ripley
 Supervisor/a de Operaciones 5x2 Turno Día Rotativo,Falabella Retail,"San Bernardo, Metropolitana, Chile",0.3976,2026-08-04,https://falabella.airavirtual.com/postula/kxkqwKZuhJpOdv822J8v?logged_action=apply&register=true
@@ -235,7 +242,7 @@ Operario/a Planta de Producción de Alimentos - San Bernardo,Empresas Carozzi S.
 Químico(a) Farmacéutico(a) Full Time - San Felipe,Salcobrand,"San Felipe, Valparaíso",0.3958,2026-08-04,https://salcobrand.trabajando.cl/trabajo-empleo/quimico-a-farmaceutico-a-full-time-san-felipe/trabajo/6109147
 Asesor/a de Marca Mango/ Media Jornda Tarde 30hrs semanales/ Falabella Los Dominicos,Falabella Retail,"Las Condes, Metropolitana, Chile",0.3953,2026-08-04,https://falabella.airavirtual.com/postula/Vb5BdnngKV3nBfypVJPP?logged_action=apply&register=true
 Asesor/a de MANGO CASA COSTANERA / Media Jornada Tarde 30 hrs semanales,Falabella Retail,"Las Condes, Metropolitana, Chile",0.3919,2026-08-04,https://falabella.airavirtual.com/postula/sIMuxp2gzFsL9Qo2i7Zq?logged_action=apply&register=true
-Software Engineer Back End,mercadolibre,"Región Metropolitana de Santiago,Chile",0.3913,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43124651
+Software Engineer Back End,mercadolibre,"Región Metropolitana de Santiago,Chile",0.3909,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43124651
 Asesor/a de Marca/ Jornada Part Time Sábado y Domingo/ Falabella La Dehesa,Falabella Retail,"Las Condes, Metropolitana, Chile",0.3908,2026-08-04,https://falabella.airavirtual.com/postula/dBV2ulVBqLYKxpAd8yug?logged_action=apply&register=true
 Asistente de Bodega FT 42 hrs.  Tienda La Dehesa,Falabella Retail,"Lo Barnechea, Metropolitana, Chile",0.3883,2026-08-04,https://falabella.airavirtual.com/postula/AEHoqlWdo8I7MkXZPap4?logged_action=apply&register=true
 "Ejecutivo/a Integral, PT 30 hrs. Falabella Angol.",Banco Falabella,"Angol, Araucanía, Chile",0.3879,2026-08-04,https://falabella.airavirtual.com/postula/ojddIdMwAsCCPAQGwJQ1?logged_action=apply&register=true
@@ -271,16 +278,16 @@ Asesor/a de Clientes MJ 30Hrs. 5x2 Falabella San Fernando,Falabella Retail,"San 
 "Jefe/a de Recursos Humanos, Full time, Osorno",Sodimac,"Osorno, Los Lagos, Chile",0.314,2026-08-04,https://falabella.airavirtual.com/postula/ak8G2M9AhW5fHf3A0wj0?logged_action=apply&register=true
 Asesor/a de Clientes MJ 30hrs 5x2 rotativo / Falabella Mall Plaza Copiapó,Falabella Retail,"Copiapó, Atacama, Chile",0.3136,2026-08-04,https://falabella.airavirtual.com/postula/IpCw7qRJUjBfWS3IwLCW?logged_action=apply&register=true
 Coordinador de Operaciones CD – Logística Supermercados Cencosud,cencosud,"Santiago, REGIÓN METROPOLITANA, CL",0.3071,2026-08-04,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14737?c=cencosud
+Supervisor de Seguridad,Ripley,Tda Los Angeles - Seguridad,0.307,2026-08-04,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/17110?c=ripley
 Auxiliar de Aseo - Bresler La Capilla,Empresas Carozzi S.A.,"San Bernardo, Metropolitana de Santiago",0.3068,2026-08-04,https://carozzi.trabajando.cl/trabajo-empleo/auxiliar-de-aseo-bresler-la-capilla/trabajo/6108927
 Subjefe de Tienda - Casaideas Florida Center,Casaideas,"La Florida, Metropolitana de Santiago",0.3064,2026-08-04,https://casaideas.trabajando.cl/trabajo-empleo/subjefe-de-tienda-casaideas-florida-center/trabajo/6108974
-Supervisor de Seguridad,Ripley,Tda Los Angeles - Seguridad,0.3061,2026-08-04,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/17110?c=ripley
 Asesor/a de Cliente MJ 30 hrs. Tienda Castro,Falabella Retail,"Castro, Los Lagos, Chile",0.3036,2026-08-04,https://falabella.airavirtual.com/postula/ztUItWsMnCHyHHPv2uxQ?logged_action=apply&register=true
 Jefe de Expedición - Paris San Antonio,cencosud,"Valparaiso, REGIÓN DE VALPARAÍSO, CL",0.2986,2026-08-04,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14738?c=cencosud
-Jefe/a Departamento Operacional FT42 hrs Hc Quilin,Sodimac,"Peñalolén, Metropolitana, Chile",0.2983,2026-08-04,https://falabella.airavirtual.com/postula/lBI0k2V1ALoNrlrI5Ci5?logged_action=apply&register=true
-Gerente Cross Dock - Mercado Envíos,mercadolibre,"Santiago,Chile",0.2978,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43651409
+Jefe/a Departamento Operacional FT42 hrs Hc Quilin,Sodimac,"Peñalolén, Metropolitana, Chile",0.2969,2026-08-04,https://falabella.airavirtual.com/postula/lBI0k2V1ALoNrlrI5Ci5?logged_action=apply&register=true
+Gerente Cross Dock - Mercado Envíos,mercadolibre,"Santiago,Chile",0.2968,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43651409
 "Jefe/a de departamento operacional,FT, HC Copiapo",Sodimac,"Copiapó, Atacama, Chile",0.2949,2026-08-04,https://falabella.airavirtual.com/postula/8lAB7rIyY6BddRCGdhlC?logged_action=apply&register=true
-Subgerente Cross Docking - Mercado Envíos,mercadolibre,"Santiago,Chile",0.2837,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43651415
 Jefe de Inventario Region Metropolitana,cencosud,"Santiago, REGIÓN METROPOLITANA, CL",0.2819,2026-08-04,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14739?c=cencosud
+Subgerente Cross Docking - Mercado Envíos,mercadolibre,"Santiago,Chile",0.2814,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43651415
 "Jefe/a de departamento operacional, FT, HC Ovalle",Sodimac,"Ovalle, Coquimbo, Chile",0.2783,2026-08-04,https://falabella.airavirtual.com/postula/MULPn4gnEmAWQonBtm9R?logged_action=apply&register=true
 Diseñador/a de Producto - Mesa & Cocina,cencosud,"Santiago, REGION METROPOLITANA, CL",0.2485,2026-08-04,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14735?c=cencosud
 Diseñador/a Gráfico Jr Visual Merchandising -  Paris,cencosud,"Santiago, REGION METROPOLITANA, CL",0.2393,2026-08-04,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14736?c=cencosud
@@ -307,36 +314,36 @@ Asistente de Probador / Full Time L/V 42 Hrs. / Falabella Punta Arenas,Falabella
 Supervisor de Seguridad,Ripley,Tda Rancagua - Seguridad,0.3847,2026-08-03,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22638?c=ripley
 Vigilante Bancario Full time 40 hrs 5x2/ Sucursal Viña Mall,Banco Falabella,"Viña del Mar, Valparaíso, Chile",0.3826,2026-08-03,https://falabella.airavirtual.com/postula/49jbkRWcj5kS7IwDXq3g?logged_action=apply&register=true
 Supervisor de formulación - Lonquén,Watts S.A.,"San Bernardo, Metropolitana de Santiago",0.3823,2026-08-03,https://watts.trabajando.cl/trabajo-empleo/supervisor-de-formulacion-lonquen/trabajo/6108496
+Software Engineer III,Ripley,Ofi. Alonso De Cordova 5320 - Tecnología,0.3798,2026-08-03,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/23971?c=ripley
 "Jefe de Apertura, Remodelación y Cierre de Locales",Salcobrand,"Providencia, Metropolitana de Santiago",0.3776,2026-08-03,https://salcobrand.trabajando.cl/trabajo-empleo/jefe-de-apertura-remodelacion-y-cierre-de-locales/trabajo/6108424
 Promotor/a /Jornada Full Time 42 hrs semanales Lunes a viernes/ Falabella Arauco Maipú,Falabella Retail,"Santiago, Metropolitana, Chile",0.3765,2026-08-03,https://falabella.airavirtual.com/postula/O1pD8URcLKuiPeczS19l?logged_action=apply&register=true
 Supervisor/a de Consumo - Temuco,Salcobrand,"Temuco, La Araucanía",0.3713,2026-08-03,https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-consumo-temuco/trabajo/6108423
 Supervisor de Mantenimiento - NOS,Empresas Carozzi,"San Bernardo, Metropolitana de Santiago",0.3694,2026-08-03,https://carozzi.trabajando.cl/trabajo-empleo/supervisor-de-mantenimiento-nos/trabajo/6108446
-Software Engineer III,Ripley,Ofi. Alonso De Cordova 5320 - Tecnología,0.3693,2026-08-03,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/23971?c=ripley
 "Vigilante Privado 40 hrs 5x2, Agencia Puerto Montt Mall",Banco Falabella,"Puerto Montt, Los Lagos, Chile",0.3678,2026-08-03,https://falabella.airavirtual.com/postula/pHPpI5NYCvmfk2Hpmuib?logged_action=apply&register=true
 "Analista de control de calidad, Lonquén ",Watts S.A.,"San Bernardo, Metropolitana de Santiago",0.3677,2026-08-03,https://watts.trabajando.cl/trabajo-empleo/analista-de-control-de-calidad-lonquen/trabajo/6108508
 Ingeniero de Fraude,Falabella Retail,"Las Condes, Metropolitana, Chile",0.3663,2026-08-03,https://falabella.airavirtual.com/postula/8mJrDQPYVoJs0L6qDlm5?logged_action=apply&register=true
 Auxiliar de Abastecimiento FT 42 hrs. Falabella Rancagua,Falabella Retail,"Rancagua, Libertador B. O Higgins, Chile",0.3652,2026-08-03,https://falabella.airavirtual.com/postula/PiektbOHVQdv7ObSWBZd?logged_action=apply&register=true
+Ejecución de Fuerza Venta Directa - Mercado Pago,mercadolibre,"Región de Antofagasta,Chile",0.3639,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/38964442
 Arquitecto(a) SAP,SMU,"Las Condes, Metropolitana de Santiago",0.3638,2026-08-03,https://smu.trabajando.cl/trabajo-empleo/arquitecto-a-sap/trabajo/6108378
-Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región del Maule,Chile",0.3637,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40706852
 Jefe área Operaciones - Turno nocturno,Salcobrand,"Santiago, Metropolitana de Santiago",0.363,2026-08-03,https://salcobrand.trabajando.cl/trabajo-empleo/jefe-area-operaciones-turno-nocturno/trabajo/6108408
-Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región del Maule,Chile",0.3612,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40685953
+Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región del Maule,Chile",0.3614,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40685953
+Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región del Maule,Chile",0.3612,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40706852
+Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región de Valparaíso,Chile",0.3608,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40685936
 "Jefe/a Departamento Ventas, FT 42 hrs, Sodimac La Florida",Sodimac,"La Florida, Metropolitana, Chile",0.3603,2026-08-03,https://falabella.airavirtual.com/postula/qfSnMeKNgU01PgLzxFXO?logged_action=apply&register=true
-Ejecución de Fuerza Venta Directa - Mercado Pago,mercadolibre,"Región de Antofagasta,Chile",0.3602,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/38964442
 Ejecutivo/a Back Office CD Lo Aguirre – Logística Supermercados Cencosud,cencosud,"Santiago, REGIÓN METROPOLITANA, CL",0.3588,2026-08-03,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14721?c=cencosud
 "Jefe/a de prevención de perdidas, FT 42, Sodimac Maintecillo",Sodimac,"Zapallar, Valparaíso, Chile",0.3586,2026-08-03,https://falabella.airavirtual.com/postula/c6pn9JFozAw2lJx4jI8P?logged_action=apply&register=true
-Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región de Valparaíso,Chile",0.3583,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40685936
+Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región de Antofagasta,Chile",0.3583,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40703699
 Arquitecto(a) Frontend & Mobile,SMU,"Las Condes, Metropolitana de Santiago",0.3549,2026-08-03,https://smu.trabajando.cl/trabajo-empleo/arquitecto-a-frontend-mobile/trabajo/6108398
 "Jefe/a Departamento de Ventas, FT 42 hrs, Sodimac Huechuraba",Sodimac,"Huechuraba, Metropolitana, Chile",0.3548,2026-08-03,https://falabella.airavirtual.com/postula/7renWaanYBFCfgRbp20O?logged_action=apply&register=true
 "Vigilante Bancario Full time 40 hrs 5x2, Agencia Coyhaique",Banco Falabella,"Coyhaique, Aysén, Chile",0.354,2026-08-03,https://falabella.airavirtual.com/postula/XjX2UcbG3DXKwrLxKQ1T?logged_action=apply&register=true
-Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región de Antofagasta,Chile",0.3534,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40703699
 Monitor EWMS CD Lo Aguirre  – Logística Supermercados Cencosud,cencosud,"Santiago, REGIÓN METROPOLITANA, CL",0.3523,2026-08-03,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14723?c=cencosud
 "Supervisor/a De Cajas, PT 20 horas, Sodimac Talca Poniente",Sodimac,"Talca, Maule, Chile",0.3513,2026-08-03,https://falabella.airavirtual.com/postula/4PmaTwb6J7oQB4bOCoIh?logged_action=apply&register=true
 Abogado/a de Relaciones Laborales,Falabella Retail,"Las Condes, Metropolitana, Chile",0.3506,2026-08-03,https://falabella.airavirtual.com/postula/FauYkbL4ZJBcKapxVDph?logged_action=apply&register=true
 "Jefe Departamento de Ventas, FT 42 hrs, Sodimac Huechuraba",Sodimac,"Huechuraba, Metropolitana, Chile",0.3468,2026-08-03,https://falabella.airavirtual.com/postula/hfoNkbUFbTqCbLFzBhQt?logged_action=apply&register=true
 Category Manager Tecno,Ripley,Ofi Cerro Colorado 5240 - Comercial,0.3465,2026-08-03,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/22572?c=ripley
 Analista de Calidad - Reñaca,Empresas Carozzi S.A.,"Viña del Mar, Valparaíso",0.3326,2026-08-03,https://carozzi.trabajando.cl/trabajo-empleo/analista-de-calidad-renaca/trabajo/6108334
-Asistente Comercial,Ripley,Tda Coquimbo (Gesic) - Relación Comercial,0.3324,2026-08-03,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/16199?c=ripley
 Asesor/a de Cliente/ Jornada Full Time 42 hrs/Falabella Iquique,Falabella Retail,"Iquique, Tarapacá, Chile",0.3314,2026-08-03,https://falabella.airavirtual.com/postula/3NqX9HwLQQmxQxOHv3Lo?logged_action=apply&register=true
+Asistente Comercial,Ripley,Tda Coquimbo (Gesic) - Relación Comercial,0.3306,2026-08-03,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/16199?c=ripley
 Asistente de Bodega / Full Time 5x2 42 hrs. / Falabella La Serena,Falabella Retail,"La Serena, Coquimbo, Chile",0.3279,2026-08-03,https://falabella.airavirtual.com/postula/26XAgMyDS9imYqxEiGnq?logged_action=apply&register=true
 Visitador Médico,Salcobrand,"Ñuñoa, Metropolitana de Santiago",0.3217,2026-08-03,https://salcobrand.trabajando.cl/trabajo-empleo/visitador-medico/trabajo/6108426
 "Jefe/a Departamento Operacional, FT42hrs, Sodimac Valdivia",Sodimac,"Valdivia, Los Ríos, Chile",0.3213,2026-08-03,https://falabella.airavirtual.com/postula/t09n4H6UiQy9sPMaU2JS?logged_action=apply&register=true
@@ -346,13 +353,13 @@ Controlador CD Lo Aguirre – Logística Supermercados Cencosud,cencosud,"Santia
 "Jefe Departamento Operacional, FT 42hrs, Sodimac Huechuraba",Sodimac,"Huechuraba, Metropolitana, Chile",0.304,2026-08-03,https://falabella.airavirtual.com/postula/ra2wRWyQYkojai8xHYIZ?logged_action=apply&register=true
 Asesor/a de Cliente/ Part Time 20 hrs Sábado y Domingo / Tienda Falabella Chillan,Falabella Retail,"Chillán, Ñuble, Chile",0.294,2026-08-03,https://falabella.airavirtual.com/postula/Kn3qSR1AVOTEiewvrAp9?logged_action=apply&register=true
 Asesor/a de Cliente/ Jornada Part Time 20hrs/ Falabella Valdivia,Falabella Retail,"Valdivia, Los Ríos, Chile",0.2906,2026-08-03,https://falabella.airavirtual.com/postula/XTPF8jWfazsugQEjPOSW?logged_action=apply&register=true
-Analista Integral de Remuneraciones,Ripley,Ofi. Alonso De Cordova 5320 - RECURSOS HUMANO,0.2879,2026-08-03,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/24005?c=ripley
 Auxiliar de Cocina- Nuevo proyecto de Cafetería - Full-time y Part-time,cencosud,"Santiago, REGION METROPOLITANA, CL",0.2878,2026-08-03,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14729?c=cencosud
 Asesor/a de Cliente/ Media Jornada Tarde 30 hrs 5x2/Falabella Chillán,Falabella Retail,"Chillán, Ñuble, Chile",0.2867,2026-08-03,https://falabella.airavirtual.com/postula/fmRCYYTRctArmFenJnzt?logged_action=apply&register=true
+Analista Integral de Remuneraciones,Ripley,Ofi. Alonso De Cordova 5320 - RECURSOS HUMANO,0.2861,2026-08-03,https://ripley.csod.com/ux/ats/careersite/4/home/requisition/24005?c=ripley
 "Encargado part time abarrotes, Jumbo Ñuñoa",cencosud,"Santiago, REGIÓN METROPOLITANA, CL",0.2783,2026-08-03,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14730?c=cencosud
 "Encargado de turno Fabrica de pan panadería pastelería,  Jumbo La Florida",cencosud,"Santiago, REGIÓN METROPOLITANA, CL",0.2751,2026-08-03,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14728?c=cencosud
+Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región del Biobío,Chile",0.2743,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40706993
 Ejecutivo Digital Cliente Easy Pro - copy,cencosud,"Santiago, REGION METROPOLITANA, CL",0.2731,2026-08-03,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14727?c=cencosud
-Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región del Biobío,Chile",0.2693,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40706993
 Asesor/a de Cliente/ Jornada Part Time Sábado y Domingo/ Falabella Osorno,Falabella Retail,"Santiago, Metropolitana, Chile",0.2685,2026-08-03,https://falabella.airavirtual.com/postula/a0Ap4BftNfGDt63taexN?logged_action=apply&register=true
 "Encargado aseo y perfumería Part Time ( 29 horas), Jumbo Ñuñoa",cencosud,"Santiago, REGIÓN METROPOLITANA, CL",0.2539,2026-08-03,https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14726?c=cencosud
 Asesor/a de Cliente / Part Time 20 Hrs. / Falabella La Serena,Falabella Retail,"La Serena, Coquimbo, Chile",0.2522,2026-08-03,https://falabella.airavirtual.com/postula/ZJe8yTLzAfjoyXmlntxD?logged_action=apply&register=true
@@ -361,7 +368,3 @@ Jefe de Ventas PK (fines de semana)- Paris Valparaíso,cencosud,"Valparaiso, REG
 Auxiliar de Abastecimiento / Full Time 42 LV / Falabella Independencia,Falabella Retail,"Independencia, Metropolitana, Chile",0.4003,2026-08-02,https://falabella.airavirtual.com/postula/yEQCQc6LSzrACQxztT15?logged_action=apply&register=true
 Asistente de Probador / Full Time 5x2 42 horas LV / Falabella La Serena,Falabella Retail,"La Serena, Coquimbo, Chile",0.3362,2026-08-02,https://falabella.airavirtual.com/postula/lpyyCt4lNqecFil5B1We?logged_action=apply&register=true
 Asesor/a de Cliente / Media Jornada Tarde 30 Hrs. 5X2 / Falabella La Serena,Falabella Retail,"La Serena, Coquimbo, Chile",0.2591,2026-08-02,https://falabella.airavirtual.com/postula/iyIFTDIdH5yVsiFUPeuh?logged_action=apply&register=true
-Subgerente cumplimiento normativo y riesgo operacional,Tricot S.A.,"Ñuñoa, Metropolitana de Santiago",0.3924,2026-08-01,https://tricot.trabajando.cl/trabajo-empleo/subgerente-cumplimiento-normativo-y-riesgo-operacional/trabajo/6108293
-Analista Senior de Entrenamiento Operacional - Mercado Envíos,mercadolibre,"Santiago,Chile",0.3825,2026-08-01,https://mercadolibre.eightfold.ai/careers/job/43622053
-Líder de Equipo de Operaciones Turno Mañana - Mercado Envíos,mercadolibre,"Región Metropolitana de Santiago,Chile; Santiago, Santiago Metropolitan Region, CL",0.3663,2026-08-01,https://mercadolibre.eightfold.ai/careers/job/43550044
-Asistente de RRHH - 0 a 1 año de experiencia,Tricot S.A.,"Ñuñoa, Metropolitana de Santiago",0.3647,2026-08-01,https://tricot.trabajando.cl/trabajo-empleo/asistente-de-rrhh-0-a-1-ano-de-experiencia/trabajo/6108292

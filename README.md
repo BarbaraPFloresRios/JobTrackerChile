@@ -30,7 +30,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Ingeniero/a de Software IA](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-software-ia/trabajo/6110611) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4510 | 2026-08-07 |
 | [Analista de Existencias FT 42 Hrs. Semanales, La Florida / Quilin](https://falabella.airavirtual.com/postula/DOgonNAHKIB3P0cBYCGe?logged_action=apply&register=true) | Tottus | La Florida, Metropolitana, Chile | 0.4502 | 2026-08-07 |
 | [Analista de Existencias FT 42 horas Hc San Miguel](https://falabella.airavirtual.com/postula/xP49lWCtt3g5nviDDNov?logged_action=apply&register=true) | Sodimac | San Miguel, Metropolitana, Chile | 0.4496 | 2026-08-04 |
-| [Analista de Existencias FT 42 Hrs. Semanales, Rancagua / Machalí](https://falabella.airavirtual.com/postula/yfdsUqFS9HWlGx5O5nHv?logged_action=apply&register=true) | Tottus | Rancagua, Libertador B. O Higgins, Chile | 0.4459 | 2026-08-07 |
+| [Administrativo/a de Tesorería, Media Jornada Tarde, Angol](https://falabella.airavirtual.com/postula/zKoDzomav4qWcyZLLn6i?logged_action=apply&register=true) | Falabella Retail | Angol, Araucanía, Chile | 0.4495 | 2026-08-08 |
 
 # About
 
