@@ -6,31 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Planner (Retail) - Providencia](https://abcdin.trabajando.cl/trabajo-empleo/planner-retail-providencia/trabajo/6110788) | abc | Providencia, Metropolitana de Santiago | 0.5179 | 2026-08-07 |
-| [Category Planner (Reemplazo pre y post natal)](https://salcobrand.trabajando.cl/trabajo-empleo/category-planner-reemplazo-pre-y-post-natal/trabajo/6109339) | Preunic | Santiago, Metropolitana de Santiago | 0.5087 | 2026-08-05 |
-| [IT Business Consultant](https://falabella.airavirtual.com/postula/Dj3HVOuhtdR3zrWvBqdv?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.5003 | 2026-08-05 |
-| [Quality Engineer](https://falabella.airavirtual.com/postula/Py3gZmsdZQTZmm0uiqyU?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4877 | 2026-08-05 |
-| [Project Manager Logistica Sellers](https://falabella.airavirtual.com/postula/B1r6bQepJRqV7z2GFnQN?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4850 | 2026-08-06 |
-| [Data Scientist](https://falabella.airavirtual.com/postula/UWH4ecNcX8SJwGp3J8lB?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4800 | 2026-08-07 |
-| [Ingeniero de Soporte](https://falabella.airavirtual.com/postula/F0z1pNYG4ahlP45lluWS?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4755 | 2026-08-05 |
-| [Analista de Existencias FT 42 Hrs. Semanales, San Bernardo / Alameda](https://falabella.airavirtual.com/postula/nAEaW5iDpTD79LME95Zd?logged_action=apply&register=true) | Tottus | Estación Central, Metropolitana, Chile | 0.4751 | 2026-08-07 |
-| [Analista de Existencias FT 42 Hrs. Semanales, Concón/ Reñaca](https://falabella.airavirtual.com/postula/85I78GsI4oqpUvX1fWPG?logged_action=apply&register=true) | Tottus | Concón, Valparaíso, Chile | 0.4747 | 2026-08-07 |
-| [Analista de Existencias FT 42 Hrs. Semanales, Vitacura / Kennedy](https://falabella.airavirtual.com/postula/xLkGTQEQcVOQyTYCfNi4?logged_action=apply&register=true) | Tottus | Vitacura, Metropolitana, Chile | 0.4721 | 2026-08-07 |
-| [Analista Gestión de Calidad / Reemplazo Pre y Post Natal](https://falabella.airavirtual.com/postula/l0yj5JICiHep7EmuygU6?logged_action=apply&register=true) | Tottus | Santiago, Metropolitana, Chile | 0.4713 | 2026-08-04 |
-| [Ayudante de Producción - Plasco](https://www.trabajaenccu.cl/trabajo/6109890-ayudante-de-produccion-plasco) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4689 | 2026-08-05 |
-| [Analista de Planificación Logística](https://falabella.airavirtual.com/postula/Wm0Idquheop0mJZbp60y?logged_action=apply&register=true) | Falabella Retail | Lo Espejo, Metropolitana, Chile | 0.4658 | 2026-08-04 |
-| [Analista de Existencias FT 42 Hrs. Semanales, Maipú / Cerrillos](https://falabella.airavirtual.com/postula/7UuMguChuysFtoMaEGPa?logged_action=apply&register=true) | Tottus | Maipú, Metropolitana, Chile | 0.4632 | 2026-08-07 |
-| [Brand Manager ](https://forus.trabajando.cl/trabajo-empleo/brand-manager/trabajo/6110501) | Forus S.A. | Las Condes, Metropolitana de Santiago | 0.4613 | 2026-08-07 |
-| [Gruero Operario - Plasco](https://www.trabajaenccu.cl/trabajo/6108707-gruero-operario-plasco) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4605 | 2026-08-03 |
-| [Gerente/Administrador Retail Alvi Calama](https://smu.trabajando.cl/trabajo-empleo/gerente-administrador-retail-alvi-calama/trabajo/6108611) | Alvi | Calama, Antofagasta | 0.4595 | 2026-08-03 |
-| [KAM Ecommerce - Las Condes](https://www.trabajaenccu.cl/trabajo/6108990-kam-ecommerce-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4572 | 2026-08-04 |
-| [Especialista Procurement Categoría Transportes - Última Milla](https://mercadolibre.eightfold.ai/careers/job/43690170) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4563 | 2026-08-06 |
-| [Vendor Manager Inventory (VMI)](https://salcobrand.trabajando.cl/trabajo-empleo/vendor-manager-inventory-vmi/trabajo/6108419) | Salcobrand | Santiago, Metropolitana de Santiago | 0.4537 | 2026-08-03 |
-| [Product Manager Ecommerce Accesorios](https://falabella.airavirtual.com/postula/IhtvsTOHD4VT2rsK9Uj7?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4523 | 2026-08-07 |
-| [Ingeniero/a de Software IA](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-software-ia/trabajo/6110611) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4510 | 2026-08-07 |
-| [Analista de Existencias FT 42 Hrs. Semanales, La Florida / Quilin](https://falabella.airavirtual.com/postula/DOgonNAHKIB3P0cBYCGe?logged_action=apply&register=true) | Tottus | La Florida, Metropolitana, Chile | 0.4502 | 2026-08-07 |
-| [Analista de Existencias FT 42 horas Hc San Miguel](https://falabella.airavirtual.com/postula/xP49lWCtt3g5nviDDNov?logged_action=apply&register=true) | Sodimac | San Miguel, Metropolitana, Chile | 0.4496 | 2026-08-04 |
-| [Administrativo/a de Tesorería, Media Jornada Tarde, Angol](https://falabella.airavirtual.com/postula/zKoDzomav4qWcyZLLn6i?logged_action=apply&register=true) | Falabella Retail | Angol, Araucanía, Chile | 0.4495 | 2026-08-08 |
+| [Partner Development Manager Chile](https://www.amazon.jobs/en/jobs/10502289/partner-development-manager-chile) | amazon | CL, RM, Comuna De Providencia | 0.5153 | 2026-09-06 |
+| [Solution Architect Intern](https://www.amazon.jobs/en/jobs/10512549/solution-architect-intern) | amazon | CL, Santiago | 0.4904 | 2026-09-06 |
+| [Jefe Category Management Cervezas](https://www.trabajaenccu.cl/trabajo/6118597-jefe-category-management-cervezas) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4896 | 2026-09-06 |
+| [Analista Reabastecimiento](https://postulawalmartchile.cl/vacante/detalle/4476187/external) | Walmart Chile | Quilicura | 0.4893 | 2026-09-06 |
+| [Solution Architect Intern](https://www.amazon.jobs/en/jobs/10512638/solution-architect-intern) | amazon | CL, Santiago | 0.4890 | 2026-09-06 |
+| [Planner Comercial Supermercados (Plazo Fijo 10 meses)](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14856?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4795 | 2026-09-06 |
+| [Analista Contable Trainee - Las Condes](https://www.trabajaenccu.cl/trabajo/6112578-analista-contable-trainee-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4747 | 2026-09-06 |
+| [Jefe/a Revenue Management Cervezas](https://www.trabajaenccu.cl/trabajo/6120391-jefe-a-revenue-management-cervezas) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4730 | 2026-09-06 |
+| [Business Analyst  - Digital Commerce](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14922?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4729 | 2026-09-06 |
+| [Ingeniero Optimización e Inteligencia Logística](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-optimizacion-e-inteligencia-logistica/trabajo/6121291) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4726 | 2026-09-06 |
+| [Operations Analyst Senior \| Planificación & Analytics](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14821?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4646 | 2026-09-06 |
+| [Supervisor/a de Picking - San Bernardo ](https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-picking-san-bernardo/trabajo/6119203) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4645 | 2026-09-06 |
+| [Ingeniero/a de Planificación (Distribución) - Quilicura](https://www.trabajaenccu.cl/trabajo/6112816-ingeniero-a-de-planificacion-distribucion-quilicura) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.4559 | 2026-09-06 |
+| [Vendor Manager Inventory (VMI)](https://salcobrand.trabajando.cl/trabajo-empleo/vendor-manager-inventory-vmi/trabajo/6119195) | Salcobrand | Santiago, Metropolitana de Santiago | 0.4539 | 2026-09-06 |
+| [Analista Experiencia de Clientes](https://salcobrand.trabajando.cl/trabajo-empleo/analista-experiencia-de-clientes/trabajo/6119198) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4535 | 2026-09-06 |
+| [Planner NonFood](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14906?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4532 | 2026-09-06 |
+| [Analista Customer Service](https://soprole.trabajando.cl/trabajo-empleo/analista-customer-service/trabajo/6119508) | Soprole | Renca, Metropolitana de Santiago | 0.4521 | 2026-09-06 |
+| [Ingeniero/a de Proyectos Logísticos Senior](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos-senior/trabajo/6119207) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4507 | 2026-09-06 |
+| [Product Manager Ecommerce Jr](https://postulawalmartchile.cl/vacante/detalle/4479173/external) | Walmart Chile | Huechuraba | 0.4497 | 2026-09-06 |
+| [Operations Analyst – Marketplace Paris](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14976?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4497 | 2026-09-06 |
+| [Colaborador Industrial P4](https://pf.trabajando.cl/trabajo-empleo/colaborador-industrial-p4/trabajo/6121397) | PF Alimentos | Talca, Maule | 0.4478 | 2026-09-06 |
+| [Administrativo/a de Sucursal - Manantial - Castro](https://www.trabajaenccu.cl/trabajo/6116834-administrativo-a-de-sucursal-manantial-castro) | Manantial | Castro, Los Lagos, Chile | 0.4470 | 2026-09-06 |
+| [Analista de Compensaciones y Analítica](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-compensaciones-y-analitica/trabajo/6119201) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4447 | 2026-09-06 |
+| [Administrativo/a Operaciones Laboratorio - Ovalle plazo fijo](https://www.trabajaenccu.cl/trabajo/6112883-administrativo-a-operaciones-laboratorio-ovalle-plazo-fijo) | CCU | Ovalle, Coquimbo, Chile | 0.4439 | 2026-09-06 |
+| [INGENIERO MEJORA CONTINUA Y PROCESOS](https://koandina.trabajando.cl/trabajo-empleo/ingeniero-mejora-continua-y-procesos/trabajo/6121458) | Envases Central S.A. | Renca, Metropolitana de Santiago | 0.4439 | 2026-09-06 |
 
 # About
 
