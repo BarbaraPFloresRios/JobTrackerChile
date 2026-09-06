@@ -1,5 +1,7 @@
+[![Scrape Jobs](https://github.com/BarbaraPFloresRios/JobTrackerChile/actions/workflows/scrape_jobs.yml/badge.svg)](https://github.com/BarbaraPFloresRios/JobTrackerChile/actions/workflows/scrape_jobs.yml)
+
 # Chile JobTracker
-    
+
 # Latest Jobs
 
 _Updated automatically from `data/recent_jobs.csv`._

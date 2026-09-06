@@ -46,8 +46,10 @@ def make_jobs_table(max_rows=25):
 def generate_readme():
     jobs_table = make_jobs_table()
 
-    content = f"""# Chile JobTracker
-    
+    content = f"""[![Scrape Jobs](https://github.com/BarbaraPFloresRios/JobTrackerChile/actions/workflows/scrape_jobs.yml/badge.svg)](https://github.com/BarbaraPFloresRios/JobTrackerChile/actions/workflows/scrape_jobs.yml)
+
+# Chile JobTracker
+
 # Latest Jobs
 
 _Updated automatically from `data/recent_jobs.csv`._
