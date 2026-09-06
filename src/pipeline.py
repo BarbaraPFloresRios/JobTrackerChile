@@ -379,10 +379,16 @@ def run_pipeline():
     ]
 
     scraped_jobs = []
+    failed_companies = []
 
     for company, scraper, output_path in scrapers:
         print_section(company)
-        jobs = scraper()
+        try:
+            jobs = scraper()
+        except Exception as error:
+            print(f"ERROR scraping {company}: {error}")
+            failed_companies.append(company)
+            jobs = pd.DataFrame()
         scraped_jobs.append((company, jobs, output_path))
 
     print_phase("Processing results")
@@ -400,3 +406,9 @@ def run_pipeline():
 
     generate_readme()
     print("Updated README.md")
+
+    if failed_companies:
+        print(
+            f"\nWARNING: {len(failed_companies)} scraper(s) failed and kept "
+            f"their previous data: {', '.join(failed_companies)}"
+        )
