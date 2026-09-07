@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -41,5 +43,23 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update jobs data"
-            git push
+
+            # A concurrent run (e.g. a manual dispatch overlapping the
+            # schedule) may push while we scrape. Rebase onto the latest
+            # main and retry so the push never fails with a non-fast-forward
+            # rejection. On conflicting data files, prefer our fresh scrape.
+            pushed=false
+            for attempt in 1 2 3 4 5; do
+              if git push; then
+                pushed=true
+                break
+              fi
+              echo "Push rejected (attempt $attempt); rebasing onto latest main…"
+              git pull --rebase -X theirs origin main
+            done
+
+            if [ "$pushed" = false ]; then
+              echo "Failed to push after multiple attempts"
+              exit 1
+            fi
           fi
