@@ -8,6 +8,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
+| [Ingeniero/a de Inteligencia de Negocios y Datos - Manantial - Quilicura](https://www.trabajaenccu.cl/trabajo/6122929-ingeniero-a-de-inteligencia-de-negocios-y-datos-manantial-quilicura) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.5395 | 2026-09-08 |
 | [Data Analyst](https://falabella.airavirtual.com/postula/33ur1yxGOvGIrS5xcopo?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5302 | 2026-09-06 |
 | [Partner Development Manager Chile](https://www.amazon.jobs/en/jobs/10502289/partner-development-manager-chile) | amazon | CL, RM, Comuna De Providencia | 0.5153 | 2026-09-06 |
 | [Senior Fullstack Software Engineer](https://falabella.airavirtual.com/postula/7dx27psttFwGF3vvgv64?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.5067 | 2026-09-06 |
@@ -32,7 +33,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Analista Contable Trainee - Las Condes](https://www.trabajaenccu.cl/trabajo/6112578-analista-contable-trainee-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4747 | 2026-09-06 |
 | [Jefe/a Revenue Management Cervezas](https://www.trabajaenccu.cl/trabajo/6120391-jefe-a-revenue-management-cervezas) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4730 | 2026-09-06 |
 | [Tech Lead](https://falabella.airavirtual.com/postula/krv3VNRNQpLWvwh77FJG?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4729 | 2026-09-06 |
-| [Business Analyst  - Digital Commerce](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14922?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4729 | 2026-09-06 |
 
 # About
 
