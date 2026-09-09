@@ -31,8 +31,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Machine Learning Engineer](https://falabella.airavirtual.com/postula/T8SHe1PzxHZP2Vrsl2L9?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4750 | 2026-09-06 |
 | [Senior Back End Software Engineer](https://falabella.airavirtual.com/postula/Y2IiF5UlJGdwNiYk3HjR?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4750 | 2026-09-06 |
 | [Analista Contable Trainee - Las Condes](https://www.trabajaenccu.cl/trabajo/6112578-analista-contable-trainee-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4747 | 2026-09-06 |
+| [Tech Lead](https://falabella.airavirtual.com/postula/krv3VNRNQpLWvwh77FJG?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4740 | 2026-09-06 |
 | [Jefe/a Revenue Management Cervezas](https://www.trabajaenccu.cl/trabajo/6120391-jefe-a-revenue-management-cervezas) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4730 | 2026-09-06 |
-| [Tech Lead](https://falabella.airavirtual.com/postula/krv3VNRNQpLWvwh77FJG?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4729 | 2026-09-06 |
 
 # About
 
