@@ -9,8 +9,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [Ingeniero/a de Inteligencia de Negocios y Datos - Manantial - Quilicura](https://www.trabajaenccu.cl/trabajo/6122929-ingeniero-a-de-inteligencia-de-negocios-y-datos-manantial-quilicura) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.5395 | 2026-09-08 |
-| [Partner Development Manager Chile](https://www.amazon.jobs/en/jobs/10502289/partner-development-manager-chile) | amazon | CL, RM, Comuna De Providencia | 0.5337 | 2026-09-06 |
 | [Data Analyst](https://falabella.airavirtual.com/postula/33ur1yxGOvGIrS5xcopo?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5302 | 2026-09-06 |
+| [Partner Development Manager Chile](https://www.amazon.jobs/en/jobs/10502289/partner-development-manager-chile) | amazon | CL, RM, Comuna De Providencia | 0.5289 | 2026-09-06 |
 | [Senior Fullstack Software Engineer](https://falabella.airavirtual.com/postula/7dx27psttFwGF3vvgv64?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.5067 | 2026-09-06 |
 | [Data Engineer Control Interno](https://falabella.airavirtual.com/postula/sVfjfxxWjojtpSS5upFM?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5040 | 2026-09-06 |
 | [Fullstack Software Engineer](https://falabella.airavirtual.com/postula/5EuUq70l30sqjFWKxouO?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.5022 | 2026-09-06 |
@@ -22,16 +22,16 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Jefe Category Management Cervezas](https://www.trabajaenccu.cl/trabajo/6118597-jefe-category-management-cervezas) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4896 | 2026-09-06 |
 | [Analista Reabastecimiento](https://postulawalmartchile.cl/vacante/detalle/4476187/external) | Walmart Chile | Quilicura | 0.4893 | 2026-09-06 |
 | [Solution Architect Intern](https://www.amazon.jobs/en/jobs/10512638/solution-architect-intern) | amazon | CL, Santiago | 0.4890 | 2026-09-06 |
-| [Food Purchase and Logistics Specialist](https://falabella.airavirtual.com/postula/eUHNWYLWcOWHa7uNaDWM?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4822 | 2026-09-06 |
 | [Project Manager](https://falabella.airavirtual.com/postula/bdUij2p9ObZxntWcAmr8?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4804 | 2026-09-06 |
 | [Planner Comercial Supermercados (Plazo Fijo 10 meses)](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/14856?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4795 | 2026-09-06 |
+| [Food Purchase and Logistics Specialist](https://falabella.airavirtual.com/postula/eUHNWYLWcOWHa7uNaDWM?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4792 | 2026-09-06 |
 | [Arquitecto Integraciones](https://falabella.airavirtual.com/postula/9WWGUVpg7HrXEYfx2CMX?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4790 | 2026-09-06 |
 | [Product Analyst](https://falabella.airavirtual.com/postula/ZVhX4He0I5zoukvHMMlt?logged_action=apply&register=true) | Falabella Financiero | Las Condes, Metropolitana, Chile | 0.4777 | 2026-09-06 |
-| [Colaborador Industrial P4](https://pf.trabajando.cl/trabajo-empleo/colaborador-industrial-p4/trabajo/6121397) | PF Alimentos | Talca, Maule | 0.4758 | 2026-09-06 |
 | [Intern Planificación  Warehouse](https://falabella.airavirtual.com/postula/KW9G4E23F8Q1X5cUgw4o?logged_action=apply&register=true) | IKEA | Pudahuel, Metropolitana, Chile | 0.4754 | 2026-09-06 |
 | [Machine Learning Engineer](https://falabella.airavirtual.com/postula/T8SHe1PzxHZP2Vrsl2L9?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4750 | 2026-09-06 |
 | [Senior Back End Software Engineer](https://falabella.airavirtual.com/postula/Y2IiF5UlJGdwNiYk3HjR?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4750 | 2026-09-06 |
 | [Analista Contable Trainee - Las Condes](https://www.trabajaenccu.cl/trabajo/6112578-analista-contable-trainee-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4747 | 2026-09-06 |
+| [Tech Lead](https://falabella.airavirtual.com/postula/krv3VNRNQpLWvwh77FJG?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4735 | 2026-09-06 |
 | [Jefe/a Revenue Management Cervezas](https://www.trabajaenccu.cl/trabajo/6120391-jefe-a-revenue-management-cervezas) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4730 | 2026-09-06 |
 
 # About
