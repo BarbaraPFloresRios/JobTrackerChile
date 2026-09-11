@@ -9,8 +9,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [Ingeniero/a de Inteligencia de Negocios y Datos - Manantial - Quilicura](https://www.trabajaenccu.cl/trabajo/6122929-ingeniero-a-de-inteligencia-de-negocios-y-datos-manantial-quilicura) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.5395 | 2026-09-08 |
-| [Partner Development Manager Chile](https://www.amazon.jobs/en/jobs/10502289/partner-development-manager-chile) | amazon | CL, RM, Comuna De Providencia | 0.5337 | 2026-09-06 |
 | [Data Analyst](https://falabella.airavirtual.com/postula/33ur1yxGOvGIrS5xcopo?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5302 | 2026-09-06 |
+| [Partner Development Manager Chile](https://www.amazon.jobs/en/jobs/10502289/partner-development-manager-chile) | amazon | CL, RM, Comuna De Providencia | 0.5289 | 2026-09-06 |
 | [Senior Fullstack Software Engineer](https://falabella.airavirtual.com/postula/7dx27psttFwGF3vvgv64?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.5067 | 2026-09-06 |
 | [Data Engineer Control Interno](https://falabella.airavirtual.com/postula/sVfjfxxWjojtpSS5upFM?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5040 | 2026-09-06 |
 | [Fullstack Software Engineer](https://falabella.airavirtual.com/postula/5EuUq70l30sqjFWKxouO?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.5022 | 2026-09-06 |
