@@ -23,16 +23,16 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Category Manager / Electro Hogar](https://falabella.airavirtual.com/postula/79foDzWFI66nxTSJsLho?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4424 | 2026-09-08 |
 | [Category Manager](https://falabella.airavirtual.com/postula/5wKc0tX00eI0KFaeMi2X?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4418 | 2026-09-09 |
 | [Analista Desarrollo Organizacional (Reemplazo pre y post natal)](https://salcobrand.trabajando.cl/trabajo-empleo/analista-desarrollo-organizacional-reemplazo-pre-y-post-natal/trabajo/6123522) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4384 | 2026-09-09 |
-| [Transformation Senior Analyst](https://falabella.airavirtual.com/postula/gO4egfUmZ4tBUwVi8DS2?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4337 | 2026-09-10 |
 | [Senior Tech Lead](https://falabella.airavirtual.com/postula/4R3xdbwcWvR9bNzZgAJe?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4337 | 2026-09-08 |
+| [Transformation Senior Analyst](https://falabella.airavirtual.com/postula/gO4egfUmZ4tBUwVi8DS2?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4337 | 2026-09-10 |
+| [Supervisor Logístico](https://tricot.trabajando.cl/trabajo-empleo/supervisor-logistico/trabajo/6122752) | Tricot S.A. | Quilicura, Metropolitana de Santiago | 0.4331 | 2026-09-08 |
 | [Jefe de Centro Financiero - Punta Arenas](https://abcdin.trabajando.cl/trabajo-empleo/jefe-de-centro-financiero-punta-arenas/trabajo/6124570) | abc | Punta Arenas, Magallanes y Antártica Chilena | 0.4331 | 2026-09-11 |
 | [Senior Data Tech Lead](https://falabella.airavirtual.com/postula/EUEI5lhVqlE5kkcBk3mX?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4331 | 2026-09-11 |
-| [Supervisor Logístico](https://tricot.trabajando.cl/trabajo-empleo/supervisor-logistico/trabajo/6122752) | Tricot S.A. | Quilicura, Metropolitana de Santiago | 0.4331 | 2026-09-08 |
+| [Data Scientist](https://ripley.csod.com/ux/ats/careersite/4/home/requisition/27373?c=ripley) | Ripley | Ofi. Alonso De Cordova 5320 - Prod.Financiero | 0.4324 | 2026-09-09 |
 | [Operario Multifuncional (TURNO NOCHE) - Concón](https://pf.trabajando.cl/trabajo-empleo/operario-multifuncional-turno-noche-concon/trabajo/6123212) | PF Alimentos | Concon, Valparaíso | 0.4319 | 2026-09-09 |
 | [Analista de Ciberseguridad y Protección de Datos](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-ciberseguridad-y-proteccion-de-datos/trabajo/6122653) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4305 | 2026-09-08 |
-| [Project Manager IA](https://falabella.airavirtual.com/postula/uDcVGIfLsnT4TLNg1024?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4302 | 2026-09-12 |
 | [Asesor/a de Clientes/ Part Time sábados y domingos/ 20hrs semanales/ Americanino Viña del Mar](https://falabella.airavirtual.com/postula/LsByLcpAjZ73KKllhndD?logged_action=apply&register=true) | Falabella Retail | Viña del Mar, Valparaíso, Chile | 0.4302 | 2026-09-11 |
-| [Analista de Ciberseguridad y Protección de Datos](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-ciberseguridad-y-proteccion-de-datos/trabajo/6124322) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4301 | 2026-09-11 |
+| [Project Manager IA](https://falabella.airavirtual.com/postula/uDcVGIfLsnT4TLNg1024?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4302 | 2026-09-12 |
 
 # About
 
