@@ -12,7 +12,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Associate Data Engineer](https://falabella.airavirtual.com/postula/IUKEIECgqkL7VdWilzB1?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.5034 | 2026-09-12 |
 | [Gerente/a - Administrador/a Local Independencia](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-independencia/trabajo/6125067) | Unimarc | Independencia, Metropolitana de Santiago | 0.4798 | 2026-09-14 |
 | [Category Manager](https://falabella.airavirtual.com/postula/D85OlhoVthAylqDydYyq?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4772 | 2026-09-15 |
-| [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6123629) | Empresas SB | Las Condes, Metropolitana de Santiago | 0.4752 | 2026-09-10 |
+| [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6123629) | Empresas SB | Las Condes, Metropolitana de Santiago | 0.4770 | 2026-09-10 |
 | [Ingeniero Optimización e Inteligencia Logística](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-optimizacion-e-inteligencia-logistica/trabajo/6124826) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4739 | 2026-09-14 |
 | [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6124814) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4696 | 2026-09-14 |
 | [Senior IT Analyst](https://falabella.airavirtual.com/postula/YQxVG0xp3NI0C9bhPFkT?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4681 | 2026-09-10 |
@@ -25,9 +25,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Analista Experiencia de Clientes](https://salcobrand.trabajando.cl/trabajo-empleo/analista-experiencia-de-clientes/trabajo/6124791) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4538 | 2026-09-14 |
 | [Senior Strategy Lead](https://postulawalmartchile.cl/vacante/detalle/4508294/external) | Walmart Chile | Huechuraba | 0.4536 | 2026-09-12 |
 | [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6124835) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4528 | 2026-09-14 |
-| [Analista de Compensaciones y Analítica](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-compensaciones-y-analitica/trabajo/6124855) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4509 | 2026-09-14 |
+| [Analista de Compensaciones y Analítica](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-compensaciones-y-analitica/trabajo/6124855) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4495 | 2026-09-14 |
 | [Product Manager Retail Media.](https://ahumada.trabajando.cl/trabajo-empleo/product-manager-retail-media/trabajo/6123575) | Farmacias Ahumada S.A. | Huechuraba, Metropolitana de Santiago | 0.4486 | 2026-09-09 |
-| [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6123632) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4419 | 2026-09-10 |
+| [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6123632) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4420 | 2026-09-10 |
 | [Category Manager](https://falabella.airavirtual.com/postula/5wKc0tX00eI0KFaeMi2X?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4418 | 2026-09-09 |
 | [Analista Desarrollo Organizacional (Reemplazo pre y post natal)](https://salcobrand.trabajando.cl/trabajo-empleo/analista-desarrollo-organizacional-reemplazo-pre-y-post-natal/trabajo/6123522) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4384 | 2026-09-09 |
 | [Analista Gestión del Cambio - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-gestion-del-cambio-proyecto/trabajo/6124824) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4342 | 2026-09-14 |
