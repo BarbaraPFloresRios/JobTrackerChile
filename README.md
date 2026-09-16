@@ -13,7 +13,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Associate Data Engineer](https://falabella.airavirtual.com/postula/IUKEIECgqkL7VdWilzB1?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.5034 | 2026-09-12 |
 | [Associate Data Analyst](https://falabella.airavirtual.com/postula/Hi90JP0eCAl2ml41VqKP?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4905 | 2026-09-15 |
 | [Gerente/a - Administrador/a Local Independencia](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-independencia/trabajo/6125067) | Unimarc | Independencia, Metropolitana de Santiago | 0.4798 | 2026-09-14 |
-| [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6123629) | Empresas SB | Las Condes, Metropolitana de Santiago | 0.4755 | 2026-09-10 |
+| [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6123629) | Empresas SB | Las Condes, Metropolitana de Santiago | 0.4781 | 2026-09-10 |
 | [Category Manager](https://falabella.airavirtual.com/postula/D85OlhoVthAylqDydYyq?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4746 | 2026-09-15 |
 | [Ingeniero Optimización e Inteligencia Logística](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-optimizacion-e-inteligencia-logistica/trabajo/6124826) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4739 | 2026-09-14 |
 | [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6124814) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4696 | 2026-09-14 |
@@ -21,18 +21,18 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Supervisor/a de Picking - San Bernardo ](https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-picking-san-bernardo/trabajo/6124800) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4648 | 2026-09-14 |
 | [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6124831) | Empresas SB | Las Condes, Metropolitana de Santiago | 0.4637 | 2026-09-14 |
 | [Enterprise Architect](https://falabella.airavirtual.com/postula/2GX3R2jVEM9S1DYBncyo?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4623 | 2026-09-10 |
-| [DevOps Engineer](https://falabella.airavirtual.com/postula/wzrYqSpSf8DooWdX3jvf?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4596 | 2026-09-09 |
 | [Planner Abastecimiento Logística Supermercados Cencosud](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/15056?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4587 | 2026-09-11 |
 | [Senior Data Analyst](https://falabella.airavirtual.com/postula/obJfgslVfVRfXwNGUblR?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.4542 | 2026-09-10 |
 | [Analista Experiencia de Clientes](https://salcobrand.trabajando.cl/trabajo-empleo/analista-experiencia-de-clientes/trabajo/6124791) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4538 | 2026-09-14 |
 | [Senior Strategy Lead](https://postulawalmartchile.cl/vacante/detalle/4508294/external) | Walmart Chile | Huechuraba | 0.4536 | 2026-09-12 |
 | [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6124835) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4528 | 2026-09-14 |
 | [Analista de Compensaciones y Analítica](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-compensaciones-y-analitica/trabajo/6124855) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4505 | 2026-09-14 |
-| [Product Manager Retail Media.](https://ahumada.trabajando.cl/trabajo-empleo/product-manager-retail-media/trabajo/6123575) | Farmacias Ahumada S.A. | Huechuraba, Metropolitana de Santiago | 0.4486 | 2026-09-09 |
 | [Business Analyst Revenue Growth](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/15076?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4439 | 2026-09-15 |
-| [Category Manager](https://falabella.airavirtual.com/postula/5wKc0tX00eI0KFaeMi2X?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4418 | 2026-09-09 |
-| [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6123632) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4412 | 2026-09-10 |
 | [Product Manager de Marketing](https://salcobrand.trabajando.cl/trabajo-empleo/product-manager-de-marketing/trabajo/6125311) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4401 | 2026-09-15 |
+| [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6123632) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4401 | 2026-09-10 |
+| [Técnico eléctrico - Mantenimiento (Pleno)](https://pf.trabajando.cl/trabajo-empleo/tecnico-electrico-mantenimiento-pleno/trabajo/6125578) | PF Alimentos | Talca, Maule | 0.4372 | 2026-09-15 |
+| [Category Manager Marketing Reemplazo pre y post natal](https://falabella.airavirtual.com/postula/r7WhapesclXH9sXfuVOJ?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4354 | 2026-09-15 |
+| [Analista Gestión del Cambio - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-gestion-del-cambio-proyecto/trabajo/6124824) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4342 | 2026-09-14 |
 
 # About
 
