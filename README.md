@@ -19,8 +19,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Product Manager On Site Experience](https://falabella.airavirtual.com/postula/azg89O5mKM60whVmpJXe?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4716 | 2026-09-16 |
 | [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6124814) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4696 | 2026-09-14 |
 | [Supervisor/a de Picking - San Bernardo ](https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-picking-san-bernardo/trabajo/6124800) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4648 | 2026-09-14 |
-| [Analista Experiencia de Clientes](https://salcobrand.trabajando.cl/trabajo-empleo/analista-experiencia-de-clientes/trabajo/6124791) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4638 | 2026-09-14 |
 | [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6124831) | Empresas SB | Las Condes, Metropolitana de Santiago | 0.4637 | 2026-09-14 |
+| [Analista Experiencia de Clientes](https://salcobrand.trabajando.cl/trabajo-empleo/analista-experiencia-de-clientes/trabajo/6124791) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4622 | 2026-09-14 |
 | [Planner Abastecimiento Logística Supermercados Cencosud](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/15056?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4587 | 2026-09-11 |
 | [Data Engineer](https://falabella.airavirtual.com/postula/jfYFKqXnSH6Pc9MBp0yj?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.4541 | 2026-09-16 |
 | [Senior Strategy Lead](https://postulawalmartchile.cl/vacante/detalle/4508294/external) | Walmart Chile | Huechuraba | 0.4536 | 2026-09-12 |
