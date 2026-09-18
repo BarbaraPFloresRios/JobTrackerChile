@@ -22,7 +22,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6124831) | Empresas SB | Las Condes, Metropolitana de Santiago | 0.4637 | 2026-09-14 |
 | [Analista Experiencia de Clientes](https://salcobrand.trabajando.cl/trabajo-empleo/analista-experiencia-de-clientes/trabajo/6124791) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4620 | 2026-09-14 |
 | [IT Project Lead](https://falabella.airavirtual.com/postula/SMQoJzfba0sSbQSFJAWX?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.4605 | 2026-09-17 |
-| [Planner Abastecimiento Logística Supermercados Cencosud](https://cencosud.csod.com/ux/ats/careersite/5/home/requisition/15056?c=cencosud) | cencosud | Santiago, REGION METROPOLITANA, CL | 0.4587 | 2026-09-11 |
 | [Data Engineer](https://falabella.airavirtual.com/postula/jfYFKqXnSH6Pc9MBp0yj?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.4541 | 2026-09-16 |
 | [Senior Strategy Lead](https://postulawalmartchile.cl/vacante/detalle/4508294/external) | Walmart Chile | Huechuraba | 0.4536 | 2026-09-12 |
 | [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6124835) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4528 | 2026-09-14 |
@@ -33,6 +32,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [PREVENCIONISTA DE PÉRDIDAS, FULL TIME, HC HUECHURABA](https://falabella.airavirtual.com/postula/Q462iyaXgICYXCJz5qGT?logged_action=apply&register=true) | Sodimac | Huechuraba, Metropolitana, Chile | 0.4411 | 2026-09-16 |
 | [Product Manager de Marketing](https://salcobrand.trabajando.cl/trabajo-empleo/product-manager-de-marketing/trabajo/6125311) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4401 | 2026-09-15 |
 | [Analista Desarrollo Organizacional (Reemplazo pre y post natal)](https://salcobrand.trabajando.cl/trabajo-empleo/analista-desarrollo-organizacional-reemplazo-pre-y-post-natal/trabajo/6126288) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4384 | 2026-09-17 |
+| [Técnico eléctrico - Mantenimiento (Pleno)](https://pf.trabajando.cl/trabajo-empleo/tecnico-electrico-mantenimiento-pleno/trabajo/6125578) | PF Alimentos | Talca, Maule | 0.4372 | 2026-09-15 |
 
 # About
 
