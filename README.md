@@ -9,8 +9,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [Ingeniero/a Planificación de Demanda Cervezas - Las Condes](https://www.trabajaenccu.cl/trabajo/6125269-ingeniero-a-planificacion-de-demanda-cervezas-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5347 | 2026-09-15 |
-| [Machine Learning Engineer](https://falabella.airavirtual.com/postula/2cEV51cgMrnCzxOSTmti?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.5121 | 2026-09-12 |
-| [Associate Data Engineer](https://falabella.airavirtual.com/postula/IUKEIECgqkL7VdWilzB1?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.5034 | 2026-09-12 |
 | [Associate Data Analyst](https://falabella.airavirtual.com/postula/Hi90JP0eCAl2ml41VqKP?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4905 | 2026-09-15 |
 | [Gerente/a - Administrador/a Local Independencia](https://smu.trabajando.cl/trabajo-empleo/gerente-a-administrador-a-local-independencia/trabajo/6125067) | Unimarc | Independencia, Metropolitana de Santiago | 0.4798 | 2026-09-14 |
 | [Category Manager](https://falabella.airavirtual.com/postula/D85OlhoVthAylqDydYyq?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4746 | 2026-09-15 |
@@ -23,7 +21,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Analista Experiencia de Clientes](https://salcobrand.trabajando.cl/trabajo-empleo/analista-experiencia-de-clientes/trabajo/6124791) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4620 | 2026-09-14 |
 | [IT Project Lead](https://falabella.airavirtual.com/postula/SMQoJzfba0sSbQSFJAWX?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.4605 | 2026-09-17 |
 | [Data Engineer](https://falabella.airavirtual.com/postula/jfYFKqXnSH6Pc9MBp0yj?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.4541 | 2026-09-16 |
-| [Senior Strategy Lead](https://postulawalmartchile.cl/vacante/detalle/4508294/external) | Walmart Chile | Huechuraba | 0.4536 | 2026-09-12 |
 | [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6124835) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4528 | 2026-09-14 |
 | [Senior Fullstack Software Engineer](https://falabella.airavirtual.com/postula/zoVttyDZiytdQ7jT2YnD?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4517 | 2026-09-16 |
 | [Coordinador Visual Merchandising - Llay Llay](https://abcdin.trabajando.cl/trabajo-empleo/coordinador-visual-merchandising-llay-llay/trabajo/6126374) | abc | Llayllay, Valparaíso | 0.4509 | 2026-09-17 |
@@ -33,6 +30,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Product Manager de Marketing](https://salcobrand.trabajando.cl/trabajo-empleo/product-manager-de-marketing/trabajo/6125311) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4401 | 2026-09-15 |
 | [Analista Desarrollo Organizacional (Reemplazo pre y post natal)](https://salcobrand.trabajando.cl/trabajo-empleo/analista-desarrollo-organizacional-reemplazo-pre-y-post-natal/trabajo/6126288) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4384 | 2026-09-17 |
 | [Técnico eléctrico - Mantenimiento (Pleno)](https://pf.trabajando.cl/trabajo-empleo/tecnico-electrico-mantenimiento-pleno/trabajo/6125578) | PF Alimentos | Talca, Maule | 0.4372 | 2026-09-15 |
+| [Analista Junior de UX](https://salcobrand.trabajando.cl/trabajo-empleo/analista-junior-de-ux/trabajo/6126298) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4366 | 2026-09-17 |
+| [Category Manager Marketing Reemplazo pre y post natal](https://falabella.airavirtual.com/postula/r7WhapesclXH9sXfuVOJ?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4354 | 2026-09-15 |
+| [Analista Gestión del Cambio - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-gestion-del-cambio-proyecto/trabajo/6124824) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4342 | 2026-09-14 |
 
 # About
 
