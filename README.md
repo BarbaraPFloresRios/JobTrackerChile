@@ -10,8 +10,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 |---|---|---|---:|---|
 | [Analista Contable Trainee - Las Condes](https://www.trabajaenccu.cl/trabajo/6127417-analista-contable-trainee-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5046 | 2026-09-22 |
 | [Ingeniero Optimización e Inteligencia Logística](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-optimizacion-e-inteligencia-logistica/trabajo/6126833) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4721 | 2026-09-21 |
-| [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6126820) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4682 | 2026-09-21 |
 | [Analista CPFR - Las Condes](https://www.trabajaenccu.cl/trabajo/6127472-analista-cpfr-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4682 | 2026-09-22 |
+| [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6126820) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4682 | 2026-09-21 |
 | [Supervisor/a de Picking - San Bernardo ](https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-picking-san-bernardo/trabajo/6126817) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4640 | 2026-09-21 |
 | [Product Manager](https://soprole.trabajando.cl/trabajo-empleo/product-manager/trabajo/6127642) | Soprole | Santiago, Metropolitana de Santiago | 0.4608 | 2026-09-22 |
 | [IT Project Lead](https://falabella.airavirtual.com/postula/SMQoJzfba0sSbQSFJAWX?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.4605 | 2026-09-17 |
