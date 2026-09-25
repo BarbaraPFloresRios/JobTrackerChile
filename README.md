@@ -30,9 +30,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Supervisor/a de Turno, FT, CD Lo Espejo](https://falabella.airavirtual.com/postula/8EEvYqpmztFFvZUD98Xs?logged_action=apply&register=true) | Sodimac | Lo Espejo, Metropolitana, Chile | 0.4460 | 2026-09-24 |
 | [Product Manager de Marketing](https://salcobrand.trabajando.cl/trabajo-empleo/product-manager-de-marketing/trabajo/6126854) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4445 | 2026-09-21 |
 | [Analista Senior Evaluación de Inversiones](https://falabella.airavirtual.com/postula/M1kElrw36S1ExscnDdHu?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4443 | 2026-09-23 |
+| [Product Manager Tiendas](https://falabella.airavirtual.com/postula/dJ4U5ysbEFd1jMrYSUPg?logged_action=apply&register=true) | Mallplaza | La Florida, Metropolitana, Chile | 0.4442 | 2026-09-25 |
 | [Product operations analyst](https://falabella.airavirtual.com/postula/e5qmBUt3UBmDkHawfDFa?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4441 | 2026-09-21 |
 | [Marketing Manager CAT ](https://forus.trabajando.cl/trabajo-empleo/marketing-manager-cat/trabajo/6128915) | Forus S.A. | Las Condes, Metropolitana de Santiago | 0.4435 | 2026-09-24 |
-| [Product Manager Senior Importados](https://falabella.airavirtual.com/postula/JK9XtLrTYuTAQVaXLozZ?logged_action=apply&register=true) | Tottus | Providencia, Metropolitana, Chile | 0.4430 | 2026-09-23 |
 
 # About
 
