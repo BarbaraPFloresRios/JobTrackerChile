@@ -11,7 +11,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Software Engineer](https://falabella.airavirtual.com/postula/MtnwtpkTGs3zobDEceGp?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5445 | 2026-09-23 |
 | [Software Engineer](https://falabella.airavirtual.com/postula/NQoIbNLa9mAlLBVAPItl?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5299 | 2026-09-23 |
 | [Analista Contable Trainee - Las Condes](https://www.trabajaenccu.cl/trabajo/6127417-analista-contable-trainee-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5046 | 2026-09-22 |
-| [Analista Senior Planning Media Milla](https://mercadolibre.eightfold.ai/careers/job/44633834) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4758 | 2026-09-24 |
+| [Analista Senior Planning Media Milla](https://mercadolibre.eightfold.ai/careers/job/44633834) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4771 | 2026-09-24 |
 | [Senior IT Specialist](https://falabella.airavirtual.com/postula/Z1GlBp1Oh9qdDFfNjuc6?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4746 | 2026-09-23 |
 | [Ingeniero Optimización e Inteligencia Logística](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-optimizacion-e-inteligencia-logistica/trabajo/6126833) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4721 | 2026-09-21 |
 | [Analista CPFR - Las Condes](https://www.trabajaenccu.cl/trabajo/6127472-analista-cpfr-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4682 | 2026-09-22 |
