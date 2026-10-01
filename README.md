@@ -15,10 +15,10 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6129962) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4687 | 2026-09-29 |
 | [Experto en Prevención de Riesgos](https://ahumada.trabajando.cl/trabajo-empleo/experto-en-prevencion-de-riesgos/trabajo/6129975) | Farmacias Ahumada S.A. | Pudahuel, Metropolitana de Santiago | 0.4676 | 2026-09-29 |
 | [Supervisor/a de Picking - San Bernardo ](https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-picking-san-bernardo/trabajo/6129959) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4641 | 2026-09-29 |
-| [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6129983) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4599 | 2026-09-29 |
 | [Manager Food Ikea Parque Arauco](https://falabella.airavirtual.com/postula/kY8XRQEir8wynNe8dB82?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4595 | 2026-09-30 |
-| [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6129991) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4513 | 2026-09-29 |
+| [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6129983) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4591 | 2026-09-29 |
 | [Project Manager Ingeniería](https://falabella.airavirtual.com/postula/62yl0nfH4xuSms9N38CZ?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4513 | 2026-09-28 |
+| [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6129991) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4513 | 2026-09-29 |
 | [Coordinador Visual Merchandising - Puchuncaví](https://abcdin.trabajando.cl/trabajo-empleo/coordinador-visual-merchandising-puchuncavi/trabajo/6131278) | abc | Puchuncaví, Valparaíso | 0.4468 | 2026-09-30 |
 | [Product Manager de Marketing](https://salcobrand.trabajando.cl/trabajo-empleo/product-manager-de-marketing/trabajo/6129997) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4452 | 2026-09-29 |
 | [Product Manager Tiendas](https://falabella.airavirtual.com/postula/dJ4U5ysbEFd1jMrYSUPg?logged_action=apply&register=true) | Mallplaza | La Florida, Metropolitana, Chile | 0.4442 | 2026-09-25 |
@@ -30,9 +30,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Atención en Probadores y Cajas de Autoservicio/ Jornada Full Time Lunes a Viernes 42 hrs semanales/ Falabella Viña Mall](https://falabella.airavirtual.com/postula/cAJS0tOTO4v5WsH0gFw9?logged_action=apply&register=true) | Falabella Retail | Viña del Mar, Valparaíso, Chile | 0.4367 | 2026-09-29 |
 | [Analista Senior de Desarrollo Organizacional - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-senior-de-desarrollo-organizacional-proyecto/trabajo/6131411) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4353 | 2026-09-30 |
 | [Jefe/a de Departamento PGC, FT Hrs, Tottus Antofagasta Mall](https://falabella.airavirtual.com/postula/Do71gP8mZW52zWGHEp3I?logged_action=apply&register=true) | Tottus | Antofagasta, Antofagasta, Chile | 0.4343 | 2026-09-25 |
+| [Data Lead - Santiago](https://abcdin.trabajando.cl/trabajo-empleo/data-lead-santiago/trabajo/6131753) | abc | Providencia, Metropolitana de Santiago | 0.4335 | 2026-10-01 |
 | [Analista Gestión del Cambio - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-gestion-del-cambio-proyecto/trabajo/6129972) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4332 | 2026-09-29 |
 | [Ingeniero Precio y Demanda](https://soprole.trabajando.cl/trabajo-empleo/ingeniero-precio-y-demanda/trabajo/6131712) | Soprole | Santiago, Metropolitana de Santiago | 0.4323 | 2026-09-30 |
-| [Senior Back End Software Engineer](https://falabella.airavirtual.com/postula/fgyFTnZAHC1NyCqpf682?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4318 | 2026-09-25 |
 
 # About
 
