@@ -20,8 +20,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Supervisor/a de Picking - San Bernardo ](https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-picking-san-bernardo/trabajo/6129959) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4641 | 2026-09-29 |
 | [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6129983) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4591 | 2026-09-29 |
 | [Subgerente área Food, Ikea Parque Arauco](https://falabella.airavirtual.com/postula/kY8XRQEir8wynNe8dB82?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4525 | 2026-10-01 |
-| [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6129991) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4513 | 2026-09-29 |
 | [Project Manager Ingeniería](https://falabella.airavirtual.com/postula/62yl0nfH4xuSms9N38CZ?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4513 | 2026-09-28 |
+| [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6129991) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4513 | 2026-09-29 |
+| [Asistente de Inventario - Renca](https://www.trabajaenccu.cl/trabajo/6132503-asistente-de-inventario-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4474 | 2026-10-02 |
 | [Coordinador Visual Merchandising - Puchuncaví](https://abcdin.trabajando.cl/trabajo-empleo/coordinador-visual-merchandising-puchuncavi/trabajo/6131278) | abc | Puchuncaví, Valparaíso | 0.4468 | 2026-10-01 |
 | [Product Manager de Marketing](https://salcobrand.trabajando.cl/trabajo-empleo/product-manager-de-marketing/trabajo/6129997) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4452 | 2026-09-29 |
 | [Analista Senior de Operaciones](https://falabella.airavirtual.com/postula/CL2yApWQzRKoHfcnG1qc?logged_action=apply&register=true) | Banco Falabella | Santiago, Metropolitana, Chile | 0.4411 | 2026-10-01 |
@@ -32,7 +33,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Analista Desarrollo Organizacional (Reemplazo pre y post natal)](https://salcobrand.trabajando.cl/trabajo-empleo/analista-desarrollo-organizacional-reemplazo-pre-y-post-natal/trabajo/6132253) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4373 | 2026-10-02 |
 | [Analista Junior de UX](https://salcobrand.trabajando.cl/trabajo-empleo/analista-junior-de-ux/trabajo/6132256) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4368 | 2026-10-02 |
 | [Atención en Probadores y Cajas de Autoservicio/ Jornada Full Time Lunes a Viernes 42 hrs semanales/ Falabella Viña Mall](https://falabella.airavirtual.com/postula/cAJS0tOTO4v5WsH0gFw9?logged_action=apply&register=true) | Falabella Retail | Viña del Mar, Valparaíso, Chile | 0.4367 | 2026-10-01 |
-| [Analista Senior de Desarrollo Organizacional - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-senior-de-desarrollo-organizacional-proyecto/trabajo/6131411) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4353 | 2026-10-01 |
 
 # About
 
