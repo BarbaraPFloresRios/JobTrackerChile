@@ -16,7 +16,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Category Manager On Site Experience](https://falabella.airavirtual.com/postula/EZRJdLEUfmpfh7U56LHg?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4677 | 2026-10-02 |
 | [Experto en Prevención de Riesgos](https://ahumada.trabajando.cl/trabajo-empleo/experto-en-prevencion-de-riesgos/trabajo/6129975) | Farmacias Ahumada S.A. | Pudahuel, Metropolitana de Santiago | 0.4676 | 2026-09-29 |
 | [Supervisor/a de Picking - San Bernardo ](https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-picking-san-bernardo/trabajo/6129959) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4641 | 2026-09-29 |
-| [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6129983) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4597 | 2026-09-29 |
+| [Analista de Proyectos SAC](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-proyectos-sac/trabajo/6129983) | Salcobrand | Las Condes, Metropolitana de Santiago | 0.4599 | 2026-09-29 |
 | [Manager Food Ikea Parque Arauco](https://falabella.airavirtual.com/postula/kY8XRQEir8wynNe8dB82?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4595 | 2026-10-01 |
 | [Project Manager Ingeniería](https://falabella.airavirtual.com/postula/62yl0nfH4xuSms9N38CZ?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4513 | 2026-09-28 |
 | [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6129991) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4513 | 2026-09-29 |
@@ -27,7 +27,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Jefe/a de Centro Financiero - Gran Avenida](https://abcdin.trabajando.cl/trabajo-empleo/jefe-a-de-centro-financiero-gran-avenida/trabajo/6132095) | abc | Providencia, Metropolitana de Santiago | 0.4405 | 2026-10-01 |
 | [Product Analyst](https://falabella.airavirtual.com/postula/eOHTMQ8tabUEIWHOWe75?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4394 | 2026-09-28 |
 | [Atención en Probadores y Cajas de Autoservicio/ Jornada Full Time Lunes a Viernes 42 hrs semanales/ Falabella Viña Mall](https://falabella.airavirtual.com/postula/cAJS0tOTO4v5WsH0gFw9?logged_action=apply&register=true) | Falabella Retail | Viña del Mar, Valparaíso, Chile | 0.4367 | 2026-10-01 |
-| [Software Engineer Backend en Product ADs Supply](https://mercadolibre.eightfold.ai/careers/job/44722161) | mercadolibre | Santiago,Chile | 0.4355 | 2026-10-01 |
+| [Software Engineer Backend en Product ADs Supply](https://mercadolibre.eightfold.ai/careers/job/44722161) | mercadolibre | Santiago,Chile | 0.4367 | 2026-10-01 |
 | [Analista Senior de Desarrollo Organizacional - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-senior-de-desarrollo-organizacional-proyecto/trabajo/6131411) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4353 | 2026-10-01 |
 | [Data Lead - Santiago](https://abcdin.trabajando.cl/trabajo-empleo/data-lead-santiago/trabajo/6131753) | abc | Providencia, Metropolitana de Santiago | 0.4335 | 2026-10-01 |
 | [Analista Gestión del Cambio - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-gestion-del-cambio-proyecto/trabajo/6129972) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4332 | 2026-09-29 |
