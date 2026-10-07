@@ -23,8 +23,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Asistente de Inventario - Renca](https://www.trabajaenccu.cl/trabajo/6132503-asistente-de-inventario-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4474 | 2026-10-02 |
 | [Coordinador Visual Merchandising - Puchuncaví](https://abcdin.trabajando.cl/trabajo-empleo/coordinador-visual-merchandising-puchuncavi/trabajo/6131278) | abc | Puchuncaví, Valparaíso | 0.4468 | 2026-10-01 |
 | [Category Manager Productos - Colina (Híbrido)](https://rosen.trabajando.cl/trabajo-empleo/category-manager-productos-colina-hibrido/trabajo/6132780) | Colchones Rosen SAIC | Colina, Metropolitana de Santiago | 0.4461 | 2026-10-05 |
-| [Experto/a Seguridad y Salud Ocupacional, SHC Chicureo](https://falabella.airavirtual.com/postula/qT21kyguWloU3lTAkjHL?logged_action=apply&register=true) | Sodimac | Colina, Metropolitana, Chile | 0.4442 | 2026-10-01 |
 | [Analista de Atracción del Talento](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-atraccion-del-talento/trabajo/6132851) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4441 | 2026-10-05 |
+| [Experto/a Seguridad y Salud Ocupacional, SHC Chicureo](https://falabella.airavirtual.com/postula/qT21kyguWloU3lTAkjHL?logged_action=apply&register=true) | Sodimac | Colina, Metropolitana, Chile | 0.4440 | 2026-10-01 |
 | [Analista Senior de Operaciones](https://falabella.airavirtual.com/postula/CL2yApWQzRKoHfcnG1qc?logged_action=apply&register=true) | Banco Falabella | Santiago, Metropolitana, Chile | 0.4411 | 2026-10-01 |
 | [Jefe/a de Centro Financiero - Gran Avenida](https://abcdin.trabajando.cl/trabajo-empleo/jefe-a-de-centro-financiero-gran-avenida/trabajo/6132095) | abc | Providencia, Metropolitana de Santiago | 0.4405 | 2026-10-01 |
 | [Jefe/a Perecibles, FT42 Hrs, Tottus Calama](https://falabella.airavirtual.com/postula/nVnKfBb2YNzMn8snxmgC?logged_action=apply&register=true) | Tottus | Calama, Antofagasta, Chile | 0.4403 | 2026-10-03 |
