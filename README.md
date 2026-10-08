@@ -21,8 +21,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Ingeniero/a de Procesos - Renca](https://www.trabajaenccu.cl/trabajo/6134090-ingeniero-a-de-procesos-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4638 | 2026-10-07 |
 | [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6132952) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4515 | 2026-10-05 |
 | [Jefe/a de Recepción, FT 42 Hrs, Tottus Quilpué](https://falabella.airavirtual.com/postula/I2mpQTXlBPg1aoyiJjYz?logged_action=apply&register=true) | Tottus | Quilpué, Valparaíso, Chile | 0.4483 | 2026-10-03 |
-| [Asistente de Inventario - Renca](https://www.trabajaenccu.cl/trabajo/6132503-asistente-de-inventario-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4474 | 2026-10-02 |
 | [Ingeniero/a Control Interno, FT, Falabella Cerrillos.](https://falabella.airavirtual.com/postula/xzcpFTGyK0brT0jekYs0?logged_action=apply&register=true) | Falabella Retail | Cerrillos, Metropolitana, Chile | 0.4474 | 2026-10-07 |
+| [Asistente de Inventario - Renca](https://www.trabajaenccu.cl/trabajo/6132503-asistente-de-inventario-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4474 | 2026-10-02 |
 | [Category Manager Productos - Colina (Híbrido)](https://rosen.trabajando.cl/trabajo-empleo/category-manager-productos-colina-hibrido/trabajo/6132780) | Colchones Rosen SAIC | Colina, Metropolitana de Santiago | 0.4461 | 2026-10-05 |
 | [Analista de Precio y Promociones](https://falabella.airavirtual.com/postula/CSWMQomgNHfJ1E4SNGi2?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4459 | 2026-10-07 |
 | [Prevenciónista de pérdidas, FT, Lógistica](https://falabella.airavirtual.com/postula/DTqRxXZnetw5FZzhny0H?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4454 | 2026-10-07 |
