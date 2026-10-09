@@ -8,6 +8,8 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
+| [Analista Automatización](https://falabella.airavirtual.com/postula/RFZ63WeVT9bOhfsaLXTY?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5233 | 2026-10-09 |
+| [Partner Development Manager Chile, Partner Sales and Development Latam](https://www.amazon.jobs/en/jobs/10574834/partner-development-manager-chile-partner-sales-and-development-latam) | amazon | CL, RM, Comuna De Providencia | 0.5138 | 2026-10-09 |
 | [Business Analyst Estrategia Logística Ecommerce](https://falabella.airavirtual.com/postula/9inlBY8FzMyQn8ZEIBrk?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4885 | 2026-10-03 |
 | [Project Manager Junior Innovación](https://salcobrand.trabajando.cl/trabajo-empleo/project-manager-junior-innovacion/trabajo/6132879) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4837 | 2026-10-05 |
 | [Analista de Inventarios II Sodimac Cerrillos](https://falabella.airavirtual.com/postula/ddBXDWxtarLEAMELWXQa?logged_action=apply&register=true) | Sodimac | Cerrillos, Metropolitana, Chile | 0.4816 | 2026-10-07 |
@@ -17,22 +19,20 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Jefe Corporativo de Talento e Inclusión Plazo Fijo](https://falabella.airavirtual.com/postula/sk9C4xc4FO5BU3pAi6e0?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4644 | 2026-10-08 |
 | [Ingeniero/a de Procesos - Renca](https://www.trabajaenccu.cl/trabajo/6134090-ingeniero-a-de-procesos-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4638 | 2026-10-07 |
 | [Senior Full Stack Engineer FTC](https://falabella.airavirtual.com/postula/m5RgCo0DCSwNxCTKA8qR?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4637 | 2026-10-08 |
+| [Ingeniero/a Inteligencia Comercial - Las Condes](https://www.trabajaenccu.cl/trabajo/6135278-ingeniero-a-inteligencia-comercial-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4594 | 2026-10-09 |
 | [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6132952) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4515 | 2026-10-05 |
+| [Ingeniero/a de Software IA](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-software-ia/trabajo/6135057) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4509 | 2026-10-09 |
 | [Jefe/a de Recepción, FT 42 Hrs, Tottus Quilpué](https://falabella.airavirtual.com/postula/I2mpQTXlBPg1aoyiJjYz?logged_action=apply&register=true) | Tottus | Quilpué, Valparaíso, Chile | 0.4483 | 2026-10-03 |
 | [Ingeniero/a Control Interno, FT, Falabella Cerrillos.](https://falabella.airavirtual.com/postula/xzcpFTGyK0brT0jekYs0?logged_action=apply&register=true) | Falabella Retail | Cerrillos, Metropolitana, Chile | 0.4474 | 2026-10-07 |
 | [Senior Data Engineer](https://falabella.airavirtual.com/postula/HKN996XxeqC6U3s6shKg?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4462 | 2026-10-09 |
 | [Category Manager Productos - Colina (Híbrido)](https://rosen.trabajando.cl/trabajo-empleo/category-manager-productos-colina-hibrido/trabajo/6132780) | Colchones Rosen SAIC | Colina, Metropolitana de Santiago | 0.4461 | 2026-10-05 |
 | [Analista de Precio y Promociones](https://falabella.airavirtual.com/postula/CSWMQomgNHfJ1E4SNGi2?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4459 | 2026-10-07 |
 | [Prevenciónista de pérdidas, FT, Lógistica](https://falabella.airavirtual.com/postula/DTqRxXZnetw5FZzhny0H?logged_action=apply&register=true) | Falabella Retail | San Bernardo, Metropolitana, Chile | 0.4454 | 2026-10-07 |
-| [Analista de Atracción del Talento](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-atraccion-del-talento/trabajo/6132851) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4441 | 2026-10-05 |
+| [Analista de Atracción del Talento](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-atraccion-del-talento/trabajo/6132851) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4442 | 2026-10-05 |
 | [Data analyst](https://falabella.airavirtual.com/postula/M2QEcDuIgf6YhnI6Mu44?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.4418 | 2026-10-08 |
 | [Jefe/a Perecibles, FT42 Hrs, Tottus Calama](https://falabella.airavirtual.com/postula/nVnKfBb2YNzMn8snxmgC?logged_action=apply&register=true) | Tottus | Calama, Antofagasta, Chile | 0.4403 | 2026-10-03 |
 | [Senior Software Architect](https://falabella.airavirtual.com/postula/jobl4dS37mdvg4GHGRxz?logged_action=apply&register=true) | Falabella Corporativo | Pudahuel, Metropolitana, Chile | 0.4400 | 2026-10-08 |
 | [Analista Junior de UX](https://salcobrand.trabajando.cl/trabajo-empleo/analista-junior-de-ux/trabajo/6133213) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4391 | 2026-10-05 |
-| [Software Engineer](https://falabella.airavirtual.com/postula/ckCLusEY35U3joSqxUok?logged_action=apply&register=true) | Falabella Financiero | Las Condes, Metropolitana, Chile | 0.4385 | 2026-10-08 |
-| [Operativo Prevención Pérdida Sodimac HC Curicó Jornada PT25](https://falabella.airavirtual.com/postula/4wK8b0lN4wy77hWOB8E0?logged_action=apply&register=true) | Sodimac | Curicó, Maule, Chile | 0.4374 | 2026-10-07 |
-| [Analista Senior de Desarrollo Organizacional - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-senior-de-desarrollo-organizacional-proyecto/trabajo/6132890) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4360 | 2026-10-05 |
-| [Operativo Prevención Pérdida Sodimac HC Curico PT25 hrs](https://falabella.airavirtual.com/postula/Z7S6bQ0m14lnfrUVRAor?logged_action=apply&register=true) | Sodimac | Curicó, Maule, Chile | 0.4354 | 2026-10-06 |
 
 # About
 
