@@ -20,6 +20,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Ingeniero/a de Procesos - Renca](https://www.trabajaenccu.cl/trabajo/6134090-ingeniero-a-de-procesos-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4638 | 2026-10-07 |
 | [Senior Full Stack Engineer FTC](https://falabella.airavirtual.com/postula/m5RgCo0DCSwNxCTKA8qR?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4637 | 2026-10-08 |
 | [Ingeniero/a Inteligencia Comercial - Las Condes](https://www.trabajaenccu.cl/trabajo/6135278-ingeniero-a-inteligencia-comercial-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4594 | 2026-10-09 |
+| [Jefe/a Productos de Gran Consumo/PGC, FT 42Hrs, Tottus Mall Plaza Alameda](https://falabella.airavirtual.com/postula/w6USDyfq80CdLs1RMumX?logged_action=apply&register=true) | Tottus | Estación Central, Metropolitana, Chile | 0.4583 | 2026-10-09 |
 | [Analista de CRM (Pre y Post Natal) ](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-crm-pre-y-post-natal/trabajo/6132952) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4515 | 2026-10-05 |
 | [Ingeniero/a de Software IA](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-software-ia/trabajo/6135057) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4509 | 2026-10-09 |
 | [Jefe/a de Recepción, FT 42 Hrs, Tottus Quilpué](https://falabella.airavirtual.com/postula/I2mpQTXlBPg1aoyiJjYz?logged_action=apply&register=true) | Tottus | Quilpué, Valparaíso, Chile | 0.4483 | 2026-10-03 |
@@ -32,7 +33,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Data analyst](https://falabella.airavirtual.com/postula/M2QEcDuIgf6YhnI6Mu44?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.4418 | 2026-10-08 |
 | [Jefe/a Perecibles, FT42 Hrs, Tottus Calama](https://falabella.airavirtual.com/postula/nVnKfBb2YNzMn8snxmgC?logged_action=apply&register=true) | Tottus | Calama, Antofagasta, Chile | 0.4403 | 2026-10-03 |
 | [Senior Software Architect](https://falabella.airavirtual.com/postula/jobl4dS37mdvg4GHGRxz?logged_action=apply&register=true) | Falabella Corporativo | Pudahuel, Metropolitana, Chile | 0.4400 | 2026-10-08 |
-| [Analista Junior de UX](https://salcobrand.trabajando.cl/trabajo-empleo/analista-junior-de-ux/trabajo/6133213) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4391 | 2026-10-05 |
 
 # About
 
