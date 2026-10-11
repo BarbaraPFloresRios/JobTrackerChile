@@ -15,6 +15,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Ingeniero Optimización e Inteligencia Logística](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-optimizacion-e-inteligencia-logistica/trabajo/6132876) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4724 | 2026-10-05 |
 | [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6132874) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4695 | 2026-10-05 |
 | [Senior Technology Specialist Software Engineer](https://falabella.airavirtual.com/postula/CpciCkCSLP75AwyllWOP?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4667 | 2026-10-08 |
+| [Senior Applied AI, Partner Solutions Architect, Latin America, Applied AI Partner Solutions Architecture](https://www.amazon.jobs/en/jobs/10575386/senior-applied-ai-partner-solutions-architect-latin-america-applied-ai-partner-solutions-architecture) | amazon | CL, RM, Comuna De Providencia | 0.4667 | 2026-10-11 |
 | [Jefe Corporativo de Talento e Inclusión Plazo Fijo](https://falabella.airavirtual.com/postula/sk9C4xc4FO5BU3pAi6e0?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4644 | 2026-10-08 |
 | [Ingeniero/a de Procesos - Renca](https://www.trabajaenccu.cl/trabajo/6134090-ingeniero-a-de-procesos-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4638 | 2026-10-07 |
 | [Senior Full Stack Engineer FTC](https://falabella.airavirtual.com/postula/m5RgCo0DCSwNxCTKA8qR?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4637 | 2026-10-08 |
@@ -32,7 +33,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Senior Software Architect](https://falabella.airavirtual.com/postula/jobl4dS37mdvg4GHGRxz?logged_action=apply&register=true) | Falabella Corporativo | Pudahuel, Metropolitana, Chile | 0.4400 | 2026-10-08 |
 | [Analista Junior de UX](https://salcobrand.trabajando.cl/trabajo-empleo/analista-junior-de-ux/trabajo/6133213) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4391 | 2026-10-05 |
 | [Software Engineer](https://falabella.airavirtual.com/postula/ckCLusEY35U3joSqxUok?logged_action=apply&register=true) | Falabella Financiero | Las Condes, Metropolitana, Chile | 0.4385 | 2026-10-08 |
-| [Operativo Prevención Pérdida Sodimac HC Curicó Jornada PT25](https://falabella.airavirtual.com/postula/4wK8b0lN4wy77hWOB8E0?logged_action=apply&register=true) | Sodimac | Curicó, Maule, Chile | 0.4374 | 2026-10-07 |
 
 # About
 
