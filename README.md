@@ -10,9 +10,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 |---|---|---|---:|---|
 | [Analista Automatización](https://falabella.airavirtual.com/postula/RFZ63WeVT9bOhfsaLXTY?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5233 | 2026-10-09 |
 | [Partner Development Manager Chile, Partner Sales and Development Latam](https://www.amazon.jobs/en/jobs/10574834/partner-development-manager-chile-partner-sales-and-development-latam) | amazon | CL, RM, Comuna De Providencia | 0.5138 | 2026-10-09 |
-| [Analista de Inventarios II Sodimac Cerrillos](https://falabella.airavirtual.com/postula/ddBXDWxtarLEAMELWXQa?logged_action=apply&register=true) | Sodimac | Cerrillos, Metropolitana, Chile | 0.4816 | 2026-10-07 |
-| [Senior Applied AI, Partner Solutions Architect, Latin America, Applied AI Partner Solutions Architecture](https://www.amazon.jobs/en/jobs/10575386/senior-applied-ai-partner-solutions-architect-latin-america-applied-ai-partner-solutions-architecture) | amazon | CL, RM, Comuna De Providencia | 0.4667 | 2026-10-11 |
+| [Analista de Inventarios II Sodimac Cerrillos](https://falabella.airavirtual.com/postula/ddBXDWxtarLEAMELWXQa?logged_action=apply&register=true) | Sodimac | Cerrillos, Metropolitana, Chile | 0.4811 | 2026-10-07 |
 | [Senior Technology Specialist Software Engineer](https://falabella.airavirtual.com/postula/CpciCkCSLP75AwyllWOP?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4667 | 2026-10-08 |
+| [Senior Applied AI, Partner Solutions Architect, Latin America, Applied AI Partner Solutions Architecture](https://www.amazon.jobs/en/jobs/10575386/senior-applied-ai-partner-solutions-architect-latin-america-applied-ai-partner-solutions-architecture) | amazon | CL, RM, Comuna De Providencia | 0.4667 | 2026-10-11 |
 | [Jefe Corporativo de Talento e Inclusión Plazo Fijo](https://falabella.airavirtual.com/postula/sk9C4xc4FO5BU3pAi6e0?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4644 | 2026-10-08 |
 | [Ingeniero/a de Procesos - Renca](https://www.trabajaenccu.cl/trabajo/6134090-ingeniero-a-de-procesos-renca) | CCU | Renca, Metropolitana de Santiago, Chile | 0.4638 | 2026-10-07 |
 | [Senior Full Stack Engineer FTC](https://falabella.airavirtual.com/postula/m5RgCo0DCSwNxCTKA8qR?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4637 | 2026-10-08 |
@@ -27,10 +27,10 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Senior Software Architect](https://falabella.airavirtual.com/postula/jobl4dS37mdvg4GHGRxz?logged_action=apply&register=true) | Falabella Corporativo | Pudahuel, Metropolitana, Chile | 0.4400 | 2026-10-08 |
 | [Software Engineer](https://falabella.airavirtual.com/postula/ckCLusEY35U3joSqxUok?logged_action=apply&register=true) | Falabella Financiero | Las Condes, Metropolitana, Chile | 0.4385 | 2026-10-08 |
 | [Operativo Prevención Pérdida Sodimac HC Curicó Jornada PT25](https://falabella.airavirtual.com/postula/4wK8b0lN4wy77hWOB8E0?logged_action=apply&register=true) | Sodimac | Curicó, Maule, Chile | 0.4374 | 2026-10-07 |
-| [Operativo Prevención Pérdida Sodimac HC Curico PT25 hrs](https://falabella.airavirtual.com/postula/Z7S6bQ0m14lnfrUVRAor?logged_action=apply&register=true) | Sodimac | Curicó, Maule, Chile | 0.4354 | 2026-10-06 |
 | [Analista de Control Interno / Gestión de Riesgos - Presencial](https://smu.trabajando.cl/trabajo-empleo/analista-de-control-interno-gestion-de-riesgos-presencial/trabajo/6135289) | SMU | Las Condes, Metropolitana de Santiago | 0.4318 | 2026-10-09 |
 | [Asistente de Productos](https://ahumada.trabajando.cl/trabajo-empleo/asistente-de-productos/trabajo/6134458) | Farmacias Ahumada S.A. | Huechuraba, Metropolitana de Santiago | 0.4306 | 2026-10-08 |
-| [Administrativo/ a de Valores - Calama](https://www.trabajaenccu.cl/trabajo/6133457-administrativo-a-de-valores-calama) | . | Calama, Antofagasta, Chile | 0.4302 | 2026-10-06 |
+| [Prevencionista de pérdidas Sodimac Coronel](https://falabella.airavirtual.com/postula/M8TNbaRJ7ItrPIrjoIak?logged_action=apply&register=true) | Sodimac | Coronel, Bíobío, Chile | 0.4283 | 2026-10-07 |
+| [Supervisor/a de Cajas Peak Time 20hrs Hc Talca Poniente](https://falabella.airavirtual.com/postula/M7GVIzkWCjAo8dxj7kpF?logged_action=apply&register=true) | Sodimac | Talca, Maule, Chile | 0.4280 | 2026-10-07 |
 | [Product Manager Marketing](https://smu.trabajando.cl/trabajo-empleo/product-manager-marketing/trabajo/6134798) | SMU | Las Condes, Metropolitana de Santiago | 0.4276 | 2026-10-08 |
 | [Economist II, PXT Central Science](https://www.amazon.jobs/en/jobs/10575117/economist-ii-pxt-central-science) | amazon | CL, Virtual | 0.4264 | 2026-10-09 |
 
