@@ -11,6 +11,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Analista Automatización](https://falabella.airavirtual.com/postula/RFZ63WeVT9bOhfsaLXTY?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5233 | 2026-10-09 |
 | [Partner Development Manager Chile, Partner Sales and Development Latam](https://www.amazon.jobs/en/jobs/10574834/partner-development-manager-chile-partner-sales-and-development-latam) | amazon | CL, RM, Comuna De Providencia | 0.5138 | 2026-10-09 |
 | [MarTech Automation Lead](https://falabella.airavirtual.com/postula/2fdskBSX4fInTL8c86Q7?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4997 | 2026-10-13 |
+| [Product Specialist](https://falabella.airavirtual.com/postula/RdciqCzlzEvBHbEQiE1P?logged_action=apply&register=true) | Falabella Retail | Santiago, Metropolitana, Chile | 0.4897 | 2026-10-14 |
 | [Project Manager Junior Innovación](https://salcobrand.trabajando.cl/trabajo-empleo/project-manager-junior-innovacion/trabajo/6135678) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4838 | 2026-10-13 |
 | [Ingeniero Optimización e Inteligencia Logística](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-optimizacion-e-inteligencia-logistica/trabajo/6135661) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4709 | 2026-10-13 |
 | [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6135660) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4702 | 2026-10-13 |
@@ -32,7 +33,6 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Senior Software Architect](https://falabella.airavirtual.com/postula/jobl4dS37mdvg4GHGRxz?logged_action=apply&register=true) | Falabella Corporativo | Pudahuel, Metropolitana, Chile | 0.4400 | 2026-10-08 |
 | [NW Deployment Build Lead I, Data Center Operations](https://www.amazon.jobs/en/jobs/10578194/nw-deployment-build-lead-i-data-center-operations) | amazon | CL, Santiago | 0.4398 | 2026-10-14 |
 | [Software Engineer](https://falabella.airavirtual.com/postula/ckCLusEY35U3joSqxUok?logged_action=apply&register=true) | Falabella Financiero | Las Condes, Metropolitana, Chile | 0.4385 | 2026-10-08 |
-| [Analista Gestión del Cambio - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-gestion-del-cambio-proyecto/trabajo/6135698) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4334 | 2026-10-13 |
 
 # About
 
