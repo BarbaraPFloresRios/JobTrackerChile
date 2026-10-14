@@ -29,10 +29,10 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Analista de Atracción del Talento](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-atraccion-del-talento/trabajo/6135651) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4438 | 2026-10-13 |
 | [Data analyst](https://falabella.airavirtual.com/postula/M2QEcDuIgf6YhnI6Mu44?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.4418 | 2026-10-08 |
 | [Senior Software Architect](https://falabella.airavirtual.com/postula/jobl4dS37mdvg4GHGRxz?logged_action=apply&register=true) | Falabella Corporativo | Pudahuel, Metropolitana, Chile | 0.4400 | 2026-10-08 |
+| [NW Deployment Build Lead I, Data Center Operations](https://www.amazon.jobs/en/jobs/10578194/nw-deployment-build-lead-i-data-center-operations) | amazon | CL, Santiago | 0.4398 | 2026-10-14 |
 | [Software Engineer](https://falabella.airavirtual.com/postula/ckCLusEY35U3joSqxUok?logged_action=apply&register=true) | Falabella Financiero | Las Condes, Metropolitana, Chile | 0.4385 | 2026-10-08 |
 | [Analista Gestión del Cambio - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-gestion-del-cambio-proyecto/trabajo/6135698) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4334 | 2026-10-13 |
 | [Analista de Control Interno / Gestión de Riesgos - Presencial](https://smu.trabajando.cl/trabajo-empleo/analista-de-control-interno-gestion-de-riesgos-presencial/trabajo/6135289) | SMU | Las Condes, Metropolitana de Santiago | 0.4318 | 2026-10-09 |
-| [Asistente de Productos](https://ahumada.trabajando.cl/trabajo-empleo/asistente-de-productos/trabajo/6134458) | Farmacias Ahumada S.A. | Huechuraba, Metropolitana de Santiago | 0.4306 | 2026-10-08 |
 
 # About
 
