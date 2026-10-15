@@ -15,10 +15,7 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Project Manager Junior Innovación](https://salcobrand.trabajando.cl/trabajo-empleo/project-manager-junior-innovacion/trabajo/6135678) | Salcobrand | Providencia, Metropolitana de Santiago | 0.4838 | 2026-10-13 |
 | [Ingeniero Optimización e Inteligencia Logística](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-optimizacion-e-inteligencia-logistica/trabajo/6135661) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4709 | 2026-10-13 |
 | [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6135660) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4702 | 2026-10-13 |
-| [Senior Technology Specialist Software Engineer](https://falabella.airavirtual.com/postula/CpciCkCSLP75AwyllWOP?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4667 | 2026-10-08 |
 | [Senior Applied AI, Partner Solutions Architect, Latin America, Applied AI Partner Solutions Architecture](https://www.amazon.jobs/en/jobs/10575386/senior-applied-ai-partner-solutions-architect-latin-america-applied-ai-partner-solutions-architecture) | amazon | CL, RM, Comuna De Providencia | 0.4667 | 2026-10-11 |
-| [Jefe Corporativo de Talento e Inclusión Plazo Fijo](https://falabella.airavirtual.com/postula/sk9C4xc4FO5BU3pAi6e0?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.4644 | 2026-10-08 |
-| [Senior Full Stack Engineer FTC](https://falabella.airavirtual.com/postula/m5RgCo0DCSwNxCTKA8qR?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4637 | 2026-10-08 |
 | [Principal IT Specialist](https://falabella.airavirtual.com/postula/RMCXeD6MusHhwe7xAVZA?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4615 | 2026-10-13 |
 | [Ingeniero/a Inteligencia Comercial - Las Condes](https://www.trabajaenccu.cl/trabajo/6135278-ingeniero-a-inteligencia-comercial-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4594 | 2026-10-09 |
 | [Administrativo (a) de Valores_Castro](https://www.trabajaenccu.cl/trabajo/6135955-administrativo-a-de-valores-castro) | CCU | Castro, Los Lagos, Chile | 0.4591 | 2026-10-13 |
@@ -29,10 +26,13 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Ingeniero Desarrollo Logístico_Planificación Operacional](https://falabella.airavirtual.com/postula/mL6uMJ9rT73ERI0FgRZd?logged_action=apply&register=true) | Sodimac | Lo Espejo, Metropolitana, Chile | 0.4490 | 2026-10-13 |
 | [Senior Data Engineer](https://falabella.airavirtual.com/postula/HKN996XxeqC6U3s6shKg?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4462 | 2026-10-09 |
 | [Analista de Atracción del Talento](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-atraccion-del-talento/trabajo/6135651) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4438 | 2026-10-13 |
-| [Data analyst](https://falabella.airavirtual.com/postula/M2QEcDuIgf6YhnI6Mu44?logged_action=apply&register=true) | Seguros Falabella | Las Condes, Metropolitana, Chile | 0.4418 | 2026-10-08 |
-| [Senior Software Architect](https://falabella.airavirtual.com/postula/jobl4dS37mdvg4GHGRxz?logged_action=apply&register=true) | Falabella Corporativo | Pudahuel, Metropolitana, Chile | 0.4400 | 2026-10-08 |
 | [NW Deployment Build Lead I, Data Center Operations](https://www.amazon.jobs/en/jobs/10578194/nw-deployment-build-lead-i-data-center-operations) | amazon | CL, Santiago | 0.4398 | 2026-10-14 |
-| [Software Engineer](https://falabella.airavirtual.com/postula/ckCLusEY35U3joSqxUok?logged_action=apply&register=true) | Falabella Financiero | Las Condes, Metropolitana, Chile | 0.4385 | 2026-10-08 |
+| [Analista Gestión del Cambio - Proyecto](https://salcobrand.trabajando.cl/trabajo-empleo/analista-gestion-del-cambio-proyecto/trabajo/6135698) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4334 | 2026-10-13 |
+| [Analista de Control Interno / Gestión de Riesgos - Presencial](https://smu.trabajando.cl/trabajo-empleo/analista-de-control-interno-gestion-de-riesgos-presencial/trabajo/6135289) | SMU | Las Condes, Metropolitana de Santiago | 0.4318 | 2026-10-09 |
+| [Operario Multifuncional (turno Noche) - Puerto Montt (Puerta Sur, Bosque mar, Mirasol)](https://pf.trabajando.cl/trabajo-empleo/operario-multifuncional-turno-noche-puerto-montt-puerta-sur-bosque-mar-mirasol/trabajo/6136641) | PF Alimentos | Puerto Montt, Los Lagos | 0.4293 | 2026-10-14 |
+| [Economist II, PXT Central Science](https://www.amazon.jobs/en/jobs/10575117/economist-ii-pxt-central-science) | amazon | CL, Virtual | 0.4264 | 2026-10-09 |
+| [Asesor/a de Clientes / Full Time 42 Hrs, 5x2 / Americanino Plaza Egaña](https://falabella.airavirtual.com/postula/ecrRpsfrBAWYXtltGM1R?logged_action=apply&register=true) | Falabella Retail | La Reina, Metropolitana, Chile | 0.4263 | 2026-10-13 |
+| [Supervisor/a, FT, Banco Falabella Parque Arauco](https://falabella.airavirtual.com/postula/s3emXuzn2Ucj3J8uhiFF?logged_action=apply&register=true) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.4243 | 2026-10-09 |
 
 # About
 
