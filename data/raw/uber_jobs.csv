@@ -1,19 +1,316 @@
 title,team,location,city,posted_date,job_id,source,first_seen_date,last_seen_date,semantic_similarity,country,url,description_short,description,country_code,department,level,region,primary_location,all_locations,employment_type,job_type,program_and_platform,unique_skills,featured,is_pipeline,portal_id,status_id,status_name,other_levels,updated_date
-"Account Representative, Eats SMB INT (Sales Plan)",Sales - Sales,"Santiago, Chile",Santiago,2026-07-31,303401,uber,2026-08-05,2026-08-08,0.358,Chile,https://www.uber.com/global/en/careers/list/303401/,,,CHL,Sales - Sales,2,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-08-05
-2026 Operations & Logistics Intern - Chile,University - Operations,"Santiago, Chile",Santiago,2026-07-28,302977,uber,2026-07-30,2026-08-08,0.4062,Chile,https://www.uber.com/global/en/careers/list/302977/,,,CHL,University - Operations,0.1,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-08-07
-Merchant Ops - Global Strategy & Operations Manager,Operations - Operations Management,"Santiago, Chile",Santiago,2026-07-17,302125,uber,2026-07-22,2026-08-08,0.4016,Chile,https://www.uber.com/global/en/careers/list/302125/,,,CHL,Operations - Operations Management,3,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-08-06
-"Account Representative, Eats SMB INT (Sales Plan)",Sales - Sales,"Santiago, Chile",Santiago,2026-07-10,301449,uber,2026-07-12,2026-08-08,0.3611,Chile,https://www.uber.com/global/en/careers/list/301449/,,,CHL,Sales - Sales,2,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-21
-"Account Partner, Eats SMB (Sales Plan)",Sales - Account Management,"Santiago, Chile",Santiago,2026-07-10,301447,uber,2026-07-12,2026-08-08,0.3203,Chile,https://www.uber.com/global/en/careers/list/301447/,,,CHL,Sales - Account Management,2,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-21
-"Account Partner, Eats SMB (Sales Plan)",Sales - Account Management,"Santiago, Chile",Santiago,2026-07-10,301471,uber,2026-08-07,2026-08-08,0.3185,Chile,https://www.uber.com/global/en/careers/list/301471/,,,CHL,Sales - Account Management,2,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-08-07
-Marketplace Abuse Lead,Operations - Business Operations,"Santiago, Chile",Santiago,2026-06-27,160370,uber,2026-07-12,2026-08-08,0.2851,Chile,https://www.uber.com/global/en/careers/list/160370/,,,CHL,Operations - Business Operations,4,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-08-06
-Lead Investigator,Physical Security - Law Enforcement Response,"Santiago, Chile",Santiago,2026-06-27,160461,uber,2026-07-13,2026-07-16,0.2117,Chile,https://www.uber.com/global/en/careers/list/160461/,,,CHL,Physical Security - Law Enforcement Response,4.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-14
-Groceries & Retail Growth Operations Manager,Operations - Business Operations,"Santiago, Chile",Santiago,2026-06-19,159475,uber,2026-07-12,2026-08-08,0.4038,Chile,https://www.uber.com/global/en/careers/list/159475/,,,CHL,Operations - Business Operations,3,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-08-04
-"SMB Account Executive, Uber for Business",Sales - Sales,"Santiago, Chile",Santiago,2026-06-19,159023,uber,2026-07-12,2026-08-08,0.2836,Chile,https://www.uber.com/global/en/careers/list/159023/,,,CHL,Sales - Sales,2,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-29
-Account Manager SMB G&R,Sales - Account Management,"Santiago, Chile",Santiago,2026-06-19,155619,uber,2026-07-12,2026-08-08,0.2911,Chile,https://www.uber.com/global/en/careers/list/155619/,,,CHL,Sales - Account Management,2,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-08-04
-"Enterprise, New Business Account Executive, Uber for Business",Sales - Sales,"Santiago, Chile",Santiago,2026-06-19,159036,uber,2026-07-12,2026-08-08,0.3077,Chile,https://www.uber.com/global/en/careers/list/159036/,,,CHL,Sales - Sales,4,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-08-06
-Customer Success Coordinator,Sales - Sales,"Santiago, Chile",Santiago,2026-06-19,153253,uber,2026-07-12,2026-08-08,0.3249,Chile,https://www.uber.com/global/en/careers/list/153253/,,,CHL,Sales - Sales,2,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-08
-Sales Training Specialist,Operations - Business Operations,"Santiago, Chile",Santiago,2026-06-19,160029,uber,2026-07-21,2026-08-04,0.4923,Chile,https://www.uber.com/global/en/careers/list/160029/,,,CHL,Operations - Business Operations,3.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-21
-Sales Representative - SMB,Sales - Sales,"Santiago, Chile",Santiago,2026-06-19,157617,uber,2026-07-12,2026-08-04,0.34,Chile,https://www.uber.com/global/en/careers/list/157617/,,,CHL,Sales - Sales,2.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-06
-"Country Manager, Uber for Business, South Cone",Sales - Sales,"Santiago, Chile",Santiago,2026-06-19,160129,uber,2026-07-14,2026-07-24,0.3402,Chile,https://www.uber.com/global/en/careers/list/160129/,,,CHL,Sales - Sales,5.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-22
-Senior account Manager Global,Sales - Account Management,"Santiago, Chile",Santiago,2026-06-19,152648,uber,2026-07-12,2026-07-21,0.3587,Chile,https://www.uber.com/global/en/careers/list/152648/,,,CHL,Sales - Account Management,3.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-17
-Regional Operations Manager,Operations - Business Operations,"Santiago, Chile",Santiago,2026-06-19,158591,uber,2026-07-14,2026-07-17,0.3961,Chile,https://www.uber.com/global/en/careers/list/158591/,,,CHL,Operations - Business Operations,4.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27,Posted,,2026-07-14
+"Account Representative, GR SMB INT (Sales Plan)",Sales Incentive Plan,"Santiago, Chile",,2026-11-24,305246,uber,2026-11-25,2026-11-25,0.4288,,https://jobs.uber.com/en/jobs/305246/,,"About the role and team
+ Sales at Uber means navigating ambiguity, earning trust fast, and solving problems that don’t come with a script. As an Account Executive for Grocery & Retail (SMB), you will be on the front lines of expanding our network of local retailers—from butchers and green grocers to liquor stores and specialty shops.
+ This role isn't about pushing a product; it's about building long-term partnerships in a fast-changing environment where you’ll need to balance persistent outreach with consultative negotiation. We’re looking for someone who is energized by the messy reality of the retail landscape and has the grit to turn cold calls into thriving, sustainable partnerships.
+ What you’ll do
+ Own the full sales cycle by identifying, prospecting, and closing partnerships with high-potential local retailers, managing the process from first cold outreach to contract signature.
+ Navigate complex territory management by analyzing market trends and data to identify ""best-in-class"" shops, ensuring your pipeline stays robust enough to consistently exceed monthly targets.
+ Conduct high-impact sales pitches and negotiate commercial terms with business owners, acting as a consultant to help them understand how Uber Direct/Eats can move their business forward.
+ Drive operational success by collaborating effectively with internal teams like Operations, Onboarding, and Legal to resolve bottlenecks and ensure new partners launch quickly.
+ Clearly communicate the value of Uber’s evolving product suite to prospects, removing technical or operational barriers they might perceive in joining the platform.
+ Adapt your sales strategy based on local market dynamics and competitor activities, staying resilient through tough conversations and high-pressure closing periods.
+ Basic Qualifications
+ Minimum 2+ years of experience in B2B sales, cold calling, business development, or account management.
+ Proven ability to manage a full sales cycle from prospecting to closing, specifically targeting Small and Medium Businesses (SMBs).
+ Proficiency in CRM software (e.g., Salesforce, HubSpot) and Google Workspace/Microsoft Office.
+ Fluency in the local language of the region (Spanish for Mexico, French for France) and professional proficiency in English.
+ Preferred Qualifications
+ Previous experience selling technology, logistics, or SaaS specifically to retail merchants or the FMCG sector.
+ Demonstrated experience in a high-growth, fast-paced startup environment where adaptability and autonomy are critical.
+ Analytical proficiency using tools like Excel, Looker, or Tableau to analyze territory performance and conversion rates.
+ Familiarity with formal sales frameworks (e.g., SPIN Selling, The Challenger Sale) to navigate competitive markets.
+ Experience managing complex onboarding processes and coordinating with Legal and Finance to finalize master agreements.",CL,,Level 2,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+"Business Development Representative, Uber for Business",Sales Incentive Plan,"Santiago, Chile",,2026-11-18,304165,uber,2026-11-25,2026-11-25,0.4218,,https://jobs.uber.com/en/jobs/304165/,,"About the role 
+We’re looking for a driven Business Development Representative (BDR) to join our Uber for Business sales team and help fuel our next stage of growth.
+In this role, you’ll be at the front of our sales engine, identifying new business opportunities, engaging prospective customers and building a strong pipeline for our Account Executives. Through outbound prospecting across phone, email and LinkedIn, you’ll connect with decision-makers, uncover their business challenges and introduce them to the value Uber for Business can bring to their organization.
+You’ll partner closely with Account Executives to research target accounts, develop prospecting strategies and turn conversations into qualified sales opportunities.
+For someone looking to build a career in B2B sales, this is a fantastic opportunity to develop your commercial skills within a global technology company. With demonstrated success, the BDR role provides a strong pathway towards becoming an Account Executive.
+What You'll Do
+Build pipeline: Generate new business opportunities across your assigned territory or vertical through targeted outbound prospecting.
+Engage prospects: Connect with prospective customers through cold calling, email, LinkedIn and marketing campaigns.
+Uncover opportunities: Understand a prospect’s business challenges, priorities and buying journey, and identify where Uber for Business can add value.
+Partner with Account Executives: Work closely with your AEs on account planning, target lists, messaging and prospecting strategies.
+Engage decision makers: Build confidence having high-level conversations with senior stakeholders and business leaders.
+Deliver against goals: Own your activity and performance metrics, including Sales Qualified Leads (SQLs), pipeline contribution and Gross Bookings from closed opportunities.
+Own your pipeline: Keep prospect and opportunity information accurate and up to date in Salesforce, with clear next steps for progression.
+Collaborate across Uber: Partner with internal teams to create a seamless experience for prospective customers and help deliver the right solution.
+ Basic Qualifications
+2+ years of outbound sales, business development or relevant B2B experience.
+Strong communication and interpersonal skills, with the ability to build rapport and lead engaging conversations with prospective customers.
+A proactive, self driven mindset with a genuine desire to learn, develop and succeed.
+Strong organisation and time-management skills, with the ability to manage multiple priorities and take initiative.
+Preferred qualifications
+Bachelor’s degree or equivalent experience.
+Experience working with Salesforce and outbound email campaigns.
+Familiarity with tools such as LinkedIn Sales Navigator and Groove.
+A genuine interest in technology, B2B sales and building a career in sales.",CL,,Level 2,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+2027 Operations & Logistics Intern Chile,Local Operations,"Santiago, Chile",,2026-11-18,305139,uber,2026-11-25,2026-11-25,0.3581,,https://jobs.uber.com/en/jobs/305139/,,"About the role and team Working at Uber means solving hard problems in a high-stakes, fast-moving environment. You’ll need to take ownership, stay adaptable, and build with both urgency and care.
+As an Operations Intern, you will bridge the gap between the digital and physical worlds to enable the movement of people and things. This role is built for those who thrive in intense, high-stakes environments where the answers aren't always clear and decisions must be made quickly and with care.
+What you’ll do 
+Solve key strategic problems through analytical frameworks and insights to advise the team on critical business decisions.
+Navigate the messiness of real-world operations by experimenting with new products and efficiencies across pricing, demand building, and segmentation.
+Collaborate across diverse functions including finance, policy, and legal to move projects forward and unblock complex operational hurdles.
+Own impactful projects from start to finish, managing the pressure of real-time results while maintaining a high bar for accuracy.
+Adapt to shifting priorities and imperfect information as you help shape the marketplace for riders, drivers, and merchants.
+Identify patterns in data to improve the way we support our community at scale.
+Basic Qualifications 
+Enrolled in a Bachelor’s degree program for the full duration of the internship.
+Expected graduation date of December 2027 - July 2028 (Only). Applications with other graduation dates will not be considered. 
+Proficiency in English with the ability to present ideas in a comprehensive and succinct manner.
+Ability to work 30 hours a week for 6 months in a hybrid capacity (Tuesday, Wednesday, and Thursday in-office).
+Current work authorization without the need for visa sponsorship.
+Preferred Qualifications 
+Skills: Knowledge of data analytics, SQL and experience with statistical packages or basic programming skills is highly regarded.
+Proven ability to build meaningful relationships and earn trust across diverse stakeholder groups.
+Demonstrated systems thinking and logic to resolve complex issues involving people and processes.
+Resilience and a ""go-get-it"" attitude when faced with ambiguous problems or tough objections.",CL,,Level 0.1,,"Santiago, Chile","Santiago, Chile",Full time,University,,,,,,,,,
+"Director, Head of Commercial CASA OneDelivery",Sales Non-Incentive Plan,"Santiago, Chile; Costa Rica",,2026-11-10,304219,uber,2026-11-25,2026-11-25,0.3829,,https://jobs.uber.com/en/jobs/304219/,,"About the Team
+Uber’s Delivery business is transforming the way people access what they need, when they need it. What began with restaurant food delivery has evolved into a broader local commerce platform spanning Restaurants, Grocery & Retail, and Uber Direct — enabling merchants of all sizes to reach consumers and power their own delivery experiences.
+CASA (Central America and South America regions - excluding Brazil and Argentina) is one of Uber Delivery’s fastest-growing and most strategically important markets in LATAM. After significant growth in the last couple of years, the next phase will turn that scale into an even stronger, more differentiated marketplace. Our commercial strategy focuses on building the best selection for consumers, accelerating merchant acquisition and expansion, and densifying our footprint across the region. At the same time, we are continuing to scale newer growth areas including Grocery & Retail and Uber Direct, while helping our existing merchant partners grow through stronger account management, advertising, offers, and new products.
+The CASA Commercial team sits at the center of this ambition. Spanning acquisition and account management across SMB, Enterprise, and strategic partners, the organization builds the merchant ecosystem that will power Uber’s next stage of growth in the country. The team works closely with Operations, Strategy, Marketing, Finance, Product, and the broader LATAM organization to translate CASA’s growth strategy into execution at city, category, and partner level.
+About the Role
+The Head of Commercial is the senior commercial leader for Uber’s Delivery business in CASA, with responsibility for the full merchant lifecycle and commercial growth strategy across Restaurants, Grocery & Retail, and Uber Direct in 8 LatAm countries, leading 160 people
+This is a broad business leadership role combining new business acquisition, account expansion, and strategic partnerships. You will determine where and how we grow our merchant base, ensure we have the right selection for consumers, deepen and expand our relationships with existing partners, and identify new commercial opportunities that accelerate the growth of Uber’s Delivery ecosystem.
+You will lead a multi-tier organization spanning sales and account management, from SMB through Enterprise, and will be accountable for building a high-performing commercial engine capable of delivering both near-term revenue targets and sustainable long-term growth.
+You will also personally engage in the country’s most important commercial relationships and negotiations, representing Uber with senior executives at major restaurant, grocery, retail, and other enterprise partners.
+We are looking for a highly commercial and analytical business leader who can move seamlessly between strategy and execution: someone who can set the commercial direction for CASA, translate it into clear priorities and operating mechanisms, develop outstanding leaders and teams, and personally dive into the most important opportunities when required.
+What You’ll Do
+Own the commercial strategy for CASA, setting the vision, priorities, and execution plan across Restaurants, Grocery & Retail, and Uber Direct to deliver ambitious growth and revenue targets.
+Lead the full merchant lifecycle, from prospecting and acquisition through onboarding, account development, retention, expansion and renewal, ensuring a joined-up commercial strategy across new and existing business.
+Build and lead a world-class commercial organization, spanning acquisition sales and account management across SMB, mid-market, Enterprise and strategic accounts. 
+Lead, inspire, and develop a large commercial organization (~160 people), leading through managers and senior leaders across acquisition and account management. Build a strong leadership bench and own the organization's development, growth, and performance, creating a high-performing culture where talent can thrive and advance.
+Accelerate merchant acquisition and selection, identifying the partners and categories most important to consumers and developing differentiated strategies to win them onto the Uber platform.
+Drive growth across the existing merchant base by developing strategies that improve partner performance, retention, and engagement, while identifying opportunities to expand relationships across products, locations, and lines of business.
+Scale Grocery & Retail and Uber Direct alongside the Restaurants business, developing the commercial strategies, capabilities, and partnerships needed to turn these newer businesses into meaningful growth engines.
+Personally lead CASA’s most strategic commercial relationships and negotiations, including complex, high-value Enterprise agreements, renewals, and partnerships that can materially impact the business's trajectory.
+Identify and develop new commercial opportunities, including new products, merchant solutions and revenue streams such as advertising, marketing technology and white-label delivery.
+Own commercial planning and performance, establishing targets, KPIs, forecasting, pipeline management and operating mechanisms that create visibility and accountability across the organization.
+Use data and market insight to allocate resources and prioritize opportunities, balancing acquisition, expansion, categories, customer segments and commercial investments to maximize sustainable growth.
+Play a key role on both the CASA and LATAM Commercial Leadership Teams, working alongside the CASA GM to shape the overall country strategy while partnering with LATAM Commercial leadership to drive regional priorities, share best practices, and ensure strong alignment between local and regional commercial strategies.
+Represent the voice of merchants within Uber, developing a deep understanding of partner economics and needs and ensuring our commercial strategy creates compelling value for merchants as well as consumers and the Uber marketplace.
+Stay ahead of the market, maintaining a deep understanding of competitive dynamics, consumer behavior, merchant economics, and emerging trends across food delivery, grocery, retail, and last-mile commerce.
+Basic Qualifications
+14+ years of experience in commercial leadership, general management, strategic sales, account management or comparable roles, with significant responsibility for delivering revenue growth.
+Significant B2B commercial experience across both new business acquisition and development of existing customers, ideally spanning SMB and Enterprise segments.
+5+ years of experience leading large, multi-tier commercial organizations, including successfully leading and developing managers of managers.
+Demonstrated experience owning a substantial business, revenue line and/or P&L, with accountability for setting strategy and delivering against ambitious commercial targets.
+Experience leading complex, high-value Enterprise negotiations and developing long-term strategic customer relationships.
+Strong understanding of commercial operating disciplines including segmentation, target setting, pipeline management, forecasting, productivity and performance management.
+Demonstrated ability to operate effectively in a highly matrixed environment, influencing senior stakeholders across functions and geographies without relying solely on direct authority.
+Preferred Qualifications
+Combination of experience working in complex matrix organizations and fast-moving smaller ventures
+Experience leading complex, multi-faceted, multi-year commercial negotiations and contracts with significant P&L impact.
+Experience in Online Food Delivery or in an online marketplace business is preferred.",CL,,Level 7,,"Santiago, Chile","Santiago, Chile; Costa Rica",Full time,Executive,,,,,,,,,
+"Manager, U4B Sales (Sales Plan)",Sales Incentive Plan,"Santiago, Chile",,2026-11-10,304615,uber,2026-11-25,2026-11-25,0.3981,,https://jobs.uber.com/en/jobs/304615/,,"About the role and team 
+Uber for Business is looking for a strategic, hands-on Sales Manager to lead and scale our high-performing sales organization. This isn't a role for someone who wants to manage from a distance; it’s for a leader who thrives on the front lines, navigating the ambiguity of a fast-growing segment and turning complex business challenges into movement. You will be responsible for a team of Account Executives focused on acquiring new customers and expanding our footprint through both Rides and Eats solutions.
+The stakes are high and the pace is relentless. You’ll need to balance the grit required for cold outreach and deal-closing with the sophistication needed to navigate C-level negotiations and cross-functional internal politics. We are looking for a self-starter who values ownership, adapts quickly to shifting market dynamics, and is energized by the ""messy"" reality of building a sales engine from the ground up. If you are a resilient leader who can coach a team to win while keeping the customer at the center of every decision, this is where you’ll grow.
+What you’ll do 
+Recruit, coach, and mentor a team of Account Executives, setting clear expectations and driving a culture of high performance and continuous improvement.
+Develop and operationalize a go-to-market strategy to acquire and grow U4B clients, ensuring alignment with regional revenue goals.
+Quarterback high-stakes C-level meetings, actively listening to business pain points and tailoring Uber’s platform to solve real-world logistics and employee needs.
+Manage and report an accurate sales forecast and pipeline, holding the team accountable to monthly and quarterly targets through rigorous process discipline.
+Navigate internal complexity by partnering with Operations, Product, and Legal teams to unblock deals and streamline the customer onboarding experience.
+Represent Uber for Business at industry forums and events, building the brand and identifying new strategic partnership opportunities.
+Basic Qualifications 
+10+ years of B2B sales experience (e.g., SaaS, Corporate Travel, or Logistics).
+3+ years of experience directly leading and coaching a sales team.
+Proven track record of managing a multi-stage sales pipeline and consistently exceeding revenue quotas.
+Experience engaging with and influencing C-suite executives.
+Bachelor’s degree or equivalent professional experience.
+Preferred Qualifications 
+Experience closing complex, non-traditional deals such as API integrations or voucher systems.
+Strong proficiency in sales tools including Salesforce, Gong, and LinkedIn Sales Navigator.
+Ability to use data-driven insights to identify market trends and optimize the sales lifecycle.
+Resilience and a growth mindset, with a history of navigating ambiguity in a fast-paced environment.
+Exceptional communication skills with the ability to align diverse internal and external stakeholders.
+Exceptional communication skills with the ability to align diverse internal and external stakeholders.",CL,,Level 5,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+"Client Partner, Uber Advertising",Sales Incentive Plan,"Santiago, Chile",,2026-11-04,304293,uber,2026-11-25,2026-11-25,0.3964,,https://jobs.uber.com/en/jobs/304293/,,"About the role and team
+ Uber Advertising division spearheads the growth of our advertising business by building a suite of products that enable brands to reach highly engaged users across our Mobility and Delivery platforms. Sales at Uber means navigating ambiguity, earning trust fast, and solving problems that don’t come with a script. As a Client Partner, you will be responsible for building new partnerships with our largest brands, acting as a strategic advisor in a fast-changing environment where the answers aren’t always predefined.
+ This role is for those who are resilient and energized by the messy reality of doing big things at scale. You will face the challenge of constant change and must move with urgency to respond to the needs of partners who depend on us. Success here requires an owner mindset, the grit to handle tough negotiations, and the adaptability to thrive even when priorities shift unexpectedly.
+ What you’ll do
+ Execute ads partnership strategies that deliver on partner marketing objectives and exceed quarterly growth goals while navigating internal complexity.
+ Build and maintain long-term relationships with C-level marketing executives by understanding what matters most to their business, not just selling a product.
+ Navigate ambiguity and shifting priorities to unlock value for clients, identifying patterns to improve how we support our community at scale.
+ Collaborate across Product, Marketing, and Operations teams to shape proposals, resolve blockers, and deliver solutions that scale.
+ Communicate the value of new advertising products creatively and stay resilient through tough conversations and the inevitable “no.”
+ Own your work end-to-end, from developing pitch narratives to being the voice of the customer in future product roadmaps.
+ Basic Qualifications
+ At least 4 years of full-time experience in end-to-end Enterprise or Large Customer Digital Advertising Sales.
+ Experience selling net-new partnerships and driving business development.
+ Proficiency in both direct and programmatic digital media.
+ Bachelor's degree or equivalent practical experience.
+ Preferred Qualifications
+ Experience working at a high-growth tech platform or digital publication.
+ Proven ability to use data and insights to quantify opportunities and influence decision-makers.
+ Strong systems thinking and the ability to navigate complex stakeholder landscapes.
+ Demonstrated resourcefulness and a ""go-get-it"" attitude in ambiguous environments.",CL,,Level 4,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+"Client Partner, Global Restaurants Ads",Sales Incentive Plan,"Santiago, Chile",,2026-10-26,303538,uber,2026-11-25,2026-11-25,0.3838,,https://jobs.uber.com/en/jobs/303538/,,"About the role and team 
+Uber Advertising division spearheads the growth of our advertising business by building a suite of products that enable brands to reach highly engaged users across our Mobility and Delivery platforms. Sales at Uber means navigating ambiguity, earning trust fast, and solving problems that don’t come with a script. As a Client Partner, you will be responsible for building new partnerships with our Global Delivery Partners, acting as a strategic advisor in a fast-changing environment where the answers aren’t always predefined.
+This role is for those who are resilient and energized by the messy reality of doing big things at scale. You will face the challenge of constant change and must move with urgency to respond to the needs of partners who depend on us. Success here requires an owner mindset, the grit to handle tough negotiations, and the adaptability to thrive even when priorities shift unexpectedly.
+What you’ll do 
+Execute ads partnership strategies that deliver on partner marketing objectives and exceed quarterly growth goals while navigating internal complexity.
+Build and maintain long-term relationships with C-level marketing executives by understanding what matters most to their business, not just selling a product.
+Navigate ambiguity and shifting priorities to unlock value for clients, identifying patterns to improve how we support our community at scale.
+Collaborate across Product, Marketing, and Operations teams to shape proposals, resolve blockers, and deliver solutions that scale.
+Communicate the value of new advertising products creatively and stay resilient through tough conversations and the inevitable “no.”
+Own your work end-to-end, from developing pitch narratives to being the voice of the customer in future product roadmaps. 
+Basic Qualifications 
+At least 6 years of full-time experience in end-to-end Enterprise or Large Customer Digital Advertising Sales.
+Experience selling net-new partnerships and driving business development.
+Proficiency in Retail media.
+Bachelor's degree or equivalent practical experience.
+Strong analytical and communication skills.
+Preferred Qualifications 
+Experience working at a high-growth tech platform or digital publication.
+Proven ability to use data and insights to quantify opportunities and influence decision-makers.
+Strong systems thinking and the ability to navigate complex stakeholder landscapes.",CL,,Level 4,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+"Senior Sales Ops Associate, Uber Eats - CASA",Sales Operations,"Santiago, Chile",,2026-10-22,303398,uber,2026-11-25,2026-11-25,0.4727,,https://jobs.uber.com/en/jobs/303398/,,"About the Role
+We are looking for a Senior Associate, Acquisition Sales Operations to support our Delivery Sales organization across LatAm.
+In this role, you will partner closely with Sales and Commercial Leadership to optimize merchant acquisition performance, improve sales productivity, and drive operational efficiencies. You will leverage data to identify opportunities, optimize sales funnels, support resource allocation, and build scalable processes and tools across markets.
+The ideal candidate brings strong analytical capabilities, commercial acumen, and a Sales Operations mindset, with the ability to translate data into actionable strategies and drive results independently.
+What You'll Do
+Drive acquisition performance: Analyze sales funnel metrics, conversion rates, and productivity to identify opportunities and improve merchant acquisition results.
+Optimize sales planning: Partner with Sales Leadership on headcount and capacity planning, territory and lead allocation, target setting, and resource optimization.
+Improve sales efficiency: Identify operational bottlenecks and implement scalable processes to improve sales execution and productivity across LatAm.
+Turn data into action: Develop reporting, dashboards, and actionable insights to support commercial decisions and performance management.
+Enhance sales tools and processes: Support CRM optimization, pipeline management, automation, and the adoption of sales tools and best practices.
+Partner cross-functionally: Collaborate with Sales, Strategy & Planning, Operations, Product, Finance, and regional/global teams to execute acquisition initiatives.
+Own key initiatives: Independently manage projects, drive process improvements, and deliver measurable business impact.
+What You'll Need
+At least 5 years of experience in Sales Operations, Commercial Operations, Strategy & Planning, Consulting, Business Analytics, or related fields.
+Strong Sales Operations background, ideally supporting B2B sales or acquisition teams, with experience in funnel optimization, pipeline management, sales productivity, and commercial planning.
+Strong analytical and problem-solving skills, with the ability to interpret complex data and translate insights into actionable business recommendations.
+SQL proficiency and advanced Google Sheets/Excel skills. Python or other automation tools are a plus.
+Strong stakeholder management and communication skills, with experience influencing senior commercial leaders.
+Business acumen and strategic thinking, with the ability to connect sales performance metrics to broader business objectives.
+High ownership and autonomy, with the ability to prioritize multiple initiatives and thrive in a fast-paced environment.
+Experience with CRM tools, ideally Salesforce (SFDC), and sales pipeline management.
+Fluency in English and Spanish is required.",CL,,Level 4,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+"Enterprise New Business Account Executive, Uber for Business",Sales Incentive Plan,"Santiago, Chile",,2026-10-07,301734,uber,2026-11-25,2026-11-25,0.3883,,https://jobs.uber.com/en/jobs/301734/,,"About the role and team 
+Uber for Business is looking for a sharp, highly motivated Enterprise Account Executive to join our team, focusing on the CPG, Retail, and Heavy Industry verticals. This is a role for a ""hunter"" who can navigate the complex, often messy world of large-scale corporate logistics and turn ambiguity into growth. You won't just be selling a platform; you'll be reimagining how the largest companies in the region move their employees and goods—from late-night shift commutes to high-volume voucher campaigns for the automotive industry.
+Working here means solving high-stakes problems in real-time. You’ll need to balance short-term execution sprints with a long-term vision for whitespace accounts with over 5,000 employees. The pace is fast, and the expectations for ownership are higher. Success requires a blend of strategic thinking to break into new territories and the grit to push through long, multi-stakeholder contract negotiations. If you’re energized by the challenge of tailoring consumer-loved products like Rides and Eats into mission-critical business solutions, this is where you’ll grow.
+What you’ll do 
+Own and exceed aggressive sales targets by creatively prospecting into Enterprise accounts with 5,000+ employees, identifying decision-makers, and uncovering hidden business drivers.
+Develop and execute robust territory and account plans to break into whitespace accounts, managing the end-to-end sales cycle from qualification to contract negotiation and closing.
+Listen deeply to customer pain points and craft winning narratives that align the Uber for Business value proposition with their specific operational needs.
+Forecast and manage your sales pipeline with high accuracy using Salesforce CRM, ensuring consistent activity and lead velocity.
+Coordinate cross-functionally with Marketing, Operations, and Implementation leads to ensure every account launch is ""A+"" and delivers immediate value.
+Navigate and unblock complex negotiations with Procurement, Finance, and HR leaders to position Uber as a critical infrastructure partner.
+Basic Qualifications 
+5+ years of B2B sales experience in a client-facing role, ideally within a SaaS or high-growth technology environment.
+Proven track record of exceeding revenue targets and managing complex sales cycles within Large Corporations/Enterprise segments.
+Proficiency in using Salesforce CRM for pipeline management and forecasting.
+Demonstrated ability to conduct strategic territory and account planning.
+Advanced English proficiency and Portuguese fluency.
+Preferred Qualifications 
+Deep understanding of the CPG, Retail, or Heavy Industry landscape in Chile.
+Experience selling consumption-based technology or ""Anything-as-a-Service"" (XaaS) solutions.
+Established relationships with Travel Directors, Commute Managers, or Procurement leaders in the Enterprise segment.
+Experience with a structured sales framework or methodology (e.g., MEDDIC, Challenger).
+Resilience and a ""builder"" mindset with the ability to navigate market adversity and ongoing product development.",CL,,Level 4,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+"Account Manager, Uber Advertising",Sales Incentive Plan,"Santiago, Chile",,2026-10-05,302733,uber,2026-11-25,2026-11-25,0.4681,,https://jobs.uber.com/en/jobs/302733/,,"About the role and team 
+Sales at Uber means navigating ambiguity, earning trust fast, and solving problems that don’t come with a script. As an Ads Enterprise Account Manager, you will be the engine behind demand generation for our most complex restaurant partners, bridging the gap between high-level ad strategy and real-world campaign execution. You’ll be tasked with turning an expanding suite of ad offerings into tangible growth for merchants, ensuring our platform moves the needle for their business every single day.
+This isn’t a transactional role; it’s about managing the messy reality of large-scale advertising where priorities shift and performance is under a microscope. You will need the grit to handle tough budget conversations and the curiosity to dig into data to unblock growth opportunities within a complex book of business. If you are a resourceful owner who thrives on high-stakes collaboration and can stay calm when navigating technical blockers, this is where you’ll make your mark.
+What you’ll do 
+Build and grow long-term partnerships by understanding what matters most to enterprise merchants, translating their business needs into high-impact ads and offers solutions.
+Analyze, report and bring new opportunities to the clients.
+Navigate ambiguity and internal complexity to lead campaign implementation, ensuring operational efficiency from asset collection to measurement integration.
+Partner with Account Executives to analyze platform insights and category trends, identifying and pitching upsell opportunities that align with merchant objectives.
+Manage high-pressure growth conversations, including budget recommendations and objection handling, to expand the adoption of Uber’s ad products.
+Collaborate across product and engineering teams to provide ""voice of the customer"" feedback, helping to shape the future of our advertising features and tools.
+Monitor campaign performance and budget utilization with urgency, providing optimization recommendations to ensure high levels of merchant satisfaction and retention.
+Basic Qualifications 
+Minimum 3 years of full-time experience in an advertising or related role (media/marketing agency, ad tech, or sales).
+Experience in a client-facing position managing external stakeholders.
+Basic proficiency in media KPIs and advertising terminology.
+High school diploma or equivalent experience.
+Proven ability to analyze complex datasets to draw actionable insights and performance recommendations.
+Preferred Qualifications 
+Experience running large-scale ad campaigns and partnering with complex, global brands.
+Advanced negotiation and forecasting skills used to influence budget decisions.
+Resilience and a ""go-getter"" mentality with a track record of navigating ambiguity in fast-moving environments.
+Strong systems thinking to identify and advocate for process improvements across the organization.",CL,,Level 3,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+"Account Representative, Eats SMB INT (Sales Plan)",Sales - Sales,"Santiago, Chile",Santiago,2026-07-31,303401,uber,2026-08-05,2026-08-08,0.3168,Chile,https://www.uber.com/global/en/careers/list/303401/,,,CHL,Sales - Sales,2.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-08-05
+2026 Operations & Logistics Intern - Chile,University - Operations,"Santiago, Chile",Santiago,2026-07-28,302977,uber,2026-07-30,2026-08-08,0.2845,Chile,https://www.uber.com/global/en/careers/list/302977/,,,CHL,University - Operations,0.1,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-08-07
+Merchant Ops - Global Strategy & Operations Manager,Operations - Operations Management,"Santiago, Chile",Santiago,2026-07-17,302125,uber,2026-07-22,2026-08-08,0.3195,Chile,https://www.uber.com/global/en/careers/list/302125/,,,CHL,Operations - Operations Management,3.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-08-06
+"Account Partner, Eats SMB (Sales Plan)",Sales Incentive Plan,"Santiago, Chile",,2026-07-10,300331,uber,2026-11-25,2026-11-25,0.3033,,https://jobs.uber.com/en/jobs/300331/,,"About the role and team
+ Account Management
+ at Uber means navigating ambiguity, earning trust fast, and solving problems that don’t come with a script. In this role, you will own the growth and success of a portfolio of SMB restaurant partners, acting as their primary advisor to unlock the full potential of the Uber Eats platform. It is a high-stakes environment where your ability to build long-term partnerships directly impacts the livelihood of local businesses and Uber’s mission to move the real world.
+ The work is fast-paced and requires a grit-based mindset; you will deal with shifting priorities, handle tough negotiations, and build lasting partnerships. We are looking for resourceful owners who are energized by the complex reality of Account Management and can stay resilient through the inevitable ""no"" to find creative solutions for our partners. If you thrive on autonomy and are motivated by seeing the tangible impact of your work on the community, this is where you will grow.
+ What you’ll do
+ Build and grow long-term partnerships by understanding what matters most to your restaurant partners - doing the right thing long term.
+ Manage partner portfolios with urgency and discipline, using data-driven insights to track KPIs and identify opportunities for optimization.
+ Navigate ambiguity and complexity to resolve merchant issues, unblock growth, and ensure high-levels of partner satisfaction.
+ Adapt your approach based on market dynamics and partner needs to influence the adoption of new features, marketing products, and services.
+ Collaborate across operations, marketing, and product teams to share local market knowledge and shape regional strategies that scale.
+ Basic Qualifications
+ E
+ xperience in account management, operations, sales or customer-facing functions.
+ Ability to negotiate with external partners and overcoming objections to gain commitment.
+ Ability to handle high-ambiguity environments and pivot quickly based on shifting business priorities.
+ Demonstrated ability to build and leverage data-driven insights for portfolio sales lifecycle-management.
+ Fluency in the local language of the market, and professional proficiency in English.
+ High school diploma or equivalent.
+ Preferred Qualifications
+ Proficiency in Salesforce and Google Sheets/Excel for data-driven decision making.
+ Demonstrated problem-solving ability to solve gaps in merchant processes.
+ Stakeholder management skills with the ability to influence without authority.",CL,,Level 2,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+"Account Representative, Eats SMB INT (Sales Plan)",Sales Incentive Plan,"Santiago, Chile",,2026-07-10,300332,uber,2026-11-25,2026-11-25,0.3224,,https://jobs.uber.com/en/jobs/300332/,,"About the role and team
+ Sales at Uber means navigating ambiguity, earning trust fast, and solving problems that don’t come with a script. As an Account Executive for Uber Eats, you are on the frontline of our fastest-growing business, introducing restaurant partners to our platform and helping them grow their businesses in an increasingly competitive landscape.
+ This role isn't about pushing a product—it’s about building long-term partnerships in a fast-changing environment where the pace is intense and the stakes are high. You’ll need to be resilient, resourceful, and energized by the messy reality of the sales cycle, moving with urgency to turn prospects into successful, high-performing partners.
+ What you’ll do
+ Manage the entire end-to-end sales cycle, from prospecting and cold calling to pitching, contract negotiation, and closing deals that drive significant business growth.
+ Leverage local knowledge to identify and bring on the best restaurants in strategic markets, ensuring our selection meets the diverse needs of our users.
+ Communicate the value of Uber Eats and our latest product features clearly, removing barriers to entry and helping partners reach their specific business goals.
+ Collaborate across operations and onboarding teams to ensure a seamless transition for new partners, setting them up for measurable success within their first month on the platform.
+ Own restaurant partner performance during the critical first 28 days, providing consultative support to ensure a strong start and long-term retention.
+ Proactively identify and redesign inefficient internal processes, ensuring the team can move quickly and succeed at a massive scale despite shifting priorities.
+ Basic Qualifications
+ Minimum 1 year of professional experience in a quota-carrying sales role.
+ Proven experience negotiating contracts and managing a complex sales pipeline.
+ Demonstrated ability to identify customer needs and present tailored solutions.
+ Proficiency in CRM software, such as Salesforce, to manage sales activities.
+ Degree level education (Bachelor's degree or equivalent).
+ Preferred Qualifications
+ Experience in the food delivery, hospitality, or e-commerce marketplace industries.
+ Extraordinary listening and communication skills, with the ability to adjust your style to a wide variety of audiences.
+ A resourceful and persistent attitude, with a relentless drive to achieve goals and overcome objections.
+ Strong critical thinking and problem-solving abilities in a fast-paced, high-pressure environment.
+ Proven track record of meeting and exceeding monthly and quarterly sales targets.",CL,,Level 2,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+"Account Representative, Eats SMB INT (Sales Plan)",Sales - Sales,"Santiago, Chile",Santiago,2026-07-10,301449,uber,2026-07-12,2026-08-08,0.3173,Chile,https://www.uber.com/global/en/careers/list/301449/,,,CHL,Sales - Sales,2.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-07-21
+"Account Partner, Eats SMB (Sales Plan)",Sales - Account Management,"Santiago, Chile",Santiago,2026-07-10,301447,uber,2026-07-12,2026-08-08,0.3081,Chile,https://www.uber.com/global/en/careers/list/301447/,,,CHL,Sales - Account Management,2.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-07-21
+"Account Partner, Eats SMB (Sales Plan)",Sales - Account Management,"Santiago, Chile",Santiago,2026-07-10,301471,uber,2026-08-07,2026-08-08,0.308,Chile,https://www.uber.com/global/en/careers/list/301471/,,,CHL,Sales - Account Management,2.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-08-07
+Marketplace Abuse Lead,Operations - Business Operations,"Santiago, Chile",Santiago,2026-06-27,160370,uber,2026-07-12,2026-08-08,0.2652,Chile,https://www.uber.com/global/en/careers/list/160370/,,,CHL,Operations - Business Operations,4.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-08-06
+Lead Investigator,Physical Security - Law Enforcement Response,"Santiago, Chile",Santiago,2026-06-27,160461,uber,2026-07-13,2026-07-16,0.1731,Chile,https://www.uber.com/global/en/careers/list/160461/,,,CHL,Physical Security - Law Enforcement Response,4.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-07-14
+Customer Success Coordinator,Sales Non-Incentive Plan,"Santiago, Chile",,2026-06-19,153253,uber,2026-07-12,2026-11-25,0.3954,,https://jobs.uber.com/en/jobs/153253/,,"About the Role
+The Scaled Coordinator role is a great opportunity to demonstrate your analytics and commercial skills for the assigned territory. This role focuses on post-sales of Small-to-Mid Sized Business, finding scalable ways of helping our restaurant partners to increase retention as well as driving business growth, with mutually beneficial outcomes.
+Scaled Coordinators are critical to retaining our huge accounts base, ensuring partners are successful on our platform and exploiting opportunities to improve core business metrics for our restaurants and for Uber Eats.
+Your Impact in Role
+Lead scalable growth for Small-to Mid Sized restaurant segment, design and execute growth strategy aligned to territory needs.
+Achieve revenue growth targets for the Small-to-Mid Sized restaurant segment, upsell new product features and ensure high retention by driving mutual business value
+Be the owner of the budget of the segment, make it more efficient and achieve the revenue targets.
+Set, track and report on performance metrics of the Small-to-Mid Sized restaurant segment to internal teams
+Be the voice of the Small-to-mid Sized restaurants to internal stakeholders - translate their needs and advocate on their behalf.
+Basic Qualifications
+ 1-3 years professional experience, ideally in a similar commercial/analytic function
+ Confident in making data-led decisions and using sound business judgment
+ Must have very strong analytical skills and business sense
+Preferred Qualifications
+ Have been accountable for achieving business targets or delivering a quota
+ SQL knowledge.
+ Experience with partner management and cross-functional projects
+ Strong executive presence and communication skills (verbal and written)
+ Speed, resourcefulness, and go-getter attitude. This team moves fast and always operates in new spaces
+ Highly autonomous - able to work with minimal oversight
+ Fluency in Spanish and Business English
+ Advanced Excel Skills
+ ~~ ~~",CL,,Level 2,,"Santiago, Chile","Santiago, Chile",Full time,Hiring,,,,,,,,,
+Groceries & Retail Growth Operations Manager,Operations - Business Operations,"Santiago, Chile",Santiago,2026-06-19,159475,uber,2026-07-12,2026-08-08,0.2933,Chile,https://www.uber.com/global/en/careers/list/159475/,,,CHL,Operations - Business Operations,3.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-08-04
+"SMB Account Executive, Uber for Business",Sales - Sales,"Santiago, Chile",Santiago,2026-06-19,159023,uber,2026-07-12,2026-08-08,0.2624,Chile,https://www.uber.com/global/en/careers/list/159023/,,,CHL,Sales - Sales,2.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-07-29
+Account Manager SMB G&R,Sales - Account Management,"Santiago, Chile",Santiago,2026-06-19,155619,uber,2026-07-12,2026-08-08,0.3115,Chile,https://www.uber.com/global/en/careers/list/155619/,,,CHL,Sales - Account Management,2.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-08-04
+"Enterprise, New Business Account Executive, Uber for Business",Sales - Sales,"Santiago, Chile",Santiago,2026-06-19,159036,uber,2026-07-12,2026-08-08,0.2595,Chile,https://www.uber.com/global/en/careers/list/159036/,,,CHL,Sales - Sales,4.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-08-06
+Sales Training Specialist,Operations - Business Operations,"Santiago, Chile",Santiago,2026-06-19,160029,uber,2026-07-21,2026-08-04,0.3583,Chile,https://www.uber.com/global/en/careers/list/160029/,,,CHL,Operations - Business Operations,3.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-07-21
+Sales Representative - SMB,Sales - Sales,"Santiago, Chile",Santiago,2026-06-19,157617,uber,2026-07-12,2026-08-04,0.2999,Chile,https://www.uber.com/global/en/careers/list/157617/,,,CHL,Sales - Sales,2.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-07-06
+"Country Manager, Uber for Business, South Cone",Sales - Sales,"Santiago, Chile",Santiago,2026-06-19,160129,uber,2026-07-14,2026-07-24,0.2449,Chile,https://www.uber.com/global/en/careers/list/160129/,,,CHL,Sales - Sales,5.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-07-22
+Senior account Manager Global,Sales - Account Management,"Santiago, Chile",Santiago,2026-06-19,152648,uber,2026-07-12,2026-07-21,0.3278,Chile,https://www.uber.com/global/en/careers/list/152648/,,,CHL,Sales - Account Management,3.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-07-17
+Regional Operations Manager,Operations - Business Operations,"Santiago, Chile",Santiago,2026-06-19,158591,uber,2026-07-14,2026-07-17,0.2624,Chile,https://www.uber.com/global/en/careers/list/158591/,,,CHL,Operations - Business Operations,4.0,,"Santiago, Chile","Santiago, Chile",,,,,False,False,EXTERNAL,27.0,Posted,,2026-07-14
