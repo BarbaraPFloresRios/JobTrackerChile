@@ -13,6 +13,7 @@ from scrapers.cencosud import scrape_cencosud
 from scrapers.walmart import scrape_walmart
 from scrapers.ccu import scrape_ccu
 from scrapers.ripley import scrape_ripley
+from scrapers.unilever import scrape_unilever
 from scrapers.trabajando import (
     scrape_smu,
     scrape_andina,
@@ -62,6 +63,10 @@ CCU_OUTPUT_PATH = (
 
 RIPLEY_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/ripley_jobs.csv"
+)
+
+UNILEVER_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/unilever_jobs.csv"
 )
 
 SMU_OUTPUT_PATH = (
@@ -362,6 +367,7 @@ def run_pipeline():
         ("Walmart", scrape_walmart, WALMART_OUTPUT_PATH),
         ("CCU", scrape_ccu, CCU_OUTPUT_PATH),
         ("Ripley", scrape_ripley, RIPLEY_OUTPUT_PATH),
+        ("Unilever", scrape_unilever, UNILEVER_OUTPUT_PATH),
         ("SMU", scrape_smu, SMU_OUTPUT_PATH),
         ("Andina", scrape_andina, ANDINA_OUTPUT_PATH),
         ("Embonor", scrape_embonor, EMBONOR_OUTPUT_PATH),
