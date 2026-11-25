@@ -5,15 +5,12 @@ from html import unescape
 import requests
 import pandas as pd
 
-# PedidosYa hires through its parent Delivery Hero, whose SmartRecruiters
-# board has a public postings API. We list Chile postings and keep the ones
-# tagged with the PedidosYa brand (custom field "Brands").
-COMPANY_ID = "DeliveryHero"
-LIST_URL = f"https://api.smartrecruiters.com/v1/companies/{COMPANY_ID}/postings"
-DETAIL_URL = LIST_URL + "/{job_id}"
-JOB_URL = f"https://jobs.smartrecruiters.com/{COMPANY_ID}/{{job_id}}"
+# Shared engine for SmartRecruiters boards (public postings API). We list
+# Chile postings and, for multi-brand groups, keep one brand via the
+# "Brands" custom field (PedidosYa is posted on Delivery Hero's board).
+API_URL = "https://api.smartrecruiters.com/v1/companies/{company_id}/postings"
+JOB_URL = "https://jobs.smartrecruiters.com/{company_id}/{job_id}"
 COUNTRY = "cl"
-BRAND = "PedidosYa"
 
 PAGE_SIZE = 100
 MAX_PAGES = 20
@@ -47,12 +44,12 @@ def custom_field(posting, label):
     return None
 
 
-def fetch_postings(session):
+def fetch_postings(session, company_id):
     postings = []
 
     for page in range(MAX_PAGES):
         response = session.get(
-            LIST_URL,
+            API_URL.format(company_id=company_id),
             params={"country": COUNTRY, "limit": PAGE_SIZE, "offset": page * PAGE_SIZE},
             timeout=REQUEST_TIMEOUT,
         )
@@ -67,12 +64,12 @@ def fetch_postings(session):
     return postings
 
 
-def fetch_description(session, job_id):
+def fetch_description(session, company_id, job_id, company_name):
     try:
-        response = session.get(DETAIL_URL.format(job_id=job_id), timeout=REQUEST_TIMEOUT)
+        response = session.get(f"{API_URL.format(company_id=company_id)}/{job_id}", timeout=REQUEST_TIMEOUT)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
-        print(f"PedidosYa: could not fetch detail for job {job_id}: {e}")
+        print(f"{company_name}: could not fetch detail for job {job_id}: {e}")
         return None
 
     sections = (response.json().get("jobAd") or {}).get("sections") or {}
@@ -83,15 +80,15 @@ def fetch_description(session, job_id):
     return "\n".join(part for part in parts if part) or None
 
 
-def scrape_pedidosya():
+def scrape_smartrecruiters(company_id, source, company_name, brand=None):
     session = requests.Session()
     session.headers.update(HEADERS)
 
     postings = [
-        p for p in fetch_postings(session)
-        if custom_field(p, "Brands") == BRAND
+        p for p in fetch_postings(session, company_id)
+        if brand is None or custom_field(p, "Brands") == brand
     ]
-    print(f"PedidosYa: {len(postings)} jobs in Chile")
+    print(f"{company_name}: {len(postings)} jobs in Chile")
 
     jobs = []
 
@@ -107,13 +104,13 @@ def scrape_pedidosya():
             "country": "Chile",
             "posted_date": format_date(posting.get("releasedDate")),
             "job_id": job_id,
-            "source": "pedidosya",
-            "company_name": BRAND,
+            "source": source,
+            "company_name": company_name,
             "level": (posting.get("experienceLevel") or {}).get("label"),
             "employment_type": (posting.get("typeOfEmployment") or {}).get("label"),
-            "url": JOB_URL.format(job_id=job_id),
+            "url": JOB_URL.format(company_id=company_id, job_id=job_id),
             "description_short": None,
-            "description": fetch_description(session, job_id),
+            "description": fetch_description(session, company_id, job_id, company_name),
         })
 
         time.sleep(SLEEP_SECONDS)
@@ -124,3 +121,20 @@ def scrape_pedidosya():
         return df
 
     return df.drop_duplicates(subset=["job_id"]).sort_values("posted_date", ascending=False)
+
+
+def scrape_pedidosya():
+    return scrape_smartrecruiters(
+        company_id="DeliveryHero",
+        source="pedidosya",
+        company_name="PedidosYa",
+        brand="PedidosYa",
+    )
+
+
+def scrape_kenvue():
+    return scrape_smartrecruiters(
+        company_id="Kenvue",
+        source="kenvue",
+        company_name="Kenvue",
+    )

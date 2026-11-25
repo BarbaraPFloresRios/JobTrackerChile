@@ -14,9 +14,15 @@ from scrapers.walmart import scrape_walmart
 from scrapers.ccu import scrape_ccu
 from scrapers.ripley import scrape_ripley
 from scrapers.unilever import scrape_unilever
-from scrapers.pedidosya import scrape_pedidosya
+from scrapers.smartrecruiters import scrape_pedidosya, scrape_kenvue
 from scrapers.rappi import scrape_rappi
-from scrapers.workday import scrape_pg, scrape_santander
+from scrapers.workday import (
+    scrape_pg,
+    scrape_santander,
+    scrape_mondelez,
+    scrape_kimberlyclark,
+)
+from scrapers.consumer_goods import scrape_colgate, scrape_pepsico, scrape_beiersdorf
 from scrapers.teamtailor import scrape_tenpo
 from scrapers.loreal import scrape_loreal
 from scrapers.successfactors import scrape_nestle, scrape_scotiabank
@@ -120,6 +126,30 @@ SCOTIABANK_OUTPUT_PATH = (
 
 TENPO_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/tenpo_jobs.csv"
+)
+
+PEPSICO_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/pepsico_jobs.csv"
+)
+
+MONDELEZ_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/mondelez_jobs.csv"
+)
+
+KIMBERLYCLARK_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/kimberlyclark_jobs.csv"
+)
+
+COLGATE_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/colgate_jobs.csv"
+)
+
+KENVUE_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/kenvue_jobs.csv"
+)
+
+BEIERSDORF_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/beiersdorf_jobs.csv"
 )
 
 SMU_OUTPUT_PATH = (
@@ -446,6 +476,12 @@ def run_pipeline():
         ("Santander", scrape_santander, SANTANDER_OUTPUT_PATH),
         ("Scotiabank", scrape_scotiabank, SCOTIABANK_OUTPUT_PATH),
         ("Tenpo", scrape_tenpo, TENPO_OUTPUT_PATH),
+        ("PepsiCo", scrape_pepsico, PEPSICO_OUTPUT_PATH),
+        ("Mondelez", scrape_mondelez, MONDELEZ_OUTPUT_PATH),
+        ("Kimberly-Clark", scrape_kimberlyclark, KIMBERLYCLARK_OUTPUT_PATH),
+        ("Colgate", scrape_colgate, COLGATE_OUTPUT_PATH),
+        ("Kenvue", scrape_kenvue, KENVUE_OUTPUT_PATH),
+        ("Beiersdorf", scrape_beiersdorf, BEIERSDORF_OUTPUT_PATH),
     ]
 
     scraped_jobs = []

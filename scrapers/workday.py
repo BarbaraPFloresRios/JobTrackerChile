@@ -149,3 +149,23 @@ def scrape_santander():
         source="santander",
         company_name="Santander",
     )
+
+
+def scrape_mondelez():
+    return scrape_workday_site(
+        host="mdlz.wd3.myworkdayjobs.com",
+        tenant="mdlz",
+        site="External",
+        source="mondelez",
+        company_name="Mondelez",
+    )
+
+
+def scrape_kimberlyclark():
+    return scrape_workday_site(
+        host="kimberlyclark.wd1.myworkdayjobs.com",
+        tenant="kimberlyclark",
+        site="GLOBAL",
+        source="kimberlyclark",
+        company_name="Kimberly-Clark",
+    )
