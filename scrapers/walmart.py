@@ -1,15 +1,23 @@
+import json
 import re
 import time
+from html import unescape
 
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
+# postulawalmartchile.cl was rebuilt in Nov 2026 on Livewire v3. The catalog
+# lives at /vacantes and is a Livewire component ("vacantes.catalogo"): we set
+# its `tipo` filter to "corporativo" (the old "gerencial" listing) and keep
+# calling `cargarMas` until no new cards appear. Detail pages are
+# /vacantes/{id}; job ids kept the same numbering as the old site.
 BASE_URL = "https://postulawalmartchile.cl"
-LISTING_URL = f"{BASE_URL}/vacantes/external/gerencial"
-LIVEWIRE_URL = f"{BASE_URL}/livewire/message/front.vacant.index"
+LISTING_URL = f"{BASE_URL}/vacantes"
+CATALOG_COMPONENT = "vacantes.catalogo"
+JOB_TYPE = "corporativo"
 
-MAX_LOAD_MORE = 30  # safety cap on pagination rounds
+MAX_LOAD_MORE = 40  # safety cap on pagination rounds (9 jobs per round)
 REQUEST_TIMEOUT = 30  # seconds
 SLEEP_SECONDS = 0.5  # politeness delay between detail-page requests
 
@@ -22,38 +30,43 @@ def clean_text(text):
     if not text:
         return None
 
-    text = text.strip()
+    text = re.sub(r"\s+", " ", text).strip()
     return text or None
 
 
-def get_snapshot(session):
+def get_catalog_snapshot(session):
     response = session.get(LISTING_URL, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
 
     html = response.text
 
-    match = re.search(r'wire:initial-data="({.*?})"\s+wire:init', html)
     csrf_match = re.search(r'name="csrf-token" content="([^"]+)"', html)
+    update_match = re.search(r'data-update-uri="([^"]+)"', html)
 
-    if not match or not csrf_match:
+    snapshot = None
+    for raw in re.findall(r'wire:snapshot="([^"]+)"', html):
+        candidate = unescape(raw)
+        if json.loads(candidate).get("memo", {}).get("name") == CATALOG_COMPONENT:
+            snapshot = candidate
+            break
+
+    if not (csrf_match and update_match and snapshot):
         return None, None, None
 
-    import json
-    from html import unescape
-
-    data = json.loads(unescape(match.group(1)))
-
-    return data["fingerprint"], data["serverMemo"], csrf_match.group(1)
+    return snapshot, csrf_match.group(1), update_match.group(1)
 
 
-def call_livewire(session, csrf_token, fingerprint, server_memo, method):
+def call_livewire(session, update_url, csrf_token, snapshot, calls=(), updates=None):
     payload = {
-        "fingerprint": fingerprint,
-        "serverMemo": server_memo,
-        "updates": [
+        "_token": csrf_token,
+        "components": [
             {
-                "type": "callMethod",
-                "payload": {"id": method, "method": method, "params": []},
+                "snapshot": snapshot,
+                "updates": updates or {},
+                "calls": [
+                    {"path": "", "method": method, "params": params}
+                    for method, params in calls
+                ],
             }
         ],
     }
@@ -61,130 +74,116 @@ def call_livewire(session, csrf_token, fingerprint, server_memo, method):
     headers = {
         **HEADERS,
         "Content-Type": "application/json",
-        "X-Livewire": "true",
-        "X-CSRF-TOKEN": csrf_token,
-        "Accept": "application/json, text/html, */*; q=0.01",
+        "Accept": "application/json",
+        "X-Livewire": "",
         "Referer": LISTING_URL,
     }
 
     response = session.post(
-        LIVEWIRE_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT
+        update_url, headers=headers, json=payload, timeout=REQUEST_TIMEOUT
     )
     response.raise_for_status()
-    result = response.json()
 
-    updated_memo = dict(server_memo)
-    updated_memo["data"] = {**server_memo["data"], **result["serverMemo"]["data"]}
-    updated_memo["checksum"] = result["serverMemo"]["checksum"]
-    updated_memo["htmlHash"] = result["serverMemo"].get(
-        "htmlHash", server_memo.get("htmlHash")
-    )
+    component = response.json()["components"][0]
 
-    html = result.get("effects", {}).get("html")
-
-    return html, updated_memo
+    return component["snapshot"], component.get("effects", {}).get("html", "")
 
 
 def fetch_listing_html(session):
-    fingerprint, server_memo, csrf_token = get_snapshot(session)
+    snapshot, csrf_token, update_url = get_catalog_snapshot(session)
 
-    if not fingerprint:
-        print("Walmart: could not read Livewire snapshot; skipping.")
-        return []
+    if not snapshot:
+        raise RuntimeError("Walmart: could not read Livewire catalog snapshot")
 
-    html_pages = []
-
-    html, server_memo = call_livewire(
-        session, csrf_token, fingerprint, server_memo, "loadData"
+    snapshot, html = call_livewire(
+        session, update_url, csrf_token, snapshot, updates={"tipo": JOB_TYPE}
     )
 
-    if not html:
-        return []
-
-    html_pages.append(html)
-    seen_job_ids = set(re.findall(r"vacante/detalle/(\d+)/external", html))
+    # Each cargarMas response re-renders the whole list (all cards so far),
+    # so the last HTML holds every job.
+    seen = len(set(re.findall(r'data-id="(\d+)"', html)))
 
     for _ in range(MAX_LOAD_MORE):
-        html, server_memo = call_livewire(
-            session, csrf_token, fingerprint, server_memo, "loadMore"
+        snapshot, next_html = call_livewire(
+            session, update_url, csrf_token, snapshot, calls=[("cargarMas", [])]
         )
 
-        if not html:
+        count = len(set(re.findall(r'data-id="(\d+)"', next_html)))
+
+        if not next_html or count <= seen:
             break
 
-        job_ids = set(re.findall(r"vacante/detalle/(\d+)/external", html))
+        html, seen = next_html, count
 
-        if job_ids <= seen_job_ids:
-            break
-
-        seen_job_ids |= job_ids
-        html_pages.append(html)
-
-    return html_pages
+    return html
 
 
-def parse_listing_cards(html_pages):
+def parse_listing_cards(html):
+    soup = BeautifulSoup(html, "html.parser")
     cards_by_id = {}
 
-    for html in html_pages:
-        soup = BeautifulSoup(html, "html.parser")
+    for card in soup.select("article.job[data-id]"):
+        job_id = card["data-id"]
 
-        for card in soup.select("div.card.card-fill"):
-            link = card.find("a", href=True)
+        title = card.find("h3", class_="job-title")
+        area = card.find("span", class_="job-area")
+        meta = [
+            clean_text(li.get_text(" ", strip=True).split(" ", 1)[-1])
+            for li in card.select("ul.job-meta li")
+        ]
+        # meta items are "<icon name> <value>"; drop the icon word.
+        location = meta[0] if len(meta) > 0 else None
+        schedule_type = meta[1] if len(meta) > 1 else None
 
-            if not link:
-                continue
+        area_text = None
+        if area:
+            icon = area.find("span", class_="ms")
+            if icon:
+                icon.extract()
+            area_text = clean_text(area.get_text(" ", strip=True))
 
-            match = re.search(r"/vacante/detalle/(\d+)/external", link["href"])
-
-            if not match:
-                continue
-
-            job_id = match.group(1)
-
-            body = card.find("div", class_="card-body")
-            fields = list(body.stripped_strings) if body else []
-
-            title = fields[0] if len(fields) > 0 else None
-            team = fields[1] if len(fields) > 1 else None
-            location = fields[2] if len(fields) > 2 else None
-            schedule_type = fields[3] if len(fields) > 3 else None
-
-            cards_by_id[job_id] = {
-                "job_id": job_id,
-                "title": clean_text(title),
-                "team": clean_text(team),
-                "location": clean_text(location),
-                "schedule_type": clean_text(schedule_type),
-                "url": f"{BASE_URL}/vacante/detalle/{job_id}/external",
-            }
+        cards_by_id[job_id] = {
+            "job_id": job_id,
+            "title": clean_text(title.get_text(" ", strip=True)) if title else None,
+            "team": area_text,
+            "location": location,
+            "schedule_type": schedule_type,
+            "url": f"{BASE_URL}/vacantes/{job_id}",
+        }
 
     return list(cards_by_id.values())
 
 
-def get_accordion_text(soup, heading_text):
+def get_section_text(soup, heading_text):
     heading = soup.find(
-        lambda tag: tag.name == "div"
-        and heading_text in tag.get_text(strip=True)
-        and "col" in (tag.get("class") or [])
+        lambda tag: tag.name == "h2" and heading_text in tag.get_text(strip=True)
     )
 
     if not heading:
         return None
 
-    card_header = heading.find_parent("div", class_="card-header")
+    parts = []
+    for sibling in heading.find_all_next():
+        if sibling.name == "h2":
+            break
+        if sibling.name in ("p", "li"):
+            parts.append(sibling.get_text(" ", strip=True))
 
-    if not card_header:
-        return None
+    return clean_text("\n".join(parts))
 
-    collapse_div = card_header.find_next_sibling("div")
 
-    if not collapse_div:
-        return None
+def get_posted_date(soup):
+    for script in soup.find_all("script", type="application/ld+json"):
+        try:
+            data = json.loads(script.string or "")
+        except json.JSONDecodeError:
+            continue
 
-    paragraph = collapse_div.find("p")
+        if data.get("@type") == "JobPosting":
+            date = pd.to_datetime(data.get("datePosted"), errors="coerce", utc=True)
+            return date.strftime("%Y-%m-%d") if pd.notna(date) else None
 
-    return clean_text(paragraph.get_text(" ", strip=True)) if paragraph else None
+    return None
 
 
 def fetch_job_detail(session, url):
@@ -197,36 +196,19 @@ def fetch_job_detail(session, url):
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    description = None
-    heading = soup.find(
-        lambda tag: tag.name in ("h4", "h5")
-        and "Funciones del cargo" in tag.get_text(strip=True)
-    )
-
-    if heading:
-        container = heading.find_parent("div", class_="col-12")
-        paragraph = container.find("p") if container else None
-        description = clean_text(paragraph.get_text(" ", strip=True)) if paragraph else None
-
-    requirements = get_accordion_text(soup, "Requerimientos del cargo")
-    selection_process = get_accordion_text(soup, "Descripción del proceso de selección")
-
     return {
-        "description": description,
-        "requirements": requirements,
-        "selection_process": selection_process,
+        "description": get_section_text(soup, "Funciones del cargo"),
+        "requirements": get_section_text(soup, "Requerimientos del cargo"),
+        "selection_process": get_section_text(soup, "Proceso de selección"),
+        "posted_date": get_posted_date(soup),
     }
 
 
 def scrape_walmart():
     session = requests.Session()
 
-    html_pages = fetch_listing_html(session)
-
-    if not html_pages:
-        return pd.DataFrame()
-
-    listings = parse_listing_cards(html_pages)
+    html = fetch_listing_html(session)
+    listings = parse_listing_cards(html)
 
     if not listings:
         return pd.DataFrame()
@@ -251,6 +233,7 @@ def scrape_walmart():
 
             "job_category": listing["team"],
             "schedule_type": listing["schedule_type"],
+            "posted_date": detail.get("posted_date"),
 
             "url": listing["url"],
 
