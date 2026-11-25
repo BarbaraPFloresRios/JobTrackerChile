@@ -376,3 +376,21 @@ def scrape_entel():
         source="entel",
         company_fallback="Entel",
     )
+
+
+def scrape_bci():
+    return scrape_trabajando_portal(
+        host="bci.trabajando.cl",
+        id_dominio=13,
+        source="bci",
+        company_fallback="Bci",
+    )
+
+
+def scrape_bancochile():
+    return scrape_trabajando_portal(
+        host="bancodechile.trabajando.cl",
+        id_dominio=603,
+        source="bancochile",
+        company_fallback="Banco de Chile",
+    )

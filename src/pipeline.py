@@ -16,9 +16,10 @@ from scrapers.ripley import scrape_ripley
 from scrapers.unilever import scrape_unilever
 from scrapers.pedidosya import scrape_pedidosya
 from scrapers.rappi import scrape_rappi
-from scrapers.workday import scrape_pg
+from scrapers.workday import scrape_pg, scrape_santander
+from scrapers.teamtailor import scrape_tenpo
 from scrapers.loreal import scrape_loreal
-from scrapers.nestle import scrape_nestle
+from scrapers.successfactors import scrape_nestle, scrape_scotiabank
 from scrapers.trabajando import (
     scrape_smu,
     scrape_andina,
@@ -35,6 +36,8 @@ from scrapers.trabajando import (
     scrape_soprole,
     scrape_watts,
     scrape_entel,
+    scrape_bci,
+    scrape_bancochile,
 )
 
 RAW_DATA_DIR = "data/raw"
@@ -97,6 +100,26 @@ LOREAL_OUTPUT_PATH = (
 
 NESTLE_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/nestle_jobs.csv"
+)
+
+BCI_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/bci_jobs.csv"
+)
+
+BANCOCHILE_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/bancochile_jobs.csv"
+)
+
+SANTANDER_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/santander_jobs.csv"
+)
+
+SCOTIABANK_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/scotiabank_jobs.csv"
+)
+
+TENPO_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/tenpo_jobs.csv"
 )
 
 SMU_OUTPUT_PATH = (
@@ -418,6 +441,11 @@ def run_pipeline():
         ("P&G", scrape_pg, PG_OUTPUT_PATH),
         ("L'Oréal", scrape_loreal, LOREAL_OUTPUT_PATH),
         ("Nestlé", scrape_nestle, NESTLE_OUTPUT_PATH),
+        ("Bci", scrape_bci, BCI_OUTPUT_PATH),
+        ("Banco de Chile", scrape_bancochile, BANCOCHILE_OUTPUT_PATH),
+        ("Santander", scrape_santander, SANTANDER_OUTPUT_PATH),
+        ("Scotiabank", scrape_scotiabank, SCOTIABANK_OUTPUT_PATH),
+        ("Tenpo", scrape_tenpo, TENPO_OUTPUT_PATH),
     ]
 
     scraped_jobs = []

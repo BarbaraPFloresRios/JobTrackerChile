@@ -139,3 +139,13 @@ def scrape_pg():
         source="pg",
         company_name="P&G",
     )
+
+
+def scrape_santander():
+    return scrape_workday_site(
+        host="santander.wd3.myworkdayjobs.com",
+        tenant="santander",
+        site="SantanderCareers",
+        source="santander",
+        company_name="Santander",
+    )
