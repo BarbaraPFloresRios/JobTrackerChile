@@ -2,12 +2,16 @@ import time
 
 import pandas as pd
 import requests
+from requests.adapters import HTTPAdapter, Retry
 
 
 BASE_URL = "https://mercadolibre.eightfold.ai"
 SEARCH_URL = f"{BASE_URL}/api/pcsx/search"
 
-MAX_PAGES = 5
+# Search is filtered server-side by location=Chile (~100 jobs); before,
+# we scanned only the 50 newest jobs worldwide and kept the Chilean ones.
+LOCATION = "Chile"
+MAX_PAGES = 40  # safety cap (400 jobs)
 RESULTS_PER_PAGE = 10
 SLEEP_SECONDS = 1
 
@@ -36,16 +40,22 @@ def is_chile_job(standardized_locations):
 def scrape_mercadolibre():
     jobs = []
 
+    session = requests.Session()
+    session.mount("https://", HTTPAdapter(max_retries=Retry(
+        total=4, backoff_factor=2, status_forcelist=[429, 500, 502, 503, 504]
+    )))
+
     for page in range(MAX_PAGES):
         start = page * RESULTS_PER_PAGE
 
         try:
-            response = requests.get(
+            response = session.get(
                 SEARCH_URL,
                 params={
                     "domain": "mercadolibre.com",
                     "start": start,
                     "sort_by": "date",
+                    "location": LOCATION,
                 },
                 headers=HEADERS,
                 timeout=30,
