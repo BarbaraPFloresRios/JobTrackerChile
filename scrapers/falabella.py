@@ -10,6 +10,8 @@ SEARCH_URL = (
     "/bff-sgdt-job-offer/api/ofertalaboral/filter"
 )
 
+DETAIL_URL = "https://falabella.airavirtual.com/offer/{job_id}/detail"
+
 TARGET_COUNTRY = "Chile"
 
 MAX_PAGES = 30
@@ -125,7 +127,10 @@ def scrape_falabella():
                 "tags": job.get("tags") or None,
                 "handicap_allowed": job.get("handicap_allowed"),
 
-                "url": job.get("url"),
+                # The API's "url" is AIRA's apply/register link; link to the
+                # offer detail page instead and keep the apply link aside.
+                "url": DETAIL_URL.format(job_id=job_id),
+                "apply_url": job.get("url"),
 
                 "description_short": None,
                 "requirements": clean_html_text(job.get("requirements")),
