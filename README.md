@@ -8,31 +8,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [IT Strategy Analyst](https://falabella.airavirtual.com/postula/dovo4maGxPzLucaUMOG7?logged_action=apply&register=true) | Falabella Corporativo | Las Condes, Metropolitana, Chile | 0.5196 | 2026-10-15 |
-| [AI Go-to-Market Specialist SOLA, WWSO Latam](https://www.amazon.jobs/en/jobs/10583351/ai-go-to-market-specialist-sola-wwso-latam) | amazon | CL, RM, Comuna De Providencia | 0.5157 | 2026-10-19 |
-| [Product Specialist](https://falabella.airavirtual.com/postula/RdciqCzlzEvBHbEQiE1P?logged_action=apply&register=true) | Falabella Retail | Santiago, Metropolitana, Chile | 0.4897 | 2026-10-14 |
-| [Jefe/a Planificación de Demanda Sr](https://www.trabajaenccu.cl/trabajo/6137397-jefe-a-planificacion-de-demanda-sr) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4705 | 2026-10-16 |
-| [Ingeniero/a de Proyectos Logísticos](https://salcobrand.trabajando.cl/trabajo-empleo/ingeniero-a-de-proyectos-logisticos/trabajo/6137990) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4700 | 2026-10-19 |
-| [Administrador de Slotting y WMS](https://salcobrand.trabajando.cl/trabajo-empleo/administrador-de-slotting-y-wms/trabajo/6138072) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4671 | 2026-10-19 |
-| [Supervisor/a de Picking - San Bernardo ](https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-picking-san-bernardo/trabajo/6138081) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4648 | 2026-10-19 |
-| [Analista Contable (reemplazo pre y post natal)](https://salcobrand.trabajando.cl/trabajo-empleo/analista-contable-reemplazo-pre-y-post-natal/trabajo/6137903) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4557 | 2026-10-19 |
-| [Tech Lead](https://falabella.airavirtual.com/postula/q4Qp11g3YjVNZzMEs8XR?logged_action=apply&register=true) | Mallplaza | Huechuraba, Metropolitana, Chile | 0.4534 | 2026-10-15 |
-| [Analista Contable](https://salcobrand.trabajando.cl/trabajo-empleo/analista-contable/trabajo/6137214) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4530 | 2026-10-15 |
-| [ Supervisor/a de Seguridad Transporte - Turno Noche](https://salcobrand.trabajando.cl/trabajo-empleo/supervisor-a-de-seguridad-transporte-turno-noche/trabajo/6136778) | Empresas SB | San Bernardo, Metropolitana de Santiago | 0.4505 | 2026-10-15 |
-| [Product Manager Ecommerce categorías Growth](https://falabella.airavirtual.com/postula/x8JrvF4cqZFWGhYj2qTz?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4459 | 2026-10-16 |
-| [Analista de Atracción del Talento](https://salcobrand.trabajando.cl/trabajo-empleo/analista-de-atraccion-del-talento/trabajo/6137980) | Empresas SB | Santiago, Metropolitana de Santiago | 0.4437 | 2026-10-19 |
-| [Especialista de Data & Business Intelligence para Marketing](https://mercadolibre.eightfold.ai/careers/job/44954655) | mercadolibre | Región Metropolitana de Santiago,Chile | 0.4436 | 2026-10-14 |
-| [Project Manager](https://falabella.airavirtual.com/postula/RUVaBLro5jxTMFOyuAFD?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4436 | 2026-10-17 |
-| [NW Deployment Build Lead I, Data Center Operations](https://www.amazon.jobs/en/jobs/10578194/nw-deployment-build-lead-i-data-center-operations) | amazon | CL, Santiago | 0.4398 | 2026-10-14 |
-| [Principal IT Specialist](https://falabella.airavirtual.com/postula/fU08RY73JXlMwwDuMxvp?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4373 | 2026-10-19 |
-| [Analista Operaciones Marketplace Internacional](https://falabella.airavirtual.com/postula/YZMNHIXKwuiKzlB8MYLz?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4323 | 2026-10-19 |
-| [Project Manager](https://falabella.airavirtual.com/postula/MezQeZzTg2CDFzEktJ5f?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4311 | 2026-10-17 |
-| [Ayudante de cocina Full time 42 Hrs 5x2/ IKEA Parque Arauco](https://falabella.airavirtual.com/postula/QP9SkiHvOqRiuN64KArg?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4311 | 2026-10-16 |
-| [Coordinador/a de Distribución - Rancagua](https://www.trabajaenccu.cl/trabajo/6138159-coordinador-a-de-distribucion-rancagua) | CCU | Rancagua, Lib. Gral. Bdo. O'Higgins, Chile | 0.4302 | 2026-10-19 |
-| [Operario Multifuncional (turno mañana, tarde y noche)  - Renca](https://pf.trabajando.cl/trabajo-empleo/operario-multifuncional-turno-manana-tarde-y-noche-renca/trabajo/6136549) | PF Alimentos | Renca, Metropolitana de Santiago | 0.4296 | 2026-10-14 |
-| [Operario Multifuncional (turno Noche) - Puerto Montt (Puerta Sur, Bosque mar, Mirasol)](https://pf.trabajando.cl/trabajo-empleo/operario-multifuncional-turno-noche-puerto-montt-puerta-sur-bosque-mar-mirasol/trabajo/6136641) | PF Alimentos | Puerto Montt, Los Lagos | 0.4293 | 2026-10-14 |
-| [Ayudante de cocina 20hrs sáb, dom y fest/ IKEA Parque Arauco](https://falabella.airavirtual.com/postula/YvXBKsM3oZLJYenFV6OU?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4278 | 2026-10-16 |
-| [Asistente de Visual Angol](https://tricot.trabajando.cl/trabajo-empleo/asistente-de-visual-angol/trabajo/6138301) | Tricot S.A. | Angol, La Araucanía | 0.4263 | 2026-10-19 |
+| [Applied Scientist](https://falabella.airavirtual.com/postula/l82Sc14UPC16I3VzSeEs?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.5535 | 2026-11-25 |
+| [Senior Data Engineer](https://falabella.airavirtual.com/postula/dFCf3hL9uMHE9l57mvnq?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.5408 | 2026-11-25 |
+| [Ingeniero/a de Información y Analítica - Quilicura](https://www.trabajaenccu.cl/trabajo/6153595-ingeniero-a-de-informacion-y-analitica-quilicura) | CCU | Quilicura, Metropolitana de Santiago, Chile | 0.5139 | 2026-11-25 |
+| [Analista de Gestión Comercial](https://www.trabajaenccu.cl/trabajo/6146776-analista-de-gestion-comercial) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5069 | 2026-11-25 |
+| [Especialista CPFR (cuenta Walmart) - Las Condes](https://www.trabajaenccu.cl/trabajo/6143039-especialista-cpfr-cuenta-walmart-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.5033 | 2026-11-25 |
+| [Analista de Inventario Warehouse Chile](https://falabella.airavirtual.com/postula/1zZa1oU6HRT9ndDAOJSz?logged_action=apply&register=true) | IKEA | Pudahuel, Metropolitana, Chile | 0.4973 | 2026-11-25 |
+| [Project Manager Digitalización](https://falabella.airavirtual.com/postula/4K4ki9tQsvAzldnNrsdn?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4970 | 2026-11-25 |
+| [Senior Data Scientist](https://falabella.airavirtual.com/postula/ZQS3fM5d8zzH0RZxp9l1?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4958 | 2026-11-25 |
+| [Planner de Coordinación Operacional - San Bernardo (Proyecto)](https://salcobrand.trabajando.cl/trabajo-empleo/planner-de-coordinacion-operacional-san-bernardo-proyecto/trabajo/6153214) | Salcobrand | San Bernardo, Metropolitana de Santiago | 0.4950 | 2026-11-25 |
+| [Data Scientist Senior](https://falabella.airavirtual.com/postula/6MBy6Wyhqj2fFrPgADIZ?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4943 | 2026-11-25 |
+| [Senior Data Scientist](https://falabella.airavirtual.com/postula/fOD56pkDRVKguxDYglbN?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4938 | 2026-11-25 |
+| [Project Manager Store Planning](https://falabella.airavirtual.com/postula/Pm4MxNVO7UdIokogYGs4?logged_action=apply&register=true) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.4914 | 2026-11-25 |
+| [Ingeniero/a de ciberseguridad - Las Condes](https://www.trabajaenccu.cl/trabajo/6148190-ingeniero-a-de-ciberseguridad-las-condes) | CCU | Las Condes, Metropolitana de Santiago, Chile | 0.4875 | 2026-11-25 |
+| [Senior Software Engineer Full Stack](https://falabella.airavirtual.com/postula/T0b5SbrtwJQ5naL418sQ?logged_action=apply&register=true) | IKEA | Las Condes, Metropolitana, Chile | 0.4859 | 2026-11-25 |
+| [Planner & Sales Operation Caterpillar ](https://forus.trabajando.cl/trabajo-empleo/planner-sales-operation-caterpillar/trabajo/6144495) | Forus S.A. | Las Condes, Metropolitana de Santiago | 0.4856 | 2026-11-25 |
+| [Data Scientist](https://falabella.airavirtual.com/postula/9dOFts2rA6HhgwWkk8De?logged_action=apply&register=true) | Sodimac | Las Condes, Metropolitana, Chile | 0.4846 | 2026-11-25 |
+| [Product Specialist](https://falabella.airavirtual.com/postula/Lg9eSAPD76aqu0ofZpMp?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4831 | 2026-11-25 |
+| [Category Manager Consumo - Pre y post natal](https://salcobrand.trabajando.cl/trabajo-empleo/category-manager-consumo-pre-y-post-natal/trabajo/6153187) | Medcell | Las Condes, Metropolitana de Santiago | 0.4828 | 2026-11-25 |
+| [Data Engineer Junior (modalidad hibrida)](https://embonor.trabajando.cl/trabajo-empleo/data-engineer-junior-modalidad-hibrida/trabajo/6139448) | Coca-Cola Embonor | Las Condes, Metropolitana de Santiago | 0.4827 | 2026-11-25 |
+| [Product Analyst](https://falabella.airavirtual.com/postula/S7kNxI82wQoskNsWmYdP?logged_action=apply&register=true) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4794 | 2026-11-25 |
+| [Category Manager Tecno - Electro](https://abcdin.trabajando.cl/trabajo-empleo/category-manager-tecno-electro/trabajo/6144017) | abc | Santiago, Metropolitana de Santiago | 0.4790 | 2026-11-25 |
+| [Ingeniero Diseño y Desarrollo Sistémico](https://falabella.airavirtual.com/postula/jix6Wy7giP6s4TpVmTnS?logged_action=apply&register=true) | Sodimac | Lo Espejo, Metropolitana, Chile | 0.4786 | 2026-11-25 |
+| [Planificador de Enología Cachapoal Andes 2027](https://www.trabajaenccu.cl/trabajo/6141782-planificador-de-enologia-cachapoal-andes-2027) | CCU | O'Higgins, Aysén, Chile | 0.4767 | 2026-11-25 |
+| [Product Manager Columbia  ](https://forus.trabajando.cl/trabajo-empleo/product-manager-columbia/trabajo/6141396) | Forus S.A. | Las Condes, Metropolitana de Santiago | 0.4738 | 2026-11-25 |
+| [Gerente/Administrador Retail Quinta Normal](https://smu.trabajando.cl/trabajo-empleo/gerente-administrador-retail-quinta-normal/trabajo/6152086) | SMU | Quinta Normal, Metropolitana de Santiago | 0.4736 | 2026-11-25 |
 
 # About
 
