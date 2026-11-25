@@ -15,7 +15,9 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-MODEL_NAME = "all-MiniLM-L6-v2"
+# Multilingual: most Chilean postings are in Spanish; the English-only
+# all-MiniLM-L6-v2 ranked English postings high regardless of role.
+MODEL_NAME = "paraphrase-multilingual-MiniLM-L12-v2"
 PROFILE_PATH = Path("data/profile/job_matching_profile.txt")
 
 EXCLUDED_COLUMNS = {
