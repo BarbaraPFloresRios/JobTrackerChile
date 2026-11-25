@@ -367,3 +367,12 @@ def scrape_watts():
         source="watts",
         company_fallback="Watts",
     )
+
+
+def scrape_entel():
+    return scrape_trabajando_portal(
+        host="entel.trabajando.cl",
+        id_dominio=96,
+        source="entel",
+        company_fallback="Entel",
+    )

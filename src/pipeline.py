@@ -14,6 +14,11 @@ from scrapers.walmart import scrape_walmart
 from scrapers.ccu import scrape_ccu
 from scrapers.ripley import scrape_ripley
 from scrapers.unilever import scrape_unilever
+from scrapers.pedidosya import scrape_pedidosya
+from scrapers.rappi import scrape_rappi
+from scrapers.workday import scrape_pg
+from scrapers.loreal import scrape_loreal
+from scrapers.nestle import scrape_nestle
 from scrapers.trabajando import (
     scrape_smu,
     scrape_andina,
@@ -29,6 +34,7 @@ from scrapers.trabajando import (
     scrape_casaideas,
     scrape_soprole,
     scrape_watts,
+    scrape_entel,
 )
 
 RAW_DATA_DIR = "data/raw"
@@ -67,6 +73,30 @@ RIPLEY_OUTPUT_PATH = (
 
 UNILEVER_OUTPUT_PATH = (
     f"{RAW_DATA_DIR}/unilever_jobs.csv"
+)
+
+ENTEL_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/entel_jobs.csv"
+)
+
+PEDIDOSYA_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/pedidosya_jobs.csv"
+)
+
+RAPPI_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/rappi_jobs.csv"
+)
+
+PG_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/pg_jobs.csv"
+)
+
+LOREAL_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/loreal_jobs.csv"
+)
+
+NESTLE_OUTPUT_PATH = (
+    f"{RAW_DATA_DIR}/nestle_jobs.csv"
 )
 
 SMU_OUTPUT_PATH = (
@@ -382,6 +412,12 @@ def run_pipeline():
         ("Casaideas", scrape_casaideas, CASAIDEAS_OUTPUT_PATH),
         ("Soprole", scrape_soprole, SOPROLE_OUTPUT_PATH),
         ("Watts", scrape_watts, WATTS_OUTPUT_PATH),
+        ("Entel", scrape_entel, ENTEL_OUTPUT_PATH),
+        ("PedidosYa", scrape_pedidosya, PEDIDOSYA_OUTPUT_PATH),
+        ("Rappi", scrape_rappi, RAPPI_OUTPUT_PATH),
+        ("P&G", scrape_pg, PG_OUTPUT_PATH),
+        ("L'Oréal", scrape_loreal, LOREAL_OUTPUT_PATH),
+        ("Nestlé", scrape_nestle, NESTLE_OUTPUT_PATH),
     ]
 
     scraped_jobs = []
