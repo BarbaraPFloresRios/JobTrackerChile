@@ -1,34 +1,34 @@
 Candidate profile for semantic job matching
 
 Core experience:
-Demand Planner y Allocator with 5 years of experience in demand forecasting, inventory management, and product allocation in the retail and consumer electronics industries.
+Digital marketing professional with 10+ years of experience in e-commerce, CRM, growth marketing, personalization, email marketing, site merchandising, and customer acquisition and retention strategies. Turns marketing metrics into strategic decisions that drive conversion, engagement, and revenue.
 
 Recent experience:
-Demand Planner at LG Electronics, responsible for demand planning for Televisions, Audio, Video, and Monitors categories. Built demand plans based on historical data, market trends, and promotional activities, coordinating with Sales, Marketing, and Supply Chain teams. Monitored and managed inventory levels to minimize stockouts and overstock, improving service levels and operational efficiency.
+Senior Site Merchandising Analyst at Mercado Libre (marketplace e-commerce), managing the commercial and visual merchandising of the site: home page, landing pages, banners, campaigns, and product placement. Optimizes conversion funnels, A/B tests content and placements, coordinates with Commercial, Marketing, UX, and Product teams, and plans campaigns for key commercial events. Previously Semi Senior Site Merchandising Analyst at Mercado Libre.
 
 Previous experience:
-Allocator at Levi Strauss & Co., managing inventory allocation for Dockers and Kids categories, implementing allocation strategies to optimize inventory across points of sale, and developing inventory forecasts to support commercial decisions. Demand Planner at Sodimac Chile, working with the commercial team to meet sales plans, managing imported product demand forecasting and inventory planning up to 24 weeks in advance, and supporting replenishment of imported and national products in stores.
+Product Manager Personalization at Falabella.com / Linio, leading on-site and CRM personalization, recommendation strategies, and customer journeys for e-commerce. Growth Hacker at Linio, running acquisition and retention experiments, conversion rate optimization (CRO), and growth initiatives across digital channels. CRM Analyst at Linio, building email marketing campaigns, segmentation, automated flows, triggers, and lifecycle marketing. Market Intelligence and Customer Experience lead at a real estate company, running market research, customer satisfaction and NPS measurement. Customer Intelligence Analyst at a CRM and loyalty consultancy. Early experience as a marketing intern at Procter & Gamble.
 
 Education:
-Ingeniería Civil Industrial from Universidad Técnica Federico Santa María. Teaching assistant for Operations Management, Multivariable Calculus, and Real Estate Project Evaluation.
+Ingeniero Comercial (Business Administration) with distinction, major in Marketing and Sales. Master's in Strategic Communication, Marketing and Business. Diploma in Customer Intelligence and Data Mining. Courses in Digital User Experience (UX) and Applied Artificial Intelligence for Digital Marketing.
 
-Technical skills:
-Python, SQL, Excel, Pandas, Tableau, Power BI, ERP Systems, Statistical Modeling, Demand Forecasting, Inventory Planning, Inventory Allocation, Supply Chain Planning, Supply Chain Analytics, Sales & Operations Planning (S&OP), Demand Analysis, Data Visualization.
+Skills:
+CRM, email marketing, marketing automation, automated flows and customer journeys, lifecycle marketing, segmentation, personalization, recommendation engines, e-commerce, marketplace, site merchandising, conversion rate optimization (CRO), A/B testing, growth marketing, performance marketing, digital marketing, customer acquisition, customer retention, loyalty, UX and customer experience, market research, Google Analytics, SQL, marketing strategy, campaign planning, AI tools for marketing.
 
 Strong fit roles:
-Demand Planner, Allocator, Inventory Planner, Supply Chain Planner, Sales & Operations Planning Analyst, Demand Forecasting Analyst, Inventory Analyst, Replenishment Analyst, Supply Chain Analyst, Category Planner.
+CRM Specialist, CRM Manager, CRM Lead, Lifecycle Marketing Manager, Email Marketing Manager, Marketing Automation Specialist, E-commerce Manager, E-commerce Specialist, Site Merchandising Lead, Digital Marketing Manager, Growth Marketing Manager, Growth Lead, Personalization Manager, Retention Manager, Loyalty Manager, Customer Marketing Manager, Conversion Optimization Specialist, Product Manager E-commerce, Head of CRM, Head of E-commerce, Jefe de CRM, Especialista CRM, Jefe de E-commerce, Especialista Marketing Digital, Jefe de Marketing Digital, Subgerente de Marketing, Product Owner E-commerce.
 
 Current interests:
-Demand forecasting for retail and consumer electronics, inventory optimization, S&OP process improvement, data-driven allocation strategies, and supply chain analytics tools.
+CRM and lifecycle strategy, marketing automation and customer flows, personalization, e-commerce growth and conversion optimization, retention and loyalty programs, and practical use of AI in marketing.
 
 Preferred work:
-Roles combining quantitative forecasting with commercial decision-making, working closely with Sales, Marketing, and Supply Chain teams to balance product availability and inventory efficiency.
+Marketing roles combining strategy and execution in e-commerce, retail, marketplace, or consumer brands, with ownership of CRM, digital channels, customer journeys, or site experience, working with Commercial, Product, UX, and Tech teams.
 
 Preferred seniority:
-Early-career to mid-level individual contributor roles, with strong alignment to hands-on demand planning, allocation, and inventory management responsibilities.
+Specialist, senior specialist, lead, manager, or head-level roles (Especialista, Jefe, Subgerente, Gerente). Not junior, analyst-entry, or internship roles.
 
 Lower priority roles:
-Pure logistics/transportation operations roles with no forecasting or planning component, warehouse operations management, procurement-only roles, and roles unrelated to retail or consumer goods demand planning.
+Finance, accounting, data science, data engineering, BI or pure data analyst roles, software engineering, logistics, supply chain, store operations, sales representatives, customer service, and teaching roles.
 
 Job search preferences:
-Prefer positions with strong alignment to existing demand planning and allocation experience, retail or consumer electronics industry focus, and clear ownership of forecasting or inventory decisions.
+Prefer positions in marketing, CRM, e-commerce, and digital growth, with clear ownership of customer acquisition, retention, automation flows, or conversion optimization.
