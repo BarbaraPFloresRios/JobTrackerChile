@@ -1,0 +1,34 @@
+title,team,location,city,job_id,source,first_seen_date,last_seen_date,semantic_similarity,company_name,country,url,description_short,description,level
+Operations Analyst,Supply Chain,"Santiago, Chile",Santiago,JC000301,rappi,2026-11-26,2026-11-26,0.347,Rappi,Chile,https://careers.rappi.com/es/careers/cfec5c0f-6c89-4cd6-bfdd-b97ee5b66a70,¿Te apasiona transformar datos en decisiones estratégicas? 💼,"¿Te apasiona transformar datos en decisiones estratégicas? 💼
+Ejecutar tareas de Operations Analyst en Rappi, aprendiendo y contribuyendo al equipo con calidad creciente y ownership sobre los resultados.
+1. Ownership de KPIs y operación en vivo
+Encargado de apoyar al cumplimiento de los KPIs de la vertical: tiempo total de entrega, cancel rate, defect rate, adopción y releases.
+Gestión activa de los tramos operativos: Assign, To Store, RT Waiting Time y Delivery Time.
+Monitoreo en tiempo real de cobertura de tiendas, órdenes con releases altos y restaurantes con RT Waiting elevado; decide apagar tiendas desviadas o activar palancas de saturación.
+Lidera la apertura y cierre de turno: handoff, bitácora, consolidación de incidencias y registro de métricas clave (adopción por hora).
+2. Liderazgo del soporte en vivo
+Coordina y entrena a los agentes de soporte (full y part time): turnos, estándares de respuesta y calidad de atención.
+Define y mejora el tiempo promedio de respuesta a repartidores y aliados por WhatsApp.
+Escala y documenta causa raíz de incidencias críticas: caídas de app, fallas de incentivos, pagos de ganancias y errores del algoritmo de asignación.
+Atiende directamente casos complejos de repartidores y restaurantes cuando la operación lo requiere.
+3. Estrategia de flota de repartidores
+Captación y activación: campañas de convocatoria y contacto masivo a postulantes, RTs externos y reactivados.
+Performance: ranking semanal, plan de mejora para RTs con oportunidad, limpieza de base y reactivación de churn.
+Relación con voceros de zona y búsqueda de eficiencias de productividad y distancia por zona turbo.
+4. Terreno, marcas y reportería comercial
+Visitas a marcas y zonas foco: auditorías a RTs, oportunidades de mejora y apoyo en pilotos de nuevas tecnologías.
+Reunión operativa semanal con KAMs/AGMs: métricas generales y marcas con peor desempeño, cerrando con accionables y seguimiento.
+Auditorías y reportes como insumo para decisiones comerciales; hallazgos semanales en Slack.
+Automatización de reportes y flujos operativos, incluyendo uso de IA.
+2-3  años en operaciones, logística last-mile, quick commerce o delivery.
+Experiencia liderando equipos operativos o de soporte (presencial o remoto) y gestionando flota de repartidores.
+Track record gestionando SLAs de entrega y diseñando incentivos para fuerzas de trabajo distribuidas.
+Experiencia trabajando con equipos comerciales, transformando datos operativos en accionables de negocio.
+Hojas de Cálculo (Excel, Google Sheets) | Intermedio
+BI y Visualización de Datos (Power BI, Looker) | Intermedio
+Gestión de Bases de Datos (SQL, MySQL, PostgreSQL) | Intermedio
+Gestión de Proyectos
+Análisis de Datos
+Google Maps / Herramientas de Geolocalización
+Gestión de Pipeline y Procesos
+Deseable: Automatización de flujos, uso de IA aplicada a operaciones, WhatsApp Business a escala.",9
