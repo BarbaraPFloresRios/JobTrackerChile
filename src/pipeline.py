@@ -500,7 +500,13 @@ def run_pipeline():
     print_phase("Processing results")
 
     for company, jobs, output_path in scraped_jobs:
-        save_jobs(jobs, output_path, company)
+        # One bad CSV (e.g. a botched merge) must not abort the whole run.
+        try:
+            save_jobs(jobs, output_path, company)
+        except Exception as error:
+            print(f"ERROR saving {company}: {error}")
+            if company not in failed_companies:
+                failed_companies.append(company)
 
     print_phase("Exporting recent jobs")
 

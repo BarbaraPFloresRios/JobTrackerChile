@@ -4,6 +4,7 @@ from html import unescape
 
 import requests
 import pandas as pd
+from requests.adapters import HTTPAdapter, Retry
 
 # Shared engine for Workday candidate sites (myworkdayjobs.com). Each site
 # exposes public JSON endpoints:
@@ -14,8 +15,18 @@ import pandas as pd
 REQUEST_TIMEOUT = 30
 PAGE_SIZE = 20  # Workday caps page size at 20
 MAX_PAGES = 50
-SLEEP_SECONDS = 0.3
+SLEEP_SECONDS = 1.0
 TARGET_COUNTRY = "Chile"
+
+# Workday rate-limits GitHub runner IPs (429). Retry with exponential
+# backoff (honoring Retry-After), including on the POST search endpoint.
+RETRY = Retry(
+    total=6,
+    backoff_factor=5,  # 5, 10, 20, 40, 80 s
+    status_forcelist=[429, 500, 502, 503, 504],
+    allowed_methods=["GET", "POST"],
+    respect_retry_after_header=True,
+)
 
 HEADERS = {
     "Accept": "application/json",
@@ -52,6 +63,7 @@ def find_country_facet(facets, country):
 def scrape_workday_site(host, tenant, site, source, company_name):
     session = requests.Session()
     session.headers.update(HEADERS)
+    session.mount("https://", HTTPAdapter(max_retries=RETRY))
 
     api = f"https://{host}/wday/cxs/{tenant}/{site}"
 
