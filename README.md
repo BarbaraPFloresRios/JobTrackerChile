@@ -30,9 +30,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Senior Product Owner](https://falabella.airavirtual.com/offer/626458/detail) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.5044 | 2026-11-25 |
 | [Product Analyst](https://falabella.airavirtual.com/offer/627772/detail) | Falabella Retail | Las Condes, Metropolitana, Chile | 0.5044 | 2026-11-25 |
 | [Diseñador Marketing Digital](https://ripley.csod.com/ux/ats/careersite/4/home/requisition/35408?c=ripley) | Ripley | nan | 0.5009 | 2026-11-25 |
+| [Digital Product Manager](https://falabella.airavirtual.com/offer/628168/detail) | Banco Falabella | Las Condes, Metropolitana, Chile | 0.4998 | 2026-11-25 |
 | [Product Analyst](https://falabella.airavirtual.com/offer/630755/detail) | Falabella Corporativo | Santiago, Metropolitana, Chile | 0.4978 | 2026-11-26 |
 | [Product Analyst](https://falabella.airavirtual.com/offer/626859/detail) | Falabella Retail | Santiago, Metropolitana, Chile | 0.4968 | 2026-11-25 |
-| [Product Manager Marketing](https://smu.trabajando.cl/trabajo-empleo/product-manager-marketing/trabajo/6149029) | SMU | Las Condes, Metropolitana de Santiago | 0.4966 | 2026-11-25 |
 
 # About
 
